@@ -6,8 +6,8 @@ Created on Wed Jan 28 09:43:48 2026
 """
 
 import pandas as pd
-data1=pd.read_csv('C:/Users/User/Documents/Projects/DE_Final_project/scrabed_data.csv')
-data2=pd.read_csv('C:/Users/User/Documents/Projects/DE_Final_project/scrabed_data_test.csv')
+data1=pd.read_csv('scrabed_data.csv')
+data2=pd.read_csv('scrabed_data_test.csv')
 
 CombinedData=pd.concat([data1,data2])
 describe=CombinedData.describe(include='all')
@@ -45,3 +45,4 @@ CopyData["wind speed2"] = CopyData["wind speed"].str.replace("km/h", "")
 
 # CopyData["wind speed2"] = CopyData["wind speed2"].str.replace("No wind", 0)
 print(CopyData["wind speed2"].dtypes)
+
