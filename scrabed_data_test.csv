@@ -1,0 +1,2845 @@
+time,temperature,status,wind speed,direction,Humidity,Barometer,Visibility,date
+"00:00Mon, 1 Jan",9 °C,Clear.,No wind,↑,93%,1022 mbar,3 km,20240101
+03:00,8 °C,Clear.,No wind,↑,95%,1022 mbar,2 km,20240101
+06:00,7 °C,Clear.,2 km/h,↑,96%,1022 mbar,2 km,20240101
+09:00,7 °C,Fog.,No wind,↑,95%,1024 mbar,2 km,20240101
+12:00,12 °C,Scattered clouds.,7 km/h,↑,82%,1024 mbar,4 km,20240101
+15:00,16 °C,Haze.,9 km/h,↑,60%,1021 mbar,7 km,20240101
+18:00,14 °C,Passing clouds.,No wind,↑,66%,1021 mbar,7 km,20240101
+21:00,11 °C,Passing clouds.,6 km/h,↑,74%,1022 mbar,7 km,20240101
+"00:00Tue, 2 Jan",10 °C,Passing clouds.,No wind,↑,78%,1021 mbar,7 km,20240102
+03:00,10 °C,Passing clouds.,No wind,↑,73%,1020 mbar,10 km,20240102
+06:00,9 °C,Passing clouds.,No wind,↑,79%,1020 mbar,8 km,20240102
+09:00,8 °C,Fog.,No wind,↑,87%,1022 mbar,4 km,20240102
+12:00,12 °C,Partly sunny.,2 km/h,↑,74%,1021 mbar,3 km,20240102
+15:00,15 °C,Scattered clouds.,No wind,↑,60%,1019 mbar,5 km,20240102
+18:00,14 °C,Passing clouds.,11 km/h,↑,66%,1021 mbar,6 km,20240102
+21:00,11 °C,Passing clouds.,15 km/h,↑,86%,1023 mbar,5 km,20240102
+"00:00Wed, 3 Jan",10 °C,Passing clouds.,N/A,↑,84%,1022 mbar,4 km,20240103
+03:00,10 °C,Passing clouds.,7 km/h,↑,88%,1022 mbar,4 km,20240103
+06:00,10 °C,Fog.,6 km/h,↑,88%,1021 mbar,5 km,20240103
+09:00,11 °C,Fog.,6 km/h,↑,91%,1022 mbar,4 km,20240103
+12:00,15 °C,Fog.,15 km/h,↑,67%,1020 mbar,7 km,20240103
+15:00,15 °C,Partly sunny.,17 km/h,↑,66%,1020 mbar,8 km,20240103
+18:00,14 °C,Passing clouds.,7 km/h,↑,72%,1020 mbar,8 km,20240103
+21:00,10 °C,Fog.,No wind,↑,90%,1022 mbar,7 km,20240103
+"00:00Thu, 4 Jan",10 °C,Fog.,4 km/h,↑,93%,1022 mbar,5 km,20240104
+03:00,10 °C,Fog.,No wind,↑,94%,1021 mbar,4 km,20240104
+06:00,11 °C,Fog.,No wind,↑,91%,1020 mbar,4 km,20240104
+09:00,11 °C,Fog.,4 km/h,↑,88%,1022 mbar,4 km,20240104
+12:00,16 °C,Haze.,7 km/h,↑,57%,1021 mbar,8 km,20240104
+15:00,16 °C,Partly sunny.,2 km/h,↑,50%,1019 mbar,10 km,20240104
+18:00,15 °C,Haze.,9 km/h,↑,57%,1019 mbar,8 km,20240104
+21:00,12 °C,Clear.,No wind,↑,77%,1021 mbar,10 km,20240104
+"00:00Fri, 5 Jan",11 °C,Fog.,No wind,↑,88%,1020 mbar,7 km,20240105
+03:00,9 °C,Fog.,2 km/h,↑,91%,1020 mbar,7 km,20240105
+06:00,8 °C,Fog.,No wind,↑,95%,1021 mbar,5 km,20240105
+09:00,11 °C,Haze.,6 km/h,↑,80%,1021 mbar,7 km,20240105
+12:00,15 °C,Scattered clouds.,11 km/h,↑,65%,1022 mbar,10 km,20240105
+15:00,16 °C,Partly sunny.,19 km/h,↑,67%,1020 mbar,8 km,20240105
+18:00,14 °C,Haze.,15 km/h,↑,74%,1022 mbar,8 km,20240105
+21:00,12 °C,Passing clouds.,13 km/h,↑,84%,1022 mbar,8 km,20240105
+"00:00Sat, 6 Jan",11 °C,Fog.,No wind,↑,86%,1022 mbar,8 km,20240106
+03:00,10 °C,Fog.,No wind,↑,89%,1022 mbar,8 km,20240106
+06:00,10 °C,Fog.,6 km/h,↑,88%,1023 mbar,6 km,20240106
+09:00,10 °C,Fog.,2 km/h,↑,90%,1025 mbar,4 km,20240106
+12:00,15 °C,Partly sunny.,6 km/h,↑,77%,1025 mbar,5 km,20240106
+15:00,17 °C,Scattered clouds.,15 km/h,↑,56%,1022 mbar,8 km,20240106
+18:00,16 °C,Passing clouds.,11 km/h,↑,60%,1023 mbar,6 km,20240106
+21:00,13 °C,Haze.,9 km/h,↑,67%,1024 mbar,7 km,20240106
+"00:00Sun, 7 Jan",13 °C,Haze.,9 km/h,↑,65%,1023 mbar,7 km,20240107
+03:00,12 °C,Haze.,9 km/h,↑,61%,1022 mbar,7 km,20240107
+06:00,10 °C,Clear.,6 km/h,↑,70%,1022 mbar,7 km,20240107
+09:00,9 °C,Haze.,4 km/h,↑,79%,1024 mbar,5 km,20240107
+15:00,20 °C,Sunny.,15 km/h,↑,47%,1018 mbar,5 km,20240107
+18:00,20 °C,Passing clouds.,13 km/h,↑,42%,1018 mbar,5 km,20240107
+21:00,14 °C,Haze.,No wind,↑,62%,1020 mbar,4 km,20240107
+"00:00Mon, 8 Jan",13 °C,Clear.,No wind,↑,67%,1020 mbar,4 km,20240108
+03:00,12 °C,Haze.,No wind,↑,68%,1018 mbar,4 km,20240108
+06:00,9 °C,Haze.,No wind,↑,81%,1019 mbar,5 km,20240108
+09:00,9 °C,Partly sunny.,No wind,↑,80%,1021 mbar,4 km,20240108
+12:00,16 °C,Partly sunny.,7 km/h,↑,61%,1020 mbar,4 km,20240108
+15:00,20 °C,Partly sunny.,13 km/h,↑,32%,1018 mbar,6 km,20240108
+18:00,18 °C,Passing clouds.,9 km/h,↑,37%,1019 mbar,6 km,20240108
+21:00,13 °C,Haze.,No wind,↑,58%,1020 mbar,7 km,20240108
+"00:00Tue, 9 Jan",11 °C,Clear.,4 km/h,↑,67%,1019 mbar,7 km,20240109
+03:00,10 °C,Clear.,No wind,↑,68%,1017 mbar,7 km,20240109
+06:00,10 °C,Clear.,No wind,↑,67%,1016 mbar,10 km,20240109
+09:00,9 °C,Scattered clouds.,2 km/h,↑,75%,1017 mbar,4 km,20240109
+12:00,20 °C,Sunny.,7 km/h,↑,38%,1015 mbar,6 km,20240109
+15:00,19 °C,Haze.,24 km/h,↑,35%,1014 mbar,8 km,20240109
+18:00,15 °C,Clear.,15 km/h,↑,54%,1016 mbar,6 km,20240109
+21:00,13 °C,Clear.,15 km/h,↑,69%,1018 mbar,6 km,20240109
+"00:00Wed, 10 Jan",11 °C,Clear.,15 km/h,↑,77%,1017 mbar,4 km,20240110
+03:00,10 °C,Clear.,7 km/h,↑,75%,1016 mbar,4 km,20240110
+06:00,10 °C,Passing clouds.,13 km/h,↑,77%,1016 mbar,4 km,20240110
+09:00,10 °C,Sunny.,6 km/h,↑,71%,1017 mbar,5 km,20240110
+12:00,12 °C,Haze.,22 km/h,↑,36%,1018 mbar,6 km,20240110
+15:00,14 °C,Haze.,19 km/h,↑,37%,1016 mbar,6 km,20240110
+18:00,12 °C,Haze.,19 km/h,↑,35%,1017 mbar,5 km,20240110
+21:00,10 °C,Haze.,19 km/h,↑,39%,1018 mbar,6 km,20240110
+"00:00Thu, 11 Jan",10 °C,Light rain. Passing clouds.,22 km/h,↑,48%,1018 mbar,6 km,20240111
+03:00,8 °C,Light rain. Passing clouds.,13 km/h,↑,79%,1017 mbar,6 km,20240111
+06:00,9 °C,Light rain. Overcast.,9 km/h,↑,84%,1017 mbar,5 km,20240111
+09:00,9 °C,Fog.,9 km/h,↑,87%,1017 mbar,6 km,20240111
+12:00,9 °C,Drizzle. Overcast.,17 km/h,↑,87%,1018 mbar,3 km,20240111
+15:00,9 °C,Drizzle. Overcast.,22 km/h,↑,92%,1016 mbar,4 km,20240111
+18:00,9 °C,Overcast.,13 km/h,↑,93%,1016 mbar,3 km,20240111
+21:00,10 °C,Heavy rain. Passing clouds.,19 km/h,↑,90%,1018 mbar,3 km,20240111
+"00:00Fri, 12 Jan",9 °C,Heavy rain. Overcast.,26 km/h,↑,93%,1016 mbar,3 km,20240112
+03:00,9 °C,Overcast.,19 km/h,↑,93%,1016 mbar,3 km,20240112
+06:00,9 °C,Light rain. Overcast.,30 km/h,↑,95%,1015 mbar,3 km,20240112
+09:00,8 °C,Rain. Overcast.,32 km/h,↑,94%,1016 mbar,3 km,20240112
+12:00,8 °C,Drizzle. Overcast.,24 km/h,↑,96%,1016 mbar,3 km,20240112
+15:00,9 °C,Light rain. Overcast.,22 km/h,↑,90%,1015 mbar,2 km,20240112
+18:00,9 °C,Drizzle. Overcast.,11 km/h,↑,94%,1015 mbar,2 km,20240112
+21:00,10 °C,Fog.,19 km/h,↑,87%,1015 mbar,5 km,20240112
+"00:00Sat, 13 Jan",9 °C,Fog.,9 km/h,↑,81%,1015 mbar,6 km,20240113
+03:00,10 °C,Fog.,15 km/h,↑,83%,1014 mbar,7 km,20240113
+06:00,9 °C,Passing clouds.,19 km/h,↑,80%,1013 mbar,6 km,20240113
+09:00,9 °C,Scattered clouds.,13 km/h,↑,75%,1014 mbar,6 km,20240113
+12:00,12 °C,Partly sunny.,19 km/h,↑,58%,1013 mbar,10 km,20240113
+15:00,12 °C,Scattered clouds.,19 km/h,↑,56%,1011 mbar,5 km,20240113
+18:00,11 °C,Passing clouds.,17 km/h,↑,65%,1012 mbar,5 km,20240113
+21:00,10 °C,Passing clouds.,13 km/h,↑,68%,1012 mbar,5 km,20240113
+"00:00Sun, 14 Jan",10 °C,Passing clouds.,17 km/h,↑,63%,1011 mbar,8 km,20240114
+03:00,10 °C,Passing clouds.,32 km/h,↑,59%,1011 mbar,8 km,20240114
+06:00,8 °C,Light rain. Passing clouds.,20 km/h,↑,87%,1012 mbar,4 km,20240114
+09:00,8 °C,Fog.,19 km/h,↑,90%,1015 mbar,5 km,20240114
+12:00,11 °C,Partly sunny.,11 km/h,↑,79%,1016 mbar,4 km,20240114
+15:00,10 °C,Rain. Overcast.,15 km/h,↑,93%,1017 mbar,3 km,20240114
+18:00,9 °C,Rain. Overcast.,9 km/h,↑,95%,1018 mbar,4 km,20240114
+21:00,9 °C,Fog.,9 km/h,↑,95%,1020 mbar,6 km,20240114
+"00:00Mon, 15 Jan",8 °C,Fog.,6 km/h,↑,95%,1020 mbar,5 km,20240115
+03:00,8 °C,Fog.,7 km/h,↑,92%,1021 mbar,5 km,20240115
+06:00,8 °C,Fog.,9 km/h,↑,92%,1022 mbar,7 km,20240115
+09:00,8 °C,Fog.,11 km/h,↑,89%,1024 mbar,5 km,20240115
+12:00,11 °C,Partly sunny.,15 km/h,↑,72%,1024 mbar,10 km,20240115
+15:00,13 °C,Partly sunny.,11 km/h,↑,63%,1023 mbar,8 km,20240115
+18:00,11 °C,Fog.,11 km/h,↑,69%,1024 mbar,6 km,20240115
+21:00,9 °C,Clear.,No wind,↑,84%,1026 mbar,8 km,20240115
+"00:00Tue, 16 Jan",8 °C,Clear.,No wind,↑,81%,1026 mbar,7 km,20240116
+03:00,6 °C,Fog.,No wind,↑,89%,1025 mbar,8 km,20240116
+06:00,6 °C,Fog.,No wind,↑,90%,1025 mbar,8 km,20240116
+09:00,6 °C,Fog.,No wind,↑,93%,1027 mbar,4 km,20240116
+12:00,13 °C,Passing clouds.,13 km/h,↑,58%,1025 mbar,10 km,20240116
+15:00,15 °C,Passing clouds.,11 km/h,↑,42%,1022 mbar,10 km,20240116
+18:00,14 °C,Haze.,11 km/h,↑,43%,1023 mbar,8 km,20240116
+21:00,9 °C,Haze.,4 km/h,↑,75%,1024 mbar,8 km,20240116
+"00:00Wed, 17 Jan",8 °C,Haze.,N/A,↑,79%,1023 mbar,6 km,20240117
+03:00,8 °C,Passing clouds.,N/A,↑,84%,1022 mbar,5 km,20240117
+06:00,7 °C,Passing clouds.,4 km/h,↑,89%,1021 mbar,5 km,20240117
+09:00,8 °C,Fog.,4 km/h,↑,89%,1023 mbar,2 km,20240117
+12:00,12 °C,Overcast.,4 km/h,↑,56%,1022 mbar,3 km,20240117
+15:00,14 °C,Overcast.,4 km/h,↑,54%,1021 mbar,5 km,20240117
+18:00,13 °C,Passing clouds.,No wind,↑,62%,1021 mbar,4 km,20240117
+21:00,11 °C,Passing clouds.,No wind,↑,73%,1023 mbar,4 km,20240117
+"00:00Thu, 18 Jan",10 °C,Haze.,No wind,↑,79%,1022 mbar,5 km,20240118
+03:00,8 °C,Clear.,No wind,↑,87%,1022 mbar,4 km,20240118
+06:00,7 °C,Clear.,7 km/h,↑,89%,1022 mbar,3 km,20240118
+09:00,8 °C,Sunny.,No wind,↑,76%,1024 mbar,5 km,20240118
+12:00,15 °C,Sunny.,4 km/h,↑,47%,1023 mbar,7 km,20240118
+15:00,17 °C,Scattered clouds.,11 km/h,↑,36%,1022 mbar,5 km,20240118
+18:00,15 °C,Passing clouds.,7 km/h,↑,37%,1022 mbar,5 km,20240118
+21:00,11 °C,Haze.,4 km/h,↑,63%,1024 mbar,5 km,20240118
+"00:00Fri, 19 Jan",9 °C,Clear.,6 km/h,↑,79%,1023 mbar,5 km,20240119
+03:00,8 °C,Passing clouds.,4 km/h,↑,74%,1022 mbar,5 km,20240119
+06:00,7 °C,Clear.,No wind,↑,81%,1022 mbar,5 km,20240119
+09:00,8 °C,Haze.,4 km/h,↑,77%,1024 mbar,4 km,20240119
+12:00,14 °C,Scattered clouds.,6 km/h,↑,57%,1023 mbar,5 km,20240119
+15:00,19 °C,Sunny.,9 km/h,↑,31%,1020 mbar,8 km,20240119
+18:00,16 °C,Haze.,4 km/h,↑,36%,1021 mbar,8 km,20240119
+21:00,12 °C,Haze.,No wind,↑,68%,1023 mbar,8 km,20240119
+"00:00Sat, 20 Jan",10 °C,Haze.,6 km/h,↑,73%,1023 mbar,8 km,20240120
+03:00,10 °C,Clear.,7 km/h,↑,74%,1021 mbar,8 km,20240120
+06:00,8 °C,Clear.,No wind,↑,74%,1022 mbar,8 km,20240120
+09:00,9 °C,Scattered clouds.,9 km/h,↑,69%,1024 mbar,4 km,20240120
+12:00,16 °C,Scattered clouds.,6 km/h,↑,56%,1023 mbar,4 km,20240120
+15:00,20 °C,Haze.,7 km/h,↑,34%,1020 mbar,5 km,20240120
+18:00,18 °C,Passing clouds.,7 km/h,↑,35%,1022 mbar,4 km,20240120
+21:00,13 °C,Haze.,No wind,↑,63%,1023 mbar,5 km,20240120
+"00:00Sun, 21 Jan",12 °C,Clear.,7 km/h,↑,69%,1022 mbar,5 km,20240121
+03:00,11 °C,Passing clouds.,N/A,↑,65%,1020 mbar,5 km,20240121
+06:00,9 °C,Clear.,No wind,↑,67%,1020 mbar,5 km,20240121
+09:00,9 °C,Partly sunny.,No wind,↑,77%,1021 mbar,3 km,20240121
+12:00,15 °C,Overcast.,6 km/h,↑,54%,1020 mbar,2 km,20240121
+15:00,18 °C,Scattered clouds.,No wind,↑,49%,1017 mbar,4 km,20240121
+18:00,19 °C,Passing clouds.,6 km/h,↑,32%,1016 mbar,7 km,20240121
+21:00,14 °C,Passing clouds.,2 km/h,↑,52%,1018 mbar,5 km,20240121
+"00:00Mon, 22 Jan",14 °C,Haze.,4 km/h,↑,48%,1016 mbar,5 km,20240122
+03:00,12 °C,Clear.,4 km/h,↑,53%,1015 mbar,5 km,20240122
+06:00,10 °C,Haze.,7 km/h,↑,58%,1015 mbar,7 km,20240122
+09:00,11 °C,Sunny.,6 km/h,↑,56%,1017 mbar,5 km,20240122
+12:00,20 °C,Sunny.,4 km/h,↑,28%,1015 mbar,6 km,20240122
+15:00,21 °C,Sunny.,No wind,↑,25%,1014 mbar,6 km,20240122
+18:00,18 °C,Passing clouds.,6 km/h,↑,26%,1015 mbar,7 km,20240122
+21:00,14 °C,Passing clouds.,9 km/h,↑,47%,1017 mbar,7 km,20240122
+"00:00Tue, 23 Jan",13 °C,Clear.,13 km/h,↑,82%,1016 mbar,7 km,20240123
+03:00,11 °C,Passing clouds.,No wind,↑,70%,1016 mbar,7 km,20240123
+06:00,12 °C,Passing clouds.,6 km/h,↑,80%,1016 mbar,7 km,20240123
+09:00,11 °C,Rain. Overcast.,19 km/h,↑,72%,1017 mbar,6 km,20240123
+12:00,11 °C,Overcast.,15 km/h,↑,75%,1017 mbar,5 km,20240123
+15:00,12 °C,Overcast.,17 km/h,↑,75%,1016 mbar,4 km,20240123
+18:00,11 °C,Light rain. Partly sunny.,20 km/h,↑,85%,1017 mbar,4 km,20240123
+21:00,11 °C,Passing clouds.,24 km/h,↑,81%,1018 mbar,4 km,20240123
+"00:00Wed, 24 Jan",11 °C,Passing clouds.,22 km/h,↑,79%,1019 mbar,5 km,20240124
+03:00,10 °C,Passing clouds.,17 km/h,↑,84%,1018 mbar,5 km,20240124
+06:00,10 °C,Passing clouds.,17 km/h,↑,87%,1018 mbar,5 km,20240124
+09:00,9 °C,Rain. Overcast.,24 km/h,↑,92%,1019 mbar,2 km,20240124
+12:00,12 °C,Partly sunny.,19 km/h,↑,77%,1019 mbar,7 km,20240124
+15:00,9 °C,Overcast.,15 km/h,↑,92%,1019 mbar,2 km,20240124
+18:00,10 °C,Rain. Overcast.,20 km/h,↑,87%,1020 mbar,2 km,20240124
+21:00,9 °C,Fog.,7 km/h,↑,85%,1021 mbar,6 km,20240124
+"00:00Thu, 25 Jan",8 °C,Fog.,9 km/h,↑,90%,1021 mbar,5 km,20240125
+03:00,8 °C,Fog.,7 km/h,↑,86%,1020 mbar,5 km,20240125
+06:00,7 °C,Fog.,6 km/h,↑,91%,1020 mbar,6 km,20240125
+09:00,8 °C,Scattered clouds.,6 km/h,↑,87%,1020 mbar,5 km,20240125
+12:00,12 °C,Scattered clouds.,13 km/h,↑,68%,1020 mbar,8 km,20240125
+15:00,14 °C,Partly sunny.,11 km/h,↑,49%,1017 mbar,8 km,20240125
+18:00,13 °C,Partly sunny.,11 km/h,↑,55%,1017 mbar,8 km,20240125
+21:00,10 °C,Passing clouds.,15 km/h,↑,76%,1018 mbar,8 km,20240125
+"00:00Fri, 26 Jan",9 °C,Passing clouds.,4 km/h,↑,75%,1018 mbar,7 km,20240126
+03:00,9 °C,Passing clouds.,2 km/h,↑,84%,1016 mbar,7 km,20240126
+06:00,8 °C,Fog.,13 km/h,↑,87%,1015 mbar,6 km,20240126
+09:00,8 °C,Drizzle. Overcast.,19 km/h,↑,92%,1017 mbar,2 km,20240126
+12:00,8 °C,Rain showers. Overcast.,28 km/h,↑,91%,1017 mbar,1 km,20240126
+15:00,9 °C,Rain. Overcast.,17 km/h,↑,82%,1015 mbar,3 km,20240126
+18:00,10 °C,Fog.,15 km/h,↑,81%,1014 mbar,3 km,20240126
+21:00,8 °C,Fog.,19 km/h,↑,92%,1015 mbar,6 km,20240126
+"00:00Sat, 27 Jan",8 °C,Rain showers. Overcast.,15 km/h,↑,89%,1015 mbar,3 km,20240127
+03:00,8 °C,Fog.,19 km/h,↑,84%,1015 mbar,5 km,20240127
+09:00,6 °C,Overcast.,30 km/h,↑,90%,1016 mbar,6 km,20240127
+12:00,7 °C,Rain. Overcast.,26 km/h,↑,86%,1017 mbar,3 km,20240127
+15:00,6 °C,Light rain. Overcast.,17 km/h,↑,89%,1017 mbar,3 km,20240127
+18:00,8 °C,Partly sunny.,20 km/h,↑,69%,1018 mbar,5 km,20240127
+21:00,7 °C,Passing clouds.,17 km/h,↑,79%,1021 mbar,6 km,20240127
+"00:00Sun, 28 Jan",7 °C,Passing clouds.,11 km/h,↑,82%,1022 mbar,7 km,20240128
+03:00,7 °C,Fog.,9 km/h,↑,85%,1022 mbar,5 km,20240128
+06:00,6 °C,Fog.,6 km/h,↑,96%,1020 mbar,4 km,20240128
+09:00,7 °C,Rain. Overcast.,6 km/h,↑,94%,1022 mbar,4 km,20240128
+15:00,8 °C,Drizzle. Overcast.,19 km/h,↑,75%,1020 mbar,4 km,20240128
+18:00,9 °C,Overcast.,15 km/h,↑,80%,1021 mbar,5 km,20240128
+21:00,7 °C,Light rain. Passing clouds.,11 km/h,↑,95%,1022 mbar,4 km,20240128
+"00:00Mon, 29 Jan",8 °C,Fog.,No wind,↑,84%,1021 mbar,4 km,20240129
+03:00,7 °C,Light rain. Passing clouds.,9 km/h,↑,91%,1020 mbar,3 km,20240129
+06:00,7 °C,Fog.,9 km/h,↑,93%,1019 mbar,5 km,20240129
+09:00,7 °C,Fog.,6 km/h,↑,88%,1021 mbar,6 km,20240129
+12:00,9 °C,Partly sunny.,9 km/h,↑,80%,1020 mbar,6 km,20240129
+15:00,10 °C,Overcast.,9 km/h,↑,67%,1019 mbar,6 km,20240129
+18:00,10 °C,Partly sunny.,13 km/h,↑,70%,1019 mbar,7 km,20240129
+21:00,8 °C,Passing clouds.,4 km/h,↑,84%,1020 mbar,10 km,20240129
+"00:00Tue, 30 Jan",8 °C,Passing clouds.,No wind,↑,78%,1020 mbar,8 km,20240130
+03:00,7 °C,Drizzle. Overcast.,No wind,↑,89%,1019 mbar,7 km,20240130
+06:00,7 °C,Fog.,15 km/h,↑,96%,1018 mbar,7 km,20240130
+09:00,6 °C,Scattered clouds.,7 km/h,↑,72%,1020 mbar,6 km,20240130
+12:00,8 °C,Partly sunny.,15 km/h,↑,64%,1020 mbar,10 km,20240130
+15:00,8 °C,Partly sunny.,20 km/h,↑,61%,1020 mbar,10 km,20240130
+18:00,8 °C,Partly sunny.,24 km/h,↑,68%,1020 mbar,5 km,20240130
+21:00,8 °C,Passing clouds.,15 km/h,↑,55%,1022 mbar,7 km,20240130
+"00:00Wed, 31 Jan",7 °C,Passing clouds.,17 km/h,↑,71%,1022 mbar,7 km,20240131
+03:00,6 °C,Passing clouds.,13 km/h,↑,72%,1022 mbar,7 km,20240131
+06:00,5 °C,Overcast.,6 km/h,↑,85%,1022 mbar,7 km,20240131
+09:00,6 °C,Haze.,9 km/h,↑,82%,1023 mbar,6 km,20240131
+12:00,8 °C,Haze.,15 km/h,↑,69%,1023 mbar,10 km,20240131
+15:00,10 °C,Partly sunny.,7 km/h,↑,52%,1021 mbar,7 km,20240131
+18:00,9 °C,Partly sunny.,17 km/h,↑,62%,1022 mbar,7 km,20240131
+21:00,6 °C,Fog.,9 km/h,↑,86%,1023 mbar,7 km,20240131
+"00:00Thu, 1 Feb",5 °C,Fog.,6 km/h,↑,89%,1022 mbar,7 km,20240201
+03:00,4 °C,Fog.,No wind,↑,93%,1020 mbar,5 km,20240201
+06:00,3 °C,Clear.,No wind,↑,93%,1020 mbar,5 km,20240201
+09:00,5 °C,Partly sunny.,No wind,↑,85%,1021 mbar,5 km,20240201
+12:00,8 °C,Partly sunny.,19 km/h,↑,63%,1021 mbar,4 km,20240201
+15:00,8 °C,Partly sunny.,17 km/h,↑,69%,1020 mbar,5 km,20240201
+18:00,7 °C,Overcast.,17 km/h,↑,69%,1021 mbar,6 km,20240201
+21:00,6 °C,Passing clouds.,13 km/h,↑,77%,1021 mbar,6 km,20240201
+"00:00Fri, 2 Feb",6 °C,Passing clouds.,19 km/h,↑,77%,1020 mbar,6 km,20240202
+03:00,5 °C,Rain. Overcast.,15 km/h,↑,94%,1020 mbar,5 km,20240202
+06:00,5 °C,Light rain. Overcast.,15 km/h,↑,85%,1019 mbar,4 km,20240202
+09:00,6 °C,Light rain. Overcast.,19 km/h,↑,77%,1020 mbar,4 km,20240202
+12:00,6 °C,Rain. Overcast.,15 km/h,↑,88%,1020 mbar,2 km,20240202
+15:00,7 °C,Fog.,30 km/h,↑,95%,1019 mbar,2 km,20240202
+18:00,8 °C,Fog.,15 km/h,↑,82%,1021 mbar,6 km,20240202
+21:00,7 °C,Fog.,13 km/h,↑,92%,1022 mbar,6 km,20240202
+"00:00Sat, 3 Feb",7 °C,Fog.,11 km/h,↑,89%,1023 mbar,7 km,20240203
+03:00,7 °C,Fog.,No wind,↑,87%,1022 mbar,7 km,20240203
+06:00,7 °C,Fog.,9 km/h,↑,91%,1022 mbar,4 km,20240203
+09:00,7 °C,Drizzle. Overcast.,11 km/h,↑,89%,1024 mbar,4 km,20240203
+12:00,9 °C,Overcast.,19 km/h,↑,84%,1024 mbar,6 km,20240203
+15:00,10 °C,Partly sunny.,17 km/h,↑,68%,1023 mbar,8 km,20240203
+18:00,10 °C,Partly sunny.,15 km/h,↑,68%,1023 mbar,5 km,20240203
+21:00,8 °C,Fog.,9 km/h,↑,85%,1025 mbar,8 km,20240203
+"00:00Sun, 4 Feb",7 °C,Fog.,No wind,↑,91%,1025 mbar,4 km,20240204
+03:00,6 °C,Fog.,6 km/h,↑,88%,1024 mbar,5 km,20240204
+09:00,7 °C,Scattered clouds.,11 km/h,↑,75%,1025 mbar,3 km,20240204
+12:00,10 °C,Partly sunny.,19 km/h,↑,56%,1025 mbar,5 km,20240204
+15:00,10 °C,Partly sunny.,19 km/h,↑,69%,1023 mbar,5 km,20240204
+18:00,10 °C,Partly sunny.,20 km/h,↑,68%,1024 mbar,5 km,20240204
+21:00,8 °C,Passing clouds.,6 km/h,↑,84%,1024 mbar,5 km,20240204
+"00:00Mon, 5 Feb",8 °C,Fog.,11 km/h,↑,84%,1025 mbar,5 km,20240205
+03:00,7 °C,Fog.,13 km/h,↑,86%,1023 mbar,4 km,20240205
+06:00,7 °C,Drizzle. Overcast.,15 km/h,↑,90%,1023 mbar,5 km,20240205
+09:00,8 °C,Light rain. Overcast.,13 km/h,↑,91%,1025 mbar,3 km,20240205
+12:00,10 °C,Partly sunny.,19 km/h,↑,78%,1025 mbar,6 km,20240205
+15:00,10 °C,Overcast.,15 km/h,↑,75%,1023 mbar,5 km,20240205
+18:00,9 °C,Fog.,19 km/h,↑,81%,1023 mbar,4 km,20240205
+21:00,9 °C,Passing clouds.,17 km/h,↑,78%,1023 mbar,7 km,20240205
+"00:00Tue, 6 Feb",9 °C,Drizzle. Overcast.,19 km/h,↑,92%,1025 mbar,4 km,20240206
+03:00,9 °C,Light rain. Overcast.,11 km/h,↑,96%,1024 mbar,5 km,20240206
+06:00,9 °C,Fog.,19 km/h,↑,90%,1025 mbar,5 km,20240206
+09:00,9 °C,Fog.,11 km/h,↑,85%,1026 mbar,5 km,20240206
+12:00,11 °C,Scattered clouds.,19 km/h,↑,83%,1027 mbar,6 km,20240206
+15:00,13 °C,Scattered clouds.,20 km/h,↑,63%,1025 mbar,5 km,20240206
+18:00,12 °C,Scattered clouds.,19 km/h,↑,79%,1026 mbar,5 km,20240206
+21:00,10 °C,Fog.,11 km/h,↑,85%,1028 mbar,4 km,20240206
+"00:00Wed, 7 Feb",10 °C,Fog.,9 km/h,↑,90%,1028 mbar,4 km,20240207
+03:00,9 °C,Fog.,9 km/h,↑,87%,1028 mbar,4 km,20240207
+06:00,7 °C,Fog.,2 km/h,↑,97%,1027 mbar,4 km,20240207
+09:00,7 °C,Fog.,6 km/h,↑,100%,1028 mbar,1 km,20240207
+12:00,12 °C,Haze.,N/A,↑,79%,1027 mbar,5 km,20240207
+15:00,15 °C,Haze.,7 km/h,↑,57%,1025 mbar,7 km,20240207
+18:00,15 °C,Haze.,No wind,↑,50%,1024 mbar,6 km,20240207
+21:00,11 °C,Haze.,No wind,↑,71%,1026 mbar,5 km,20240207
+"00:00Thu, 8 Feb",9 °C,Clear.,No wind,↑,80%,1025 mbar,5 km,20240208
+03:00,8 °C,Fog.,No wind,↑,88%,1024 mbar,4 km,20240208
+06:00,6 °C,Clear.,No wind,↑,89%,1024 mbar,5 km,20240208
+09:00,7 °C,Fog.,No wind,↑,90%,1025 mbar,4 km,20240208
+12:00,15 °C,Scattered clouds.,13 km/h,↑,51%,1024 mbar,7 km,20240208
+15:00,18 °C,Scattered clouds.,13 km/h,↑,29%,1020 mbar,7 km,20240208
+18:00,19 °C,Scattered clouds.,6 km/h,↑,27%,1019 mbar,7 km,20240208
+21:00,12 °C,Haze.,No wind,↑,54%,1020 mbar,6 km,20240208
+"00:00Fri, 9 Feb",11 °C,Haze.,4 km/h,↑,60%,1018 mbar,6 km,20240209
+03:00,10 °C,Haze.,11 km/h,↑,55%,1016 mbar,7 km,20240209
+06:00,9 °C,Clear.,7 km/h,↑,70%,1016 mbar,6 km,20240209
+09:00,10 °C,Haze.,7 km/h,↑,70%,1018 mbar,6 km,20240209
+12:00,14 °C,Scattered clouds.,17 km/h,↑,67%,1018 mbar,8 km,20240209
+15:00,16 °C,Haze.,13 km/h,↑,47%,1017 mbar,7 km,20240209
+18:00,14 °C,Haze.,15 km/h,↑,58%,1017 mbar,7 km,20240209
+21:00,10 °C,Passing clouds.,13 km/h,↑,81%,1019 mbar,5 km,20240209
+"00:00Sat, 10 Feb",9 °C,Fog.,7 km/h,↑,87%,1019 mbar,8 km,20240210
+03:00,8 °C,Fog.,No wind,↑,85%,1018 mbar,8 km,20240210
+06:00,8 °C,Fog.,N/A,↑,89%,1018 mbar,6 km,20240210
+09:00,9 °C,Fog.,No wind,↑,85%,1020 mbar,6 km,20240210
+12:00,12 °C,Partly sunny.,7 km/h,↑,69%,1020 mbar,10 km,20240210
+15:00,15 °C,Partly sunny.,11 km/h,↑,55%,1019 mbar,8 km,20240210
+18:00,13 °C,Scattered clouds.,19 km/h,↑,59%,1020 mbar,6 km,20240210
+21:00,10 °C,Haze.,No wind,↑,83%,1022 mbar,6 km,20240210
+"00:00Sun, 11 Feb",9 °C,Clear.,No wind,↑,84%,1022 mbar,10 km,20240211
+03:00,7 °C,Fog.,No wind,↑,90%,1022 mbar,5 km,20240211
+06:00,7 °C,Fog.,No wind,↑,91%,1023 mbar,4 km,20240211
+09:00,9 °C,Passing clouds.,No wind,↑,82%,1025 mbar,4 km,20240211
+12:00,15 °C,Sunny.,6 km/h,↑,51%,1024 mbar,8 km,20240211
+15:00,16 °C,Sunny.,15 km/h,↑,44%,1022 mbar,8 km,20240211
+18:00,16 °C,Haze.,7 km/h,↑,38%,1022 mbar,6 km,20240211
+21:00,13 °C,Haze.,6 km/h,↑,45%,1023 mbar,7 km,20240211
+"00:00Mon, 12 Feb",13 °C,Clear.,7 km/h,↑,46%,1022 mbar,7 km,20240212
+03:00,10 °C,Clear.,2 km/h,↑,63%,1023 mbar,7 km,20240212
+06:00,9 °C,Passing clouds.,4 km/h,↑,62%,1025 mbar,6 km,20240212
+09:00,12 °C,Scattered clouds.,6 km/h,↑,47%,1022 mbar,5 km,20240212
+12:00,16 °C,Scattered clouds.,15 km/h,↑,35%,1021 mbar,5 km,20240212
+15:00,19 °C,Partly sunny.,13 km/h,↑,21%,1018 mbar,5 km,20240212
+18:00,17 °C,Overcast.,No wind,↑,36%,1016 mbar,6 km,20240212
+21:00,15 °C,Passing clouds.,11 km/h,↑,36%,1017 mbar,7 km,20240212
+"00:00Tue, 13 Feb",13 °C,Overcast.,13 km/h,↑,52%,1016 mbar,8 km,20240213
+03:00,12 °C,Passing clouds.,No wind,↑,63%,1015 mbar,8 km,20240213
+06:00,10 °C,Passing clouds.,No wind,↑,76%,1014 mbar,8 km,20240213
+09:00,10 °C,Overcast.,No wind,↑,77%,1014 mbar,4 km,20240213
+12:00,14 °C,Overcast.,4 km/h,↑,68%,1013 mbar,4 km,20240213
+15:00,19 °C,Overcast.,7 km/h,↑,44%,1011 mbar,6 km,20240213
+18:00,18 °C,Overcast.,6 km/h,↑,28%,1009 mbar,8 km,20240213
+21:00,14 °C,Passing clouds.,6 km/h,↑,45%,1010 mbar,5 km,20240213
+"00:00Wed, 14 Feb",13 °C,Passing clouds.,6 km/h,↑,55%,1008 mbar,5 km,20240214
+03:00,13 °C,Passing clouds.,28 km/h,↑,57%,1007 mbar,5 km,20240214
+06:00,12 °C,Light rain. Overcast.,11 km/h,↑,83%,1008 mbar,4 km,20240214
+09:00,11 °C,Overcast.,9 km/h,↑,79%,1010 mbar,5 km,20240214
+12:00,14 °C,Partly sunny.,13 km/h,↑,57%,1010 mbar,6 km,20240214
+15:00,14 °C,Scattered clouds.,17 km/h,↑,54%,1008 mbar,8 km,20240214
+18:00,12 °C,Partly sunny.,13 km/h,↑,68%,1010 mbar,10 km,20240214
+21:00,10 °C,Passing clouds.,13 km/h,↑,73%,1012 mbar,10 km,20240214
+"00:00Thu, 15 Feb",9 °C,Passing clouds.,No wind,↑,85%,1012 mbar,10 km,20240215
+06:00,8 °C,Fog.,No wind,↑,89%,1013 mbar,5 km,20240215
+09:00,10 °C,Haze.,6 km/h,↑,64%,1014 mbar,5 km,20240215
+12:00,15 °C,Scattered clouds.,9 km/h,↑,51%,1012 mbar,5 km,20240215
+15:00,15 °C,Partly sunny.,13 km/h,↑,40%,1011 mbar,5 km,20240215
+18:00,13 °C,Overcast.,11 km/h,↑,56%,1012 mbar,6 km,20240215
+21:00,8 °C,Passing clouds.,9 km/h,↑,87%,1014 mbar,6 km,20240215
+"00:00Fri, 16 Feb",7 °C,Passing clouds.,7 km/h,↑,88%,1013 mbar,7 km,20240216
+03:00,7 °C,Haze.,No wind,↑,89%,1013 mbar,6 km,20240216
+06:00,7 °C,Fog.,7 km/h,↑,92%,1014 mbar,5 km,20240216
+09:00,8 °C,Fog.,6 km/h,↑,87%,1016 mbar,5 km,20240216
+12:00,10 °C,Sprinkles. Overcast.,22 km/h,↑,73%,1016 mbar,6 km,20240216
+15:00,10 °C,Drizzle. Overcast.,22 km/h,↑,80%,1016 mbar,5 km,20240216
+18:00,10 °C,Scattered clouds.,26 km/h,↑,73%,1017 mbar,5 km,20240216
+21:00,9 °C,Passing clouds.,20 km/h,↑,75%,1019 mbar,6 km,20240216
+"00:00Sat, 17 Feb",8 °C,Haze.,15 km/h,↑,81%,1019 mbar,7 km,20240217
+03:00,8 °C,Fog.,13 km/h,↑,87%,1019 mbar,7 km,20240217
+06:00,8 °C,Haze.,9 km/h,↑,82%,1019 mbar,5 km,20240217
+09:00,9 °C,Overcast.,17 km/h,↑,67%,1020 mbar,10 km,20240217
+12:00,11 °C,Partly sunny.,28 km/h,↑,63%,1021 mbar,5 km,20240217
+15:00,11 °C,Overcast.,28 km/h,↑,61%,1020 mbar,10 km,20240217
+18:00,11 °C,Overcast.,17 km/h,↑,75%,1022 mbar,10 km,20240217
+21:00,9 °C,Rain. Overcast.,24 km/h,↑,87%,1023 mbar,5 km,20240217
+"00:00Sun, 18 Feb",9 °C,Fog.,22 km/h,↑,90%,1022 mbar,6 km,20240218
+03:00,9 °C,Fog.,20 km/h,↑,90%,1022 mbar,6 km,20240218
+06:00,8 °C,Fog.,9 km/h,↑,89%,1023 mbar,6 km,20240218
+09:00,10 °C,Scattered clouds.,11 km/h,↑,83%,1024 mbar,5 km,20240218
+12:00,11 °C,Drizzle. Overcast.,13 km/h,↑,77%,1024 mbar,5 km,20240218
+15:00,10 °C,Rain. Overcast.,13 km/h,↑,92%,1022 mbar,3 km,20240218
+18:00,10 °C,Light rain. Overcast.,13 km/h,↑,83%,1022 mbar,5 km,20240218
+21:00,9 °C,Fog.,7 km/h,↑,87%,1022 mbar,7 km,20240218
+"00:00Mon, 19 Feb",8 °C,Fog.,7 km/h,↑,87%,1021 mbar,6 km,20240219
+03:00,9 °C,Fog.,9 km/h,↑,87%,1020 mbar,5 km,20240219
+06:00,8 °C,Rain. Overcast.,20 km/h,↑,87%,1019 mbar,7 km,20240219
+09:00,9 °C,Rain. Overcast.,17 km/h,↑,90%,1019 mbar,3 km,20240219
+12:00,9 °C,Rain. Overcast.,19 km/h,↑,85%,1020 mbar,3 km,20240219
+15:00,10 °C,Partly sunny.,17 km/h,↑,85%,1018 mbar,4 km,20240219
+18:00,10 °C,Fog.,22 km/h,↑,80%,1019 mbar,4 km,20240219
+21:00,9 °C,Fog.,17 km/h,↑,87%,1021 mbar,5 km,20240219
+"00:00Tue, 20 Feb",9 °C,Fog.,7 km/h,↑,87%,1021 mbar,5 km,20240220
+03:00,8 °C,Fog.,6 km/h,↑,79%,1020 mbar,6 km,20240220
+06:00,8 °C,Fog.,11 km/h,↑,88%,1020 mbar,6 km,20240220
+09:00,9 °C,Fog.,11 km/h,↑,87%,1022 mbar,5 km,20240220
+12:00,12 °C,Partly sunny.,11 km/h,↑,66%,1022 mbar,8 km,20240220
+15:00,14 °C,Partly sunny.,9 km/h,↑,57%,1020 mbar,5 km,20240220
+18:00,12 °C,Overcast.,9 km/h,↑,71%,1020 mbar,6 km,20240220
+21:00,10 °C,Passing clouds.,N/A,↑,75%,1022 mbar,5 km,20240220
+"00:00Wed, 21 Feb",9 °C,Fog.,N/A,↑,87%,1022 mbar,5 km,20240221
+03:00,7 °C,Fog.,No wind,↑,86%,1021 mbar,5 km,20240221
+06:00,6 °C,Fog.,4 km/h,↑,95%,1022 mbar,4 km,20240221
+09:00,8 °C,Fog.,No wind,↑,89%,1023 mbar,4 km,20240221
+12:00,14 °C,Fog.,9 km/h,↑,53%,1022 mbar,6 km,20240221
+15:00,18 °C,Haze.,11 km/h,↑,38%,1020 mbar,7 km,20240221
+18:00,18 °C,Sunny.,No wind,↑,42%,1019 mbar,5 km,20240221
+21:00,12 °C,Clear.,6 km/h,↑,69%,1021 mbar,6 km,20240221
+"00:00Thu, 22 Feb",10 °C,Fog.,No wind,↑,86%,1020 mbar,6 km,20240222
+03:00,8 °C,Fog.,4 km/h,↑,91%,1019 mbar,4 km,20240222
+06:00,9 °C,Fog.,6 km/h,↑,87%,1019 mbar,4 km,20240222
+09:00,9 °C,Sunny.,6 km/h,↑,75%,1021 mbar,4 km,20240222
+12:00,14 °C,Haze.,4 km/h,↑,57%,1020 mbar,5 km,20240222
+15:00,17 °C,Scattered clouds.,11 km/h,↑,59%,1019 mbar,5 km,20240222
+18:00,14 °C,Haze.,13 km/h,↑,65%,1019 mbar,5 km,20240222
+21:00,10 °C,Haze.,4 km/h,↑,88%,1020 mbar,7 km,20240222
+"00:00Fri, 23 Feb",10 °C,Haze.,4 km/h,↑,85%,1020 mbar,7 km,20240223
+03:00,8 °C,Fog.,4 km/h,↑,89%,1020 mbar,5 km,20240223
+06:00,7 °C,Fog.,No wind,↑,95%,1021 mbar,5 km,20240223
+09:00,8 °C,Fog.,2 km/h,↑,88%,1021 mbar,3 km,20240223
+15:00,16 °C,Overcast.,No wind,↑,50%,1020 mbar,4 km,20240223
+18:00,14 °C,Overcast.,No wind,↑,54%,1020 mbar,5 km,20240223
+21:00,13 °C,Overcast.,No wind,↑,64%,1020 mbar,7 km,20240223
+"00:00Sat, 24 Feb",12 °C,Passing clouds.,No wind,↑,68%,1020 mbar,6 km,20240224
+03:00,13 °C,Passing clouds.,No wind,↑,65%,1019 mbar,6 km,20240224
+06:00,11 °C,Light rain. Passing clouds.,2 km/h,↑,88%,1019 mbar,5 km,20240224
+09:00,10 °C,Drizzle. Overcast.,No wind,↑,88%,1020 mbar,6 km,20240224
+12:00,10 °C,Rain. Overcast.,11 km/h,↑,90%,1020 mbar,6 km,20240224
+15:00,10 °C,Drizzle. Overcast.,9 km/h,↑,83%,1019 mbar,5 km,20240224
+18:00,12 °C,Overcast.,13 km/h,↑,56%,1020 mbar,7 km,20240224
+21:00,10 °C,Haze.,6 km/h,↑,73%,1022 mbar,7 km,20240224
+"00:00Sun, 25 Feb",10 °C,Passing clouds.,9 km/h,↑,75%,1022 mbar,7 km,20240225
+03:00,7 °C,Fog.,No wind,↑,95%,1022 mbar,5 km,20240225
+06:00,8 °C,Fog.,6 km/h,↑,89%,1022 mbar,5 km,20240225
+09:00,9 °C,Fog.,No wind,↑,95%,1023 mbar,4 km,20240225
+12:00,13 °C,Scattered clouds.,No wind,↑,68%,1021 mbar,4 km,20240225
+15:00,15 °C,Scattered clouds.,17 km/h,↑,60%,1019 mbar,4 km,20240225
+18:00,14 °C,Haze.,13 km/h,↑,54%,1018 mbar,4 km,20240225
+21:00,11 °C,Clear.,7 km/h,↑,79%,1019 mbar,5 km,20240225
+"00:00Mon, 26 Feb",9 °C,Fog.,2 km/h,↑,90%,1018 mbar,4 km,20240226
+03:00,7 °C,Clear.,2 km/h,↑,92%,1018 mbar,3 km,20240226
+06:00,7 °C,Clear.,No wind,↑,94%,1017 mbar,2 km,20240226
+09:00,8 °C,Fog.,No wind,↑,86%,1018 mbar,3 km,20240226
+12:00,15 °C,Fog.,11 km/h,↑,55%,1016 mbar,5 km,20240226
+15:00,18 °C,Scattered clouds.,11 km/h,↑,34%,1014 mbar,6 km,20240226
+18:00,16 °C,Overcast.,4 km/h,↑,41%,1013 mbar,6 km,20240226
+21:00,14 °C,Passing clouds.,7 km/h,↑,49%,1014 mbar,7 km,20240226
+"00:00Tue, 27 Feb",12 °C,Passing clouds.,No wind,↑,57%,1014 mbar,8 km,20240227
+03:00,9 °C,Passing clouds.,6 km/h,↑,70%,1013 mbar,8 km,20240227
+06:00,8 °C,Passing clouds.,No wind,↑,67%,1014 mbar,8 km,20240227
+09:00,8 °C,Partly sunny.,7 km/h,↑,64%,1015 mbar,7 km,20240227
+12:00,12 °C,Partly sunny.,7 km/h,↑,64%,1016 mbar,8 km,20240227
+15:00,13 °C,Overcast.,4 km/h,↑,49%,1015 mbar,5 km,20240227
+18:00,14 °C,Scattered clouds.,4 km/h,↑,51%,1016 mbar,5 km,20240227
+21:00,11 °C,Haze.,No wind,↑,71%,1018 mbar,6 km,20240227
+"00:00Wed, 28 Feb",10 °C,Clear.,N/A,↑,75%,1019 mbar,5 km,20240228
+03:00,8 °C,Clear.,6 km/h,↑,61%,1020 mbar,5 km,20240228
+06:00,6 °C,Clear.,No wind,↑,55%,1021 mbar,5 km,20240228
+09:00,8 °C,Haze.,4 km/h,↑,48%,1023 mbar,6 km,20240228
+12:00,13 °C,Scattered clouds.,9 km/h,↑,40%,1023 mbar,8 km,20240228
+15:00,16 °C,Scattered clouds.,9 km/h,↑,35%,1021 mbar,8 km,20240228
+18:00,15 °C,Haze.,9 km/h,↑,32%,1022 mbar,6 km,20240228
+21:00,11 °C,Clear.,9 km/h,↑,36%,1023 mbar,10 km,20240228
+"00:00Thu, 29 Feb",10 °C,Clear.,9 km/h,↑,36%,1023 mbar,10 km,20240229
+03:00,7 °C,Clear.,11 km/h,↑,29%,1023 mbar,10 km,20240229
+06:00,8 °C,Clear.,15 km/h,↑,21%,1023 mbar,10 km,20240229
+09:00,9 °C,Sunny.,17 km/h,↑,20%,1025 mbar,8 km,20240229
+12:00,13 °C,Sunny.,15 km/h,↑,20%,1025 mbar,8 km,20240229
+15:00,16 °C,Sunny.,19 km/h,↑,13%,1022 mbar,10 km,20240229
+18:00,15 °C,Sunny.,13 km/h,↑,52%,1022 mbar,8 km,20240229
+21:00,11 °C,Clear.,13 km/h,↑,14%,1023 mbar,8 km,20240229
+"00:00Fri, 1 Mar",10 °C,Clear.,19 km/h,↑,14%,1022 mbar,8 km,20240301
+03:00,9 °C,Haze.,15 km/h,↑,19%,1021 mbar,7 km,20240301
+06:00,8 °C,Passing clouds.,19 km/h,↑,24%,1020 mbar,10 km,20240301
+09:00,9 °C,Haze.,20 km/h,↑,21%,1021 mbar,7 km,20240301
+12:00,13 °C,Scattered clouds.,17 km/h,↑,22%,1020 mbar,10 km,20240301
+15:00,17 °C,Scattered clouds.,15 km/h,↑,15%,1018 mbar,7 km,20240301
+18:00,17 °C,Haze.,9 km/h,↑,16%,1017 mbar,7 km,20240301
+21:00,12 °C,Clear.,7 km/h,↑,22%,1019 mbar,10 km,20240301
+"00:00Sat, 2 Mar",10 °C,Clear.,7 km/h,↑,29%,1017 mbar,10 km,20240302
+03:00,9 °C,Clear.,No wind,↑,35%,1015 mbar,10 km,20240302
+06:00,6 °C,Clear.,No wind,↑,49%,1015 mbar,10 km,20240302
+09:00,8 °C,Sunny.,6 km/h,↑,45%,1016 mbar,4 km,20240302
+12:00,14 °C,Sunny.,No wind,↑,34%,1015 mbar,4 km,20240302
+15:00,21 °C,Sunny.,19 km/h,↑,26%,1012 mbar,6 km,20240302
+18:00,18 °C,Sunny.,28 km/h,↑,33%,1014 mbar,4 km,20240302
+21:00,13 °C,Passing clouds.,33 km/h,↑,75%,1014 mbar,5 km,20240302
+"00:00Sun, 3 Mar",12 °C,Passing clouds.,19 km/h,↑,74%,1015 mbar,6 km,20240303
+03:00,11 °C,Passing clouds.,24 km/h,↑,74%,1013 mbar,6 km,20240303
+06:00,11 °C,Passing clouds.,15 km/h,↑,81%,1014 mbar,5 km,20240303
+09:00,11 °C,Overcast.,17 km/h,↑,79%,1015 mbar,4 km,20240303
+12:00,12 °C,Drizzle. Overcast.,20 km/h,↑,75%,1015 mbar,7 km,20240303
+15:00,13 °C,Fog.,20 km/h,↑,82%,1015 mbar,5 km,20240303
+18:00,13 °C,Overcast.,17 km/h,↑,65%,1015 mbar,5 km,20240303
+21:00,10 °C,Passing clouds.,11 km/h,↑,81%,1016 mbar,10 km,20240303
+"00:00Mon, 4 Mar",10 °C,Passing clouds.,7 km/h,↑,83%,1017 mbar,8 km,20240304
+03:00,9 °C,Passing clouds.,No wind,↑,91%,1016 mbar,8 km,20240304
+06:00,9 °C,Drizzle. Overcast.,11 km/h,↑,94%,1016 mbar,8 km,20240304
+09:00,11 °C,Scattered clouds.,13 km/h,↑,83%,1016 mbar,8 km,20240304
+12:00,14 °C,Partly sunny.,19 km/h,↑,58%,1017 mbar,5 km,20240304
+15:00,15 °C,Partly sunny.,15 km/h,↑,52%,1016 mbar,8 km,20240304
+18:00,14 °C,Partly sunny.,20 km/h,↑,62%,1016 mbar,8 km,20240304
+21:00,11 °C,Passing clouds.,9 km/h,↑,83%,1017 mbar,8 km,20240304
+"00:00Tue, 5 Mar",10 °C,Fog.,No wind,↑,87%,1017 mbar,6 km,20240305
+03:00,8 °C,Fog.,No wind,↑,89%,1017 mbar,5 km,20240305
+06:00,7 °C,Fog.,No wind,↑,86%,1018 mbar,5 km,20240305
+09:00,9 °C,Sunny.,No wind,↑,84%,1019 mbar,4 km,20240305
+12:00,16 °C,Sunny.,6 km/h,↑,52%,1018 mbar,7 km,20240305
+15:00,19 °C,Sunny.,7 km/h,↑,38%,1015 mbar,6 km,20240305
+21:00,13 °C,Clear.,No wind,↑,50%,1017 mbar,6 km,20240305
+"00:00Wed, 6 Mar",11 °C,Clear.,4 km/h,↑,65%,1016 mbar,5 km,20240306
+03:00,10 °C,Clear.,No wind,↑,78%,1015 mbar,5 km,20240306
+06:00,9 °C,Clear.,No wind,↑,58%,1015 mbar,6 km,20240306
+09:00,14 °C,Sunny.,9 km/h,↑,45%,1015 mbar,5 km,20240306
+12:00,18 °C,Sunny.,20 km/h,↑,29%,1015 mbar,10 km,20240306
+15:00,18 °C,Sunny.,33 km/h,↑,37%,1014 mbar,7 km,20240306
+18:00,15 °C,Partly sunny.,30 km/h,↑,61%,1015 mbar,4 km,20240306
+21:00,11 °C,Passing clouds.,19 km/h,↑,71%,1016 mbar,10 km,20240306
+"03:00Thu, 7 Mar",10 °C,Passing clouds.,17 km/h,↑,78%,1015 mbar,10 km,20240307
+09:00,11 °C,Partly sunny.,19 km/h,↑,79%,1018 mbar,6 km,20240307
+12:00,13 °C,Overcast.,22 km/h,↑,71%,1018 mbar,5 km,20240307
+15:00,13 °C,Partly sunny.,13 km/h,↑,65%,1018 mbar,8 km,20240307
+18:00,13 °C,Partly sunny.,19 km/h,↑,61%,1017 mbar,8 km,20240307
+21:00,11 °C,Passing clouds.,11 km/h,↑,77%,1020 mbar,10 km,20240307
+"00:00Fri, 8 Mar",10 °C,Fog.,4 km/h,↑,85%,1019 mbar,8 km,20240308
+03:00,9 °C,Fog.,13 km/h,↑,85%,1018 mbar,6 km,20240308
+06:00,8 °C,Passing clouds.,N/A,↑,88%,1018 mbar,10 km,20240308
+09:00,10 °C,Scattered clouds.,9 km/h,↑,75%,1020 mbar,8 km,20240308
+12:00,13 °C,Partly sunny.,6 km/h,↑,63%,1019 mbar,10 km,20240308
+15:00,16 °C,Scattered clouds.,17 km/h,↑,42%,1017 mbar,8 km,20240308
+18:00,14 °C,Scattered clouds.,15 km/h,↑,53%,1017 mbar,8 km,20240308
+21:00,13 °C,Clear.,19 km/h,↑,71%,1017 mbar,10 km,20240308
+"00:00Sat, 9 Mar",9 °C,Haze.,No wind,↑,75%,1018 mbar,8 km,20240309
+03:00,8 °C,Clear.,7 km/h,↑,79%,1017 mbar,8 km,20240309
+06:00,8 °C,Passing clouds.,7 km/h,↑,84%,1017 mbar,7 km,20240309
+09:00,11 °C,Partly sunny.,11 km/h,↑,76%,1018 mbar,5 km,20240309
+12:00,13 °C,Overcast.,13 km/h,↑,60%,1018 mbar,6 km,20240309
+15:00,14 °C,Overcast.,20 km/h,↑,54%,1016 mbar,6 km,20240309
+18:00,14 °C,Partly sunny.,17 km/h,↑,55%,1016 mbar,5 km,20240309
+21:00,11 °C,Passing clouds.,9 km/h,↑,76%,1017 mbar,10 km,20240309
+"00:00Sun, 10 Mar",9 °C,Passing clouds.,6 km/h,↑,81%,1016 mbar,10 km,20240310
+03:00,6 °C,Clear.,No wind,↑,91%,1016 mbar,10 km,20240310
+06:00,6 °C,Clear.,6 km/h,↑,85%,1016 mbar,10 km,20240310
+09:00,10 °C,Sunny.,4 km/h,↑,59%,1017 mbar,6 km,20240310
+12:00,15 °C,Sunny.,4 km/h,↑,40%,1016 mbar,7 km,20240310
+15:00,17 °C,Haze.,20 km/h,↑,37%,1014 mbar,7 km,20240310
+18:00,14 °C,Haze.,20 km/h,↑,51%,1016 mbar,6 km,20240310
+21:00,10 °C,Clear.,No wind,↑,78%,1018 mbar,7 km,20240310
+"00:00Mon, 11 Mar",9 °C,Clear.,17 km/h,↑,77%,1018 mbar,8 km,20240311
+03:00,8 °C,Clear.,9 km/h,↑,69%,1019 mbar,8 km,20240311
+06:00,7 °C,Passing clouds.,4 km/h,↑,86%,1021 mbar,10 km,20240311
+09:00,10 °C,Haze.,N/A,↑,80%,1024 mbar,5 km,20240311
+12:00,14 °C,Haze.,7 km/h,↑,45%,1024 mbar,5 km,20240311
+15:00,17 °C,Haze.,7 km/h,↑,33%,1023 mbar,6 km,20240311
+18:00,17 °C,Sunny.,N/A,↑,33%,1022 mbar,7 km,20240311
+21:00,14 °C,Clear.,7 km/h,↑,37%,1023 mbar,8 km,20240311
+"00:00Tue, 12 Mar",13 °C,Clear.,9 km/h,↑,36%,1023 mbar,10 km,20240312
+03:00,11 °C,Clear.,6 km/h,↑,46%,1022 mbar,10 km,20240312
+06:00,8 °C,Clear.,No wind,↑,51%,1022 mbar,10 km,20240312
+09:00,14 °C,Sunny.,13 km/h,↑,85%,1023 mbar,10 km,20240312
+12:00,19 °C,Sunny.,22 km/h,↑,27%,1021 mbar,10 km,20240312
+15:00,23 °C,Sunny.,13 km/h,↑,15%,1018 mbar,5 km,20240312
+18:00,23 °C,Sunny.,11 km/h,↑,14%,1018 mbar,5 km,20240312
+21:00,18 °C,Clear.,15 km/h,↑,26%,1018 mbar,10 km,20240312
+"00:00Wed, 13 Mar",17 °C,Clear.,24 km/h,↑,29%,1017 mbar,10 km,20240313
+03:00,16 °C,Clear.,19 km/h,↑,29%,1015 mbar,10 km,20240313
+06:00,10 °C,Passing clouds.,4 km/h,↑,43%,1015 mbar,10 km,20240313
+09:00,13 °C,Passing clouds.,6 km/h,↑,41%,1016 mbar,4 km,20240313
+12:00,19 °C,Scattered clouds.,7 km/h,↑,29%,1014 mbar,6 km,20240313
+15:00,25 °C,Partly sunny.,13 km/h,↑,22%,1011 mbar,8 km,20240313
+18:00,23 °C,Scattered clouds.,19 km/h,↑,23%,1012 mbar,7 km,20240313
+21:00,16 °C,Clear.,6 km/h,↑,56%,1014 mbar,7 km,20240313
+"00:00Thu, 14 Mar",14 °C,Clear.,9 km/h,↑,38%,1014 mbar,10 km,20240314
+03:00,14 °C,Clear.,11 km/h,↑,44%,1013 mbar,10 km,20240314
+06:00,13 °C,Clear.,13 km/h,↑,47%,1013 mbar,8 km,20240314
+09:00,14 °C,Scattered clouds.,9 km/h,↑,48%,1016 mbar,4 km,20240314
+12:00,16 °C,Partly sunny.,17 km/h,↑,44%,1016 mbar,6 km,20240314
+15:00,17 °C,Partly sunny.,17 km/h,↑,49%,1015 mbar,6 km,20240314
+18:00,17 °C,Partly sunny.,20 km/h,↑,53%,1015 mbar,6 km,20240314
+21:00,14 °C,Passing clouds.,7 km/h,↑,62%,960 mbar,7 km,20240314
+"00:00Fri, 15 Mar",11 °C,Passing clouds.,19 km/h,↑,65%,1016 mbar,8 km,20240315
+03:00,11 °C,Haze.,17 km/h,↑,69%,1016 mbar,6 km,20240315
+06:00,9 °C,Passing clouds.,11 km/h,↑,84%,1016 mbar,6 km,20240315
+09:00,10 °C,Passing clouds.,15 km/h,↑,81%,1017 mbar,10 km,20240315
+15:00,17 °C,Partly sunny.,17 km/h,↑,48%,1016 mbar,7 km,20240315
+18:00,14 °C,Partly sunny.,19 km/h,↑,65%,1017 mbar,7 km,20240315
+21:00,12 °C,Passing clouds.,13 km/h,↑,66%,1019 mbar,8 km,20240315
+"00:00Sat, 16 Mar",9 °C,Fog.,6 km/h,↑,84%,1019 mbar,8 km,20240316
+03:00,8 °C,Clear.,No wind,↑,87%,1018 mbar,8 km,20240316
+06:00,7 °C,Haze.,6 km/h,↑,84%,1019 mbar,6 km,20240316
+09:00,10 °C,Partly sunny.,4 km/h,↑,68%,1021 mbar,5 km,20240316
+12:00,13 °C,Partly sunny.,11 km/h,↑,57%,1021 mbar,5 km,20240316
+15:00,17 °C,Partly sunny.,7 km/h,↑,35%,1018 mbar,5 km,20240316
+18:00,16 °C,Partly sunny.,6 km/h,↑,33%,1018 mbar,7 km,20240316
+21:00,13 °C,Passing clouds.,6 km/h,↑,67%,1018 mbar,8 km,20240316
+"00:00Sun, 17 Mar",12 °C,Passing clouds.,9 km/h,↑,65%,1017 mbar,8 km,20240317
+03:00,10 °C,Passing clouds.,No wind,↑,76%,1016 mbar,8 km,20240317
+06:00,10 °C,Passing clouds.,No wind,↑,71%,1016 mbar,8 km,20240317
+09:00,13 °C,Partly sunny.,No wind,↑,63%,1016 mbar,4 km,20240317
+12:00,18 °C,Scattered clouds.,11 km/h,↑,35%,1015 mbar,6 km,20240317
+15:00,24 °C,Overcast.,7 km/h,↑,24%,1011 mbar,6 km,20240317
+18:00,22 °C,Overcast.,11 km/h,↑,25%,1010 mbar,8 km,20240317
+21:00,23 °C,Overcast.,9 km/h,↑,27%,1010 mbar,4 km,20240317
+"00:00Mon, 18 Mar",18 °C,Light rain. Overcast.,15 km/h,↑,55%,1008 mbar,5 km,20240318
+03:00,16 °C,Passing clouds.,7 km/h,↑,77%,1005 mbar,7 km,20240318
+06:00,15 °C,Passing clouds.,11 km/h,↑,69%,1004 mbar,7 km,20240318
+09:00,14 °C,Overcast.,20 km/h,↑,66%,1005 mbar,5 km,20240318
+12:00,16 °C,Overcast.,33 km/h,↑,71%,1006 mbar,5 km,20240318
+15:00,16 °C,Overcast.,26 km/h,↑,65%,1006 mbar,6 km,20240318
+18:00,14 °C,Partly sunny.,26 km/h,↑,61%,1007 mbar,7 km,20240318
+21:00,12 °C,Passing clouds.,22 km/h,↑,79%,1009 mbar,7 km,20240318
+"00:00Tue, 19 Mar",10 °C,Fog.,17 km/h,↑,87%,1009 mbar,6 km,20240319
+03:00,9 °C,Fog.,15 km/h,↑,82%,1008 mbar,5 km,20240319
+06:00,9 °C,Rain. Overcast.,22 km/h,↑,87%,1008 mbar,5 km,20240319
+09:00,8 °C,Drizzle. Overcast.,28 km/h,↑,89%,1011 mbar,5 km,20240319
+12:00,9 °C,Fog.,28 km/h,↑,90%,1012 mbar,5 km,20240319
+15:00,8 °C,Sprinkles. Overcast.,19 km/h,↑,91%,1013 mbar,4 km,20240319
+18:00,9 °C,Fog.,15 km/h,↑,90%,1014 mbar,4 km,20240319
+21:00,9 °C,Fog.,24 km/h,↑,87%,1016 mbar,5 km,20240319
+"00:00Wed, 20 Mar",9 °C,Passing clouds.,15 km/h,↑,87%,1017 mbar,5 km,20240320
+06:00,9 °C,Fog.,19 km/h,↑,87%,1017 mbar,5 km,20240320
+09:00,10 °C,Fog.,20 km/h,↑,83%,1018 mbar,4 km,20240320
+12:00,14 °C,Scattered clouds.,19 km/h,↑,64%,1018 mbar,6 km,20240320
+15:00,16 °C,Scattered clouds.,26 km/h,↑,53%,1017 mbar,10 km,20240320
+18:00,15 °C,Scattered clouds.,22 km/h,↑,47%,1018 mbar,8 km,20240320
+21:00,11 °C,Clear.,6 km/h,↑,72%,1020 mbar,10 km,20240320
+"00:00Thu, 21 Mar",10 °C,Clear.,4 km/h,↑,77%,1019 mbar,10 km,20240321
+03:00,10 °C,Clear.,7 km/h,↑,74%,1018 mbar,10 km,20240321
+06:00,9 °C,Clear.,7 km/h,↑,77%,1017 mbar,10 km,20240321
+09:00,13 °C,Sunny.,13 km/h,↑,67%,1018 mbar,5 km,20240321
+12:00,18 °C,Sunny.,15 km/h,↑,44%,1016 mbar,7 km,20240321
+15:00,20 °C,Haze.,15 km/h,↑,36%,1014 mbar,7 km,20240321
+18:00,18 °C,Partly sunny.,17 km/h,↑,39%,1012 mbar,7 km,20240321
+21:00,16 °C,Passing clouds.,11 km/h,↑,48%,1012 mbar,7 km,20240321
+"00:00Fri, 22 Mar",12 °C,Light rain. Overcast.,19 km/h,↑,88%,1012 mbar,4 km,20240322
+03:00,11 °C,Fog.,24 km/h,↑,83%,1011 mbar,5 km,20240322
+06:00,9 °C,Fog.,22 km/h,↑,84%,1011 mbar,6 km,20240322
+09:00,10 °C,Scattered clouds.,24 km/h,↑,68%,1013 mbar,6 km,20240322
+12:00,12 °C,Partly sunny.,26 km/h,↑,60%,1014 mbar,10 km,20240322
+15:00,14 °C,Scattered clouds.,19 km/h,↑,54%,1013 mbar,8 km,20240322
+18:00,13 °C,Scattered clouds.,22 km/h,↑,55%,1013 mbar,8 km,20240322
+21:00,10 °C,Haze.,15 km/h,↑,63%,1015 mbar,8 km,20240322
+"00:00Sat, 23 Mar",10 °C,Passing clouds.,13 km/h,↑,81%,1015 mbar,8 km,20240323
+03:00,9 °C,Passing clouds.,11 km/h,↑,82%,1014 mbar,8 km,20240323
+06:00,8 °C,Haze.,13 km/h,↑,84%,1014 mbar,7 km,20240323
+09:00,10 °C,Scattered clouds.,15 km/h,↑,75%,1013 mbar,5 km,20240323
+12:00,15 °C,Scattered clouds.,7 km/h,↑,41%,1014 mbar,5 km,20240323
+15:00,15 °C,Scattered clouds.,7 km/h,↑,47%,1011 mbar,5 km,20240323
+18:00,16 °C,Haze.,7 km/h,↑,46%,1010 mbar,5 km,20240323
+21:00,12 °C,Passing clouds.,19 km/h,↑,68%,1011 mbar,8 km,20240323
+"00:00Sun, 24 Mar",10 °C,Passing clouds.,No wind,↑,78%,1010 mbar,8 km,20240324
+03:00,9 °C,Passing clouds.,4 km/h,↑,81%,1010 mbar,8 km,20240324
+06:00,9 °C,Light rain. Passing clouds.,No wind,↑,75%,1008 mbar,7 km,20240324
+09:00,11 °C,Sprinkles. Overcast.,7 km/h,↑,65%,1008 mbar,5 km,20240324
+12:00,15 °C,Overcast.,N/A,↑,45%,1008 mbar,5 km,20240324
+15:00,15 °C,Overcast.,19 km/h,↑,52%,1008 mbar,5 km,20240324
+18:00,13 °C,Overcast.,26 km/h,↑,60%,1009 mbar,5 km,20240324
+21:00,10 °C,Passing clouds.,19 km/h,↑,77%,1011 mbar,7 km,20240324
+"00:00Mon, 25 Mar",9 °C,Fog.,11 km/h,↑,84%,1012 mbar,8 km,20240325
+03:00,9 °C,Fog.,19 km/h,↑,80%,1012 mbar,8 km,20240325
+06:00,8 °C,Passing clouds.,13 km/h,↑,79%,1013 mbar,10 km,20240325
+09:00,10 °C,Partly sunny.,19 km/h,↑,73%,1016 mbar,5 km,20240325
+12:00,10 °C,Drizzle. Overcast.,20 km/h,↑,77%,1018 mbar,5 km,20240325
+15:00,14 °C,Overcast.,20 km/h,↑,61%,1018 mbar,6 km,20240325
+18:00,13 °C,Partly sunny.,22 km/h,↑,61%,1018 mbar,6 km,20240325
+21:00,10 °C,Haze.,13 km/h,↑,73%,1020 mbar,8 km,20240325
+"00:00Tue, 26 Mar",8 °C,Fog.,11 km/h,↑,80%,1020 mbar,5 km,20240326
+03:00,9 °C,Passing clouds.,9 km/h,↑,55%,1019 mbar,5 km,20240326
+06:00,8 °C,Clear.,6 km/h,↑,64%,1019 mbar,10 km,20240326
+09:00,12 °C,Partly sunny.,24 km/h,↑,57%,1020 mbar,4 km,20240326
+12:00,15 °C,Partly sunny.,26 km/h,↑,43%,1021 mbar,5 km,20240326
+15:00,18 °C,Sunny.,22 km/h,↑,39%,1020 mbar,5 km,20240326
+18:00,18 °C,Sunny.,32 km/h,↑,32%,1018 mbar,5 km,20240326
+21:00,15 °C,Passing clouds.,13 km/h,↑,34%,1020 mbar,7 km,20240326
+"00:00Wed, 27 Mar",14 °C,Clear.,19 km/h,↑,41%,1020 mbar,7 km,20240327
+03:00,12 °C,Passing clouds.,7 km/h,↑,45%,1021 mbar,7 km,20240327
+06:00,14 °C,Overcast.,7 km/h,↑,38%,1022 mbar,10 km,20240327
+09:00,16 °C,Overcast.,No wind,↑,44%,1021 mbar,4 km,20240327
+12:00,22 °C,Partly sunny.,7 km/h,↑,27%,1020 mbar,4 km,20240327
+15:00,25 °C,Partly sunny.,7 km/h,↑,23%,1018 mbar,5 km,20240327
+18:00,24 °C,Partly sunny.,No wind,↑,23%,1018 mbar,5 km,20240327
+21:00,20 °C,Clear.,7 km/h,↑,29%,1018 mbar,7 km,20240327
+"00:00Thu, 28 Mar",20 °C,Clear.,13 km/h,↑,33%,1018 mbar,8 km,20240328
+03:00,19 °C,Passing clouds.,13 km/h,↑,31%,1016 mbar,8 km,20240328
+06:00,18 °C,Clear.,9 km/h,↑,32%,1016 mbar,8 km,20240328
+09:00,20 °C,Sunny.,N/A,↑,36%,1018 mbar,5 km,20240328
+12:00,25 °C,Sunny.,6 km/h,↑,26%,1017 mbar,5 km,20240328
+15:00,28 °C,Partly sunny.,17 km/h,↑,17%,1014 mbar,6 km,20240328
+18:00,27 °C,Scattered clouds.,7 km/h,↑,13%,1013 mbar,5 km,20240328
+21:00,21 °C,Passing clouds.,No wind,↑,26%,1014 mbar,7 km,20240328
+"00:00Fri, 29 Mar",19 °C,Passing clouds.,No wind,↑,31%,1014 mbar,6 km,20240329
+03:00,17 °C,Passing clouds.,7 km/h,↑,43%,1012 mbar,6 km,20240329
+06:00,16 °C,Passing clouds.,6 km/h,↑,41%,1012 mbar,6 km,20240329
+09:00,18 °C,Overcast.,N/A,↑,38%,1012 mbar,5 km,20240329
+12:00,22 °C,Overcast.,9 km/h,↑,31%,1012 mbar,7 km,20240329
+15:00,27 °C,Overcast.,No wind,↑,20%,1010 mbar,7 km,20240329
+18:00,23 °C,Overcast.,15 km/h,↑,39%,1011 mbar,7 km,20240329
+21:00,20 °C,Passing clouds.,6 km/h,↑,55%,1014 mbar,8 km,20240329
+"00:00Sat, 30 Mar",18 °C,Passing clouds.,9 km/h,↑,61%,1014 mbar,8 km,20240330
+03:00,16 °C,Overcast.,No wind,↑,68%,1013 mbar,8 km,20240330
+06:00,14 °C,Clear.,6 km/h,↑,78%,1014 mbar,5 km,20240330
+09:00,18 °C,Sunny.,6 km/h,↑,57%,1016 mbar,5 km,20240330
+12:00,22 °C,Sunny.,17 km/h,↑,45%,1017 mbar,5 km,20240330
+15:00,25 °C,Haze.,13 km/h,↑,32%,1016 mbar,6 km,20240330
+18:00,24 °C,Haze.,9 km/h,↑,32%,1017 mbar,5 km,20240330
+21:00,20 °C,Clear.,No wind,↑,49%,1018 mbar,10 km,20240330
+"00:00Sun, 31 Mar",19 °C,Passing clouds.,11 km/h,↑,48%,1019 mbar,8 km,20240331
+06:00,15 °C,Clear.,6 km/h,↑,71%,1019 mbar,10 km,20240331
+09:00,18 °C,Sunny.,6 km/h,↑,60%,1021 mbar,7 km,20240331
+12:00,23 °C,Sunny.,17 km/h,↑,37%,1020 mbar,7 km,20240331
+15:00,26 °C,Sunny.,15 km/h,↑,28%,1019 mbar,5 km,20240331
+18:00,25 °C,Haze.,13 km/h,↑,29%,1018 mbar,5 km,20240331
+21:00,21 °C,Clear.,7 km/h,↑,39%,1018 mbar,8 km,20240331
+"00:00Mon, 1 Apr",20 °C,Clear.,No wind,↑,46%,1018 mbar,8 km,20240401
+03:00,17 °C,Clear.,No wind,↑,54%,1017 mbar,8 km,20240401
+06:00,15 °C,Passing clouds.,No wind,↑,62%,1018 mbar,10 km,20240401
+09:00,19 °C,Sunny.,No wind,↑,47%,1020 mbar,4 km,20240401
+12:00,25 °C,Haze.,17 km/h,↑,26%,1019 mbar,7 km,20240401
+15:00,27 °C,Scattered clouds.,15 km/h,↑,23%,1016 mbar,7 km,20240401
+18:00,26 °C,Scattered clouds.,11 km/h,↑,26%,1015 mbar,5 km,20240401
+21:00,22 °C,Passing clouds.,7 km/h,↑,35%,1016 mbar,5 km,20240401
+"00:00Tue, 2 Apr",20 °C,Passing clouds.,4 km/h,↑,35%,1015 mbar,5 km,20240402
+03:00,18 °C,Haze.,N/A,↑,50%,1014 mbar,5 km,20240402
+06:00,18 °C,Passing clouds.,No wind,↑,49%,1014 mbar,8 km,20240402
+09:00,23 °C,Partly sunny.,9 km/h,↑,35%,1014 mbar,5 km,20240402
+12:00,27 °C,Partly sunny.,15 km/h,↑,28%,1014 mbar,6 km,20240402
+15:00,28 °C,Partly sunny.,6 km/h,↑,26%,1012 mbar,6 km,20240402
+18:00,26 °C,Thunderstorms. Partly sunny.,15 km/h,↑,32%,1011 mbar,5 km,20240402
+21:00,22 °C,Haze.,9 km/h,↑,44%,1012 mbar,6 km,20240402
+"00:00Wed, 3 Apr",21 °C,Passing clouds.,2 km/h,↑,43%,1012 mbar,5 km,20240403
+03:00,18 °C,Haze.,2 km/h,↑,52%,1011 mbar,4 km,20240403
+06:00,17 °C,Clear.,6 km/h,↑,54%,1012 mbar,5 km,20240403
+09:00,23 °C,Sunny.,9 km/h,↑,37%,1013 mbar,4 km,20240403
+12:00,28 °C,Sunny.,13 km/h,↑,25%,1011 mbar,5 km,20240403
+15:00,28 °C,Haze.,19 km/h,↑,19%,1012 mbar,7 km,20240403
+18:00,26 °C,Scattered clouds.,15 km/h,↑,32%,1012 mbar,5 km,20240403
+21:00,22 °C,Clear.,6 km/h,↑,54%,1013 mbar,7 km,20240403
+"00:00Thu, 4 Apr",19 °C,Clear.,No wind,↑,46%,1014 mbar,7 km,20240404
+03:00,18 °C,Clear.,No wind,↑,53%,1013 mbar,6 km,20240404
+06:00,16 °C,Clear.,No wind,↑,60%,1014 mbar,6 km,20240404
+09:00,22 °C,Sunny.,No wind,↑,34%,1015 mbar,5 km,20240404
+12:00,26 °C,Sunny.,6 km/h,↑,22%,1015 mbar,6 km,20240404
+18:00,25 °C,Sunny.,19 km/h,↑,26%,1014 mbar,7 km,20240404
+21:00,19 °C,Clear.,13 km/h,↑,36%,1016 mbar,10 km,20240404
+"00:00Fri, 5 Apr",17 °C,Clear.,7 km/h,↑,27%,1015 mbar,8 km,20240405
+03:00,17 °C,Clear.,No wind,↑,26%,1014 mbar,8 km,20240405
+06:00,16 °C,Clear.,11 km/h,↑,23%,1015 mbar,7 km,20240405
+09:00,20 °C,Sunny.,9 km/h,↑,20%,1016 mbar,4 km,20240405
+12:00,25 °C,Sunny.,9 km/h,↑,15%,1018 mbar,5 km,20240405
+15:00,26 °C,Sunny.,19 km/h,↑,14%,1015 mbar,6 km,20240405
+18:00,23 °C,Scattered clouds.,15 km/h,↑,23%,1014 mbar,6 km,20240405
+21:00,18 °C,Clear.,No wind,↑,46%,1014 mbar,8 km,20240405
+"00:00Sat, 6 Apr",18 °C,Clear.,No wind,↑,37%,1013 mbar,8 km,20240406
+03:00,16 °C,Clear.,No wind,↑,31%,1012 mbar,8 km,20240406
+06:00,14 °C,Passing clouds.,11 km/h,↑,53%,1013 mbar,5 km,20240406
+09:00,15 °C,Scattered clouds.,No wind,↑,53%,1014 mbar,7 km,20240406
+12:00,19 °C,Haze.,13 km/h,↑,48%,1014 mbar,7 km,20240406
+15:00,20 °C,Haze.,19 km/h,↑,39%,1011 mbar,5 km,20240406
+18:00,19 °C,Haze.,24 km/h,↑,46%,1011 mbar,4 km,20240406
+"00:00Sun, 7 Apr",12 °C,Haze.,6 km/h,↑,75%,1012 mbar,8 km,20240407
+03:00,11 °C,Passing clouds.,19 km/h,↑,81%,1010 mbar,8 km,20240407
+06:00,11 °C,Passing clouds.,7 km/h,↑,77%,1010 mbar,6 km,20240407
+09:00,15 °C,Haze.,15 km/h,↑,65%,1012 mbar,6 km,20240407
+12:00,19 °C,Haze.,15 km/h,↑,48%,1011 mbar,7 km,20240407
+15:00,20 °C,Overcast.,19 km/h,↑,39%,1009 mbar,5 km,20240407
+18:00,18 °C,Overcast.,26 km/h,↑,48%,1008 mbar,5 km,20240407
+21:00,15 °C,Haze.,13 km/h,↑,69%,1010 mbar,8 km,20240407
+"00:00Mon, 8 Apr",14 °C,Clear.,No wind,↑,70%,1009 mbar,10 km,20240408
+03:00,12 °C,Clear.,No wind,↑,70%,1009 mbar,10 km,20240408
+06:00,13 °C,Passing clouds.,6 km/h,↑,63%,1012 mbar,7 km,20240408
+09:00,14 °C,Overcast.,9 km/h,↑,68%,1011 mbar,6 km,20240408
+12:00,19 °C,Partly sunny.,19 km/h,↑,41%,1010 mbar,8 km,20240408
+15:00,21 °C,Partly sunny.,24 km/h,↑,38%,1009 mbar,5 km,20240408
+18:00,18 °C,Partly sunny.,13 km/h,↑,47%,1008 mbar,5 km,20240408
+"00:00Tue, 9 Apr",14 °C,Drizzle. Overcast.,6 km/h,↑,78%,1010 mbar,5 km,20240409
+03:00,13 °C,Fog.,4 km/h,↑,87%,1008 mbar,4 km,20240409
+06:00,12 °C,Fog.,6 km/h,↑,88%,1008 mbar,3 km,20240409
+09:00,16 °C,Scattered clouds.,N/A,↑,53%,1009 mbar,6 km,20240409
+12:00,20 °C,Partly sunny.,11 km/h,↑,41%,1009 mbar,6 km,20240409
+15:00,20 °C,Partly sunny.,28 km/h,↑,39%,1010 mbar,6 km,20240409
+18:00,16 °C,Scattered clouds.,22 km/h,↑,60%,1010 mbar,4 km,20240409
+21:00,13 °C,Haze.,7 km/h,↑,64%,1011 mbar,5 km,20240409
+"00:00Wed, 10 Apr",13 °C,Haze.,7 km/h,↑,69%,1012 mbar,7 km,20240410
+03:00,12 °C,Passing clouds.,6 km/h,↑,79%,1011 mbar,5 km,20240410
+06:00,12 °C,Rain. Overcast.,17 km/h,↑,81%,1011 mbar,6 km,20240410
+09:00,12 °C,Drizzle. Overcast.,19 km/h,↑,88%,1013 mbar,3 km,20240410
+12:00,15 °C,Drizzle. Overcast.,22 km/h,↑,74%,1014 mbar,5 km,20240410
+15:00,15 °C,Drizzle. Overcast.,32 km/h,↑,77%,1014 mbar,5 km,20240410
+18:00,15 °C,Partly sunny.,20 km/h,↑,70%,1015 mbar,5 km,20240410
+21:00,13 °C,Fog.,13 km/h,↑,84%,1017 mbar,7 km,20240410
+"00:00Thu, 11 Apr",11 °C,Passing clouds.,11 km/h,↑,83%,1017 mbar,10 km,20240411
+03:00,11 °C,Clear.,9 km/h,↑,79%,1017 mbar,10 km,20240411
+06:00,11 °C,Passing clouds.,7 km/h,↑,80%,1016 mbar,10 km,20240411
+09:00,14 °C,Haze.,11 km/h,↑,59%,1017 mbar,5 km,20240411
+12:00,18 °C,Partly sunny.,17 km/h,↑,55%,1017 mbar,7 km,20240411
+15:00,20 °C,Scattered clouds.,15 km/h,↑,45%,1016 mbar,7 km,20240411
+18:00,19 °C,Scattered clouds.,19 km/h,↑,59%,1016 mbar,7 km,20240411
+21:00,15 °C,Clear.,6 km/h,↑,74%,1017 mbar,8 km,20240411
+"00:00Fri, 12 Apr",14 °C,Clear.,7 km/h,↑,71%,1017 mbar,8 km,20240412
+03:00,13 °C,Clear.,No wind,↑,64%,1016 mbar,8 km,20240412
+06:00,12 °C,Clear.,No wind,↑,72%,1016 mbar,5 km,20240412
+09:00,17 °C,Sunny.,No wind,↑,53%,1016 mbar,7 km,20240412
+12:00,22 °C,Scattered clouds.,N/A,↑,38%,1015 mbar,10 km,20240412
+15:00,22 °C,Haze.,19 km/h,↑,39%,1014 mbar,8 km,20240412
+18:00,20 °C,Haze.,19 km/h,↑,48%,1015 mbar,8 km,20240412
+21:00,16 °C,Haze.,6 km/h,↑,79%,1015 mbar,8 km,20240412
+"00:00Sat, 13 Apr",15 °C,Clear.,No wind,↑,72%,1015 mbar,8 km,20240413
+03:00,13 °C,Clear.,No wind,↑,79%,1014 mbar,8 km,20240413
+06:00,12 °C,Clear.,No wind,↑,84%,1014 mbar,5 km,20240413
+09:00,17 °C,Sunny.,No wind,↑,62%,1015 mbar,4 km,20240413
+12:00,22 °C,Haze.,13 km/h,↑,38%,1014 mbar,5 km,20240413
+15:00,23 °C,Scattered clouds.,15 km/h,↑,41%,1012 mbar,7 km,20240413
+18:00,21 °C,Haze.,22 km/h,↑,58%,1013 mbar,4 km,20240413
+21:00,17 °C,Clear.,6 km/h,↑,59%,1014 mbar,7 km,20240413
+"00:00Sun, 14 Apr",14 °C,Clear.,No wind,↑,69%,1014 mbar,8 km,20240414
+03:00,15 °C,Clear.,9 km/h,↑,65%,1012 mbar,10 km,20240414
+06:00,14 °C,Clear.,9 km/h,↑,74%,1013 mbar,8 km,20240414
+09:00,17 °C,Haze.,7 km/h,↑,66%,1014 mbar,6 km,20240414
+12:00,21 °C,Haze.,19 km/h,↑,42%,1013 mbar,5 km,20240414
+15:00,22 °C,Scattered clouds.,19 km/h,↑,38%,1011 mbar,6 km,20240414
+18:00,20 °C,Scattered clouds.,22 km/h,↑,61%,1011 mbar,6 km,20240414
+21:00,16 °C,Clear.,19 km/h,↑,67%,1012 mbar,8 km,20240414
+"00:00Mon, 15 Apr",15 °C,Clear.,9 km/h,↑,58%,1012 mbar,10 km,20240415
+03:00,14 °C,Passing clouds.,15 km/h,↑,78%,1012 mbar,10 km,20240415
+06:00,13 °C,Passing clouds.,7 km/h,↑,86%,1012 mbar,8 km,20240415
+09:00,17 °C,Haze.,6 km/h,↑,64%,1014 mbar,5 km,20240415
+12:00,21 °C,Scattered clouds.,9 km/h,↑,42%,1013 mbar,7 km,20240415
+15:00,23 °C,Scattered clouds.,19 km/h,↑,38%,1013 mbar,5 km,20240415
+18:00,21 °C,Haze.,20 km/h,↑,51%,1013 mbar,7 km,20240415
+21:00,18 °C,Passing clouds.,9 km/h,↑,67%,1015 mbar,5 km,20240415
+"00:00Tue, 16 Apr",16 °C,Passing clouds.,6 km/h,↑,71%,1012 mbar,5 km,20240416
+03:00,15 °C,Fog.,N/A,↑,81%,1015 mbar,5 km,20240416
+06:00,15 °C,Clear.,No wind,↑,71%,1016 mbar,5 km,20240416
+09:00,19 °C,Sunny.,6 km/h,↑,52%,1016 mbar,5 km,20240416
+12:00,24 °C,Haze.,9 km/h,↑,31%,1016 mbar,6 km,20240416
+15:00,27 °C,Haze.,9 km/h,↑,22%,1014 mbar,8 km,20240416
+18:00,26 °C,Haze.,11 km/h,↑,28%,1014 mbar,7 km,20240416
+21:00,21 °C,Haze.,11 km/h,↑,51%,1014 mbar,5 km,20240416
+"00:00Wed, 17 Apr",18 °C,Clear.,6 km/h,↑,65%,1014 mbar,5 km,20240417
+03:00,16 °C,Clear.,No wind,↑,69%,1012 mbar,5 km,20240417
+06:00,16 °C,Haze.,2 km/h,↑,67%,1013 mbar,6 km,20240417
+09:00,23 °C,Sunny.,6 km/h,↑,35%,1013 mbar,5 km,20240417
+12:00,28 °C,Sunny.,11 km/h,↑,20%,1011 mbar,8 km,20240417
+15:00,30 °C,Sunny.,11 km/h,↑,17%,1009 mbar,10 km,20240417
+18:00,28 °C,Sunny.,15 km/h,↑,19%,1009 mbar,5 km,20240417
+21:00,25 °C,Clear.,6 km/h,↑,24%,1009 mbar,10 km,20240417
+"00:00Thu, 18 Apr",21 °C,Clear.,No wind,↑,36%,1010 mbar,10 km,20240418
+03:00,20 °C,Clear.,9 km/h,↑,37%,1008 mbar,10 km,20240418
+06:00,19 °C,Haze.,6 km/h,↑,40%,1008 mbar,8 km,20240418
+09:00,24 °C,Haze.,15 km/h,↑,29%,1009 mbar,5 km,20240418
+12:00,25 °C,Sunny.,20 km/h,↑,30%,1011 mbar,3 km,20240418
+15:00,27 °C,Sunny.,22 km/h,↑,26%,1010 mbar,2 km,20240418
+18:00,24 °C,Sunny.,20 km/h,↑,40%,1010 mbar,2 km,20240418
+21:00,19 °C,Clear.,6 km/h,↑,66%,1012 mbar,3 km,20240418
+"00:00Fri, 19 Apr",17 °C,Clear.,No wind,↑,62%,1012 mbar,4 km,20240419
+03:00,14 °C,Clear.,7 km/h,↑,75%,1011 mbar,4 km,20240419
+06:00,13 °C,Clear.,7 km/h,↑,84%,1012 mbar,4 km,20240419
+09:00,19 °C,Sunny.,7 km/h,↑,49%,1013 mbar,7 km,20240419
+12:00,22 °C,Sunny.,6 km/h,↑,44%,1012 mbar,6 km,20240419
+15:00,25 °C,Sunny.,19 km/h,↑,33%,1011 mbar,7 km,20240419
+18:00,23 °C,Sunny.,19 km/h,↑,44%,1010 mbar,6 km,20240419
+21:00,18 °C,Clear.,7 km/h,↑,65%,1011 mbar,5 km,20240419
+"00:00Sat, 20 Apr",16 °C,Clear.,No wind,↑,76%,1011 mbar,7 km,20240420
+03:00,13 °C,Clear.,No wind,↑,80%,1010 mbar,7 km,20240420
+06:00,12 °C,Passing clouds.,2 km/h,↑,71%,1010 mbar,6 km,20240420
+09:00,20 °C,Scattered clouds.,11 km/h,↑,22%,1011 mbar,5 km,20240420
+12:00,25 °C,Overcast.,11 km/h,↑,12%,1010 mbar,6 km,20240420
+15:00,26 °C,Partly sunny.,22 km/h,↑,6%,1010 mbar,6 km,20240420
+18:00,23 °C,Partly sunny.,22 km/h,↑,28%,1010 mbar,5 km,20240420
+21:00,21 °C,Passing clouds.,9 km/h,↑,31%,1010 mbar,7 km,20240420
+"00:00Sun, 21 Apr",20 °C,Clear.,13 km/h,↑,25%,1010 mbar,10 km,20240421
+03:00,17 °C,Clear.,6 km/h,↑,43%,1011 mbar,10 km,20240421
+06:00,14 °C,Sunny.,19 km/h,↑,76%,1013 mbar,8 km,20240421
+09:00,18 °C,Haze.,13 km/h,↑,66%,1013 mbar,5 km,20240421
+12:00,22 °C,Haze.,17 km/h,↑,48%,1014 mbar,5 km,20240421
+18:00,21 °C,Haze.,22 km/h,↑,45%,1015 mbar,6 km,20240421
+21:00,16 °C,Clear.,11 km/h,↑,63%,1017 mbar,8 km,20240421
+"00:00Mon, 22 Apr",14 °C,Clear.,No wind,↑,45%,1016 mbar,8 km,20240422
+03:00,15 °C,Clear.,No wind,↑,41%,1016 mbar,8 km,20240422
+06:00,12 °C,Sunny.,No wind,↑,55%,1017 mbar,8 km,20240422
+09:00,16 °C,Sunny.,6 km/h,↑,51%,1019 mbar,5 km,20240422
+12:00,25 °C,Haze.,6 km/h,↑,18%,1018 mbar,6 km,20240422
+15:00,27 °C,Scattered clouds.,11 km/h,↑,12%,1017 mbar,5 km,20240422
+18:00,25 °C,Scattered clouds.,24 km/h,↑,13%,1018 mbar,4 km,20240422
+21:00,22 °C,Passing clouds.,13 km/h,↑,25%,1018 mbar,5 km,20240422
+"00:00Tue, 23 Apr",20 °C,Passing clouds.,4 km/h,↑,38%,1018 mbar,4 km,20240423
+03:00,18 °C,Passing clouds.,N/A,↑,39%,1019 mbar,4 km,20240423
+06:00,17 °C,Sunny.,No wind,↑,43%,1018 mbar,4 km,20240423
+09:00,24 °C,Sunny.,6 km/h,↑,24%,1018 mbar,5 km,20240423
+12:00,29 °C,Sunny.,15 km/h,↑,11%,1017 mbar,6 km,20240423
+15:00,31 °C,Sunny.,15 km/h,↑,11%,1015 mbar,6 km,20240423
+18:00,31 °C,Sunny.,11 km/h,↑,11%,1014 mbar,4 km,20240423
+21:00,27 °C,Clear.,7 km/h,↑,17%,1014 mbar,5 km,20240423
+"00:00Wed, 24 Apr",22 °C,Clear.,No wind,↑,28%,1015 mbar,5 km,20240424
+03:00,22 °C,Clear.,9 km/h,↑,22%,1013 mbar,5 km,20240424
+06:00,22 °C,Haze.,9 km/h,↑,23%,1013 mbar,6 km,20240424
+09:00,26 °C,Haze.,15 km/h,↑,17%,1014 mbar,5 km,20240424
+12:00,30 °C,Sunny.,19 km/h,↑,13%,1013 mbar,5 km,20240424
+15:00,33 °C,Sunny.,7 km/h,↑,9%,1010 mbar,4 km,20240424
+18:00,32 °C,Scattered clouds.,7 km/h,↑,11%,1009 mbar,3 km,20240424
+21:00,28 °C,Passing clouds.,6 km/h,↑,17%,1009 mbar,5 km,20240424
+"00:00Thu, 25 Apr",24 °C,Passing clouds.,7 km/h,↑,21%,1009 mbar,5 km,20240425
+03:00,24 °C,Passing clouds.,7 km/h,↑,22%,1008 mbar,5 km,20240425
+06:00,20 °C,Scattered clouds.,No wind,↑,31%,1009 mbar,5 km,20240425
+09:00,27 °C,Scattered clouds.,N/A,↑,18%,1013 mbar,3 km,20240425
+12:00,33 °C,Scattered clouds.,9 km/h,↑,11%,1007 mbar,5 km,20240425
+15:00,36 °C,Haze.,9 km/h,↑,9%,1005 mbar,6 km,20240425
+18:00,33 °C,Overcast.,11 km/h,↑,14%,1005 mbar,5 km,20240425
+21:00,29 °C,Passing clouds.,7 km/h,↑,14%,1006 mbar,7 km,20240425
+"00:00Fri, 26 Apr",26 °C,Passing clouds.,No wind,↑,19%,1005 mbar,6 km,20240426
+03:00,24 °C,Passing clouds.,6 km/h,↑,23%,1005 mbar,7 km,20240426
+06:00,20 °C,Scattered clouds.,No wind,↑,32%,1006 mbar,6 km,20240426
+09:00,27 °C,Partly sunny.,6 km/h,↑,17%,1006 mbar,5 km,20240426
+15:00,31 °C,Partly sunny.,19 km/h,↑,28%,1005 mbar,5 km,20240426
+18:00,27 °C,Partly sunny.,15 km/h,↑,36%,1006 mbar,6 km,20240426
+21:00,24 °C,Passing clouds.,11 km/h,↑,48%,1006 mbar,5 km,20240426
+"00:00Sat, 27 Apr",22 °C,Passing clouds.,11 km/h,↑,57%,1006 mbar,6 km,20240427
+03:00,20 °C,Passing clouds.,13 km/h,↑,56%,1006 mbar,6 km,20240427
+06:00,19 °C,Partly sunny.,4 km/h,↑,61%,1008 mbar,4 km,20240427
+09:00,22 °C,Partly sunny.,7 km/h,↑,45%,1008 mbar,4 km,20240427
+12:00,26 °C,Overcast.,11 km/h,↑,34%,1007 mbar,4 km,20240427
+15:00,28 °C,Overcast.,6 km/h,↑,28%,1007 mbar,4 km,20240427
+18:00,25 °C,Overcast.,15 km/h,↑,40%,1007 mbar,4 km,20240427
+21:00,22 °C,Overcast.,7 km/h,↑,54%,1008 mbar,5 km,20240427
+"00:00Sun, 28 Apr",20 °C,Passing clouds.,11 km/h,↑,66%,1008 mbar,7 km,20240428
+03:00,20 °C,Passing clouds.,9 km/h,↑,69%,1008 mbar,7 km,20240428
+06:00,19 °C,Partly sunny.,11 km/h,↑,74%,1009 mbar,5 km,20240428
+09:00,22 °C,Overcast.,9 km/h,↑,53%,1011 mbar,5 km,20240428
+12:00,27 °C,Overcast.,7 km/h,↑,34%,1010 mbar,5 km,20240428
+15:00,29 °C,Overcast.,13 km/h,↑,35%,1008 mbar,4 km,20240428
+18:00,25 °C,Overcast.,19 km/h,↑,43%,1009 mbar,5 km,20240428
+21:00,22 °C,Passing clouds.,6 km/h,↑,57%,1010 mbar,6 km,20240428
+"00:00Mon, 29 Apr",21 °C,Passing clouds.,No wind,↑,62%,1010 mbar,7 km,20240429
+03:00,21 °C,Passing clouds.,No wind,↑,65%,1009 mbar,7 km,20240429
+06:00,20 °C,Overcast.,11 km/h,↑,67%,1013 mbar,6 km,20240429
+09:00,21 °C,Overcast.,2 km/h,↑,66%,1010 mbar,4 km,20240429
+12:00,26 °C,Overcast.,13 km/h,↑,47%,1010 mbar,4 km,20240429
+15:00,25 °C,Overcast.,13 km/h,↑,36%,1009 mbar,5 km,20240429
+18:00,24 °C,Overcast.,15 km/h,↑,48%,1008 mbar,5 km,20240429
+21:00,20 °C,Passing clouds.,N/A,↑,78%,1009 mbar,5 km,20240429
+"00:00Tue, 30 Apr",21 °C,Passing clouds.,13 km/h,↑,62%,1008 mbar,5 km,20240430
+03:00,18 °C,Passing clouds.,9 km/h,↑,72%,1008 mbar,5 km,20240430
+06:00,17 °C,Partly sunny.,15 km/h,↑,82%,1012 mbar,3 km,20240430
+09:00,19 °C,Overcast.,7 km/h,↑,72%,1010 mbar,4 km,20240430
+12:00,20 °C,Overcast.,13 km/h,↑,67%,1010 mbar,4 km,20240430
+15:00,24 °C,Partly sunny.,19 km/h,↑,50%,1008 mbar,4 km,20240430
+18:00,22 °C,Partly sunny.,22 km/h,↑,58%,1007 mbar,4 km,20240430
+21:00,18 °C,Passing clouds.,6 km/h,↑,79%,1008 mbar,5 km,20240430
+"00:00Wed, 1 May",17 °C,Passing clouds.,7 km/h,↑,87%,1009 mbar,6 km,20240501
+03:00,16 °C,Clear.,4 km/h,↑,90%,1008 mbar,3 km,20240501
+06:00,16 °C,Fog.,11 km/h,↑,90%,1009 mbar,3 km,20240501
+09:00,19 °C,Haze.,6 km/h,↑,63%,1010 mbar,5 km,20240501
+12:00,22 °C,Haze.,15 km/h,↑,50%,1009 mbar,5 km,20240501
+15:00,24 °C,Scattered clouds.,19 km/h,↑,43%,1008 mbar,5 km,20240501
+18:00,22 °C,Partly sunny.,22 km/h,↑,57%,1008 mbar,5 km,20240501
+21:00,19 °C,Passing clouds.,15 km/h,↑,73%,1009 mbar,7 km,20240501
+"00:00Thu, 2 May",18 °C,Clear.,13 km/h,↑,74%,1008 mbar,10 km,20240502
+03:00,18 °C,Passing clouds.,13 km/h,↑,78%,1008 mbar,7 km,20240502
+06:00,17 °C,Partly sunny.,13 km/h,↑,81%,1008 mbar,5 km,20240502
+09:00,19 °C,Scattered clouds.,20 km/h,↑,68%,1010 mbar,4 km,20240502
+12:00,23 °C,Partly sunny.,22 km/h,↑,52%,1009 mbar,5 km,20240502
+15:00,24 °C,Overcast.,19 km/h,↑,48%,1008 mbar,6 km,20240502
+18:00,22 °C,Partly sunny.,22 km/h,↑,58%,1008 mbar,6 km,20240502
+21:00,18 °C,Passing clouds.,15 km/h,↑,68%,1009 mbar,6 km,20240502
+"00:00Fri, 3 May",16 °C,Clear.,7 km/h,↑,70%,1009 mbar,6 km,20240503
+03:00,14 °C,Clear.,26 km/h,↑,73%,1008 mbar,6 km,20240503
+06:00,14 °C,Fog.,22 km/h,↑,87%,1009 mbar,3 km,20240503
+09:00,17 °C,Haze.,19 km/h,↑,69%,1010 mbar,6 km,20240503
+12:00,22 °C,Passing clouds.,30 km/h,↑,41%,1010 mbar,7 km,20240503
+15:00,24 °C,Passing clouds.,33 km/h,↑,37%,1008 mbar,7 km,20240503
+18:00,23 °C,Passing clouds.,26 km/h,↑,33%,1009 mbar,7 km,20240503
+21:00,19 °C,Clear.,11 km/h,↑,45%,1011 mbar,5 km,20240503
+"00:00Sat, 4 May",17 °C,Clear.,15 km/h,↑,56%,1010 mbar,7 km,20240504
+03:00,15 °C,Clear.,15 km/h,↑,73%,1010 mbar,7 km,20240504
+06:00,14 °C,Haze.,13 km/h,↑,81%,1011 mbar,6 km,20240504
+09:00,17 °C,Haze.,19 km/h,↑,71%,1012 mbar,5 km,20240504
+12:00,22 °C,Haze.,26 km/h,↑,38%,1012 mbar,5 km,20240504
+15:00,24 °C,Passing clouds.,33 km/h,↑,29%,1011 mbar,5 km,20240504
+18:00,23 °C,Sunny.,33 km/h,↑,23%,1011 mbar,4 km,20240504
+21:00,19 °C,Clear.,19 km/h,↑,37%,1011 mbar,7 km,20240504
+"00:00Sun, 5 May",17 °C,Passing clouds.,17 km/h,↑,37%,1011 mbar,7 km,20240505
+03:00,15 °C,Passing clouds.,22 km/h,↑,66%,1008 mbar,7 km,20240505
+06:00,15 °C,Scattered clouds.,11 km/h,↑,71%,1008 mbar,6 km,20240505
+09:00,18 °C,Haze.,17 km/h,↑,43%,1009 mbar,6 km,20240505
+12:00,21 °C,Haze.,19 km/h,↑,34%,1009 mbar,6 km,20240505
+15:00,22 °C,Partly sunny.,26 km/h,↑,34%,1008 mbar,6 km,20240505
+21:00,16 °C,Haze.,19 km/h,↑,53%,1009 mbar,7 km,20240505
+"00:00Mon, 6 May",14 °C,Passing clouds.,22 km/h,↑,62%,1009 mbar,7 km,20240506
+03:00,14 °C,Passing clouds.,15 km/h,↑,76%,1008 mbar,7 km,20240506
+06:00,13 °C,Light rain. Partly sunny.,20 km/h,↑,78%,1009 mbar,7 km,20240506
+09:00,13 °C,Light rain. Overcast.,11 km/h,↑,89%,1011 mbar,3 km,20240506
+12:00,14 °C,Rain. Partly sunny.,19 km/h,↑,83%,1012 mbar,4 km,20240506
+15:00,18 °C,Scattered clouds.,22 km/h,↑,56%,1011 mbar,5 km,20240506
+18:00,16 °C,Scattered clouds.,19 km/h,↑,80%,1012 mbar,5 km,20240506
+21:00,14 °C,Passing clouds.,17 km/h,↑,73%,1014 mbar,7 km,20240506
+"00:00Tue, 7 May",13 °C,Passing clouds.,9 km/h,↑,77%,1014 mbar,5 km,20240507
+03:00,12 °C,Passing clouds.,22 km/h,↑,74%,1014 mbar,5 km,20240507
+06:00,12 °C,Partly sunny.,17 km/h,↑,87%,1014 mbar,5 km,20240507
+09:00,15 °C,Partly sunny.,15 km/h,↑,68%,1015 mbar,6 km,20240507
+12:00,18 °C,Partly sunny.,22 km/h,↑,45%,1016 mbar,7 km,20240507
+15:00,21 °C,Partly sunny.,22 km/h,↑,38%,1014 mbar,7 km,20240507
+18:00,20 °C,Sunny.,19 km/h,↑,34%,1014 mbar,6 km,20240507
+21:00,15 °C,Clear.,17 km/h,↑,58%,1017 mbar,6 km,20240507
+"00:00Wed, 8 May",12 °C,Clear.,11 km/h,↑,71%,1017 mbar,6 km,20240508
+03:00,13 °C,Clear.,9 km/h,↑,33%,1016 mbar,6 km,20240508
+06:00,12 °C,Sunny.,7 km/h,↑,39%,1020 mbar,10 km,20240508
+09:00,17 °C,Haze.,7 km/h,↑,36%,1018 mbar,7 km,20240508
+12:00,21 °C,Scattered clouds.,11 km/h,↑,21%,1017 mbar,7 km,20240508
+15:00,26 °C,Passing clouds.,13 km/h,↑,21%,1015 mbar,10 km,20240508
+18:00,25 °C,Sunny.,7 km/h,↑,16%,1014 mbar,6 km,20240508
+21:00,20 °C,Clear.,6 km/h,↑,26%,1015 mbar,6 km,20240508
+"00:00Thu, 9 May",17 °C,Clear.,7 km/h,↑,28%,1015 mbar,7 km,20240509
+03:00,15 °C,Clear.,No wind,↑,43%,1014 mbar,10 km,20240509
+06:00,15 °C,Passing clouds.,No wind,↑,34%,1014 mbar,10 km,20240509
+09:00,23 °C,Haze.,9 km/h,↑,18%,1014 mbar,7 km,20240509
+12:00,28 °C,Sunny.,17 km/h,↑,10%,1012 mbar,6 km,20240509
+15:00,31 °C,Sunny.,15 km/h,↑,12%,1009 mbar,7 km,20240509
+18:00,30 °C,Sunny.,19 km/h,↑,10%,1009 mbar,7 km,20240509
+21:00,24 °C,Clear.,9 km/h,↑,24%,1009 mbar,7 km,20240509
+"00:00Fri, 10 May",22 °C,Clear.,6 km/h,↑,33%,1009 mbar,6 km,20240510
+03:00,20 °C,Passing clouds.,6 km/h,↑,35%,1008 mbar,5 km,20240510
+06:00,19 °C,Scattered clouds.,4 km/h,↑,40%,1008 mbar,6 km,20240510
+09:00,25 °C,Haze.,4 km/h,↑,24%,1009 mbar,7 km,20240510
+12:00,34 °C,Overcast.,N/A,↑,10%,1008 mbar,6 km,20240510
+15:00,33 °C,Partly sunny.,24 km/h,↑,12%,1008 mbar,5 km,20240510
+18:00,30 °C,Partly sunny.,13 km/h,↑,13%,1008 mbar,4 km,20240510
+21:00,28 °C,Overcast.,20 km/h,↑,12%,1010 mbar,4 km,20240510
+"00:00Sat, 11 May",26 °C,Passing clouds.,No wind,↑,24%,1008 mbar,5 km,20240511
+03:00,24 °C,Passing clouds.,No wind,↑,30%,1007 mbar,6 km,20240511
+06:00,25 °C,Overcast.,11 km/h,↑,24%,1005 mbar,4 km,20240511
+09:00,26 °C,Scattered clouds.,19 km/h,↑,26%,1007 mbar,5 km,20240511
+12:00,29 °C,Scattered clouds.,22 km/h,↑,21%,1007 mbar,5 km,20240511
+15:00,28 °C,Passing clouds.,28 km/h,↑,22%,1008 mbar,4 km,20240511
+18:00,24 °C,Sunny.,20 km/h,↑,38%,1008 mbar,3 km,20240511
+21:00,19 °C,Clear.,11 km/h,↑,59%,1010 mbar,4 km,20240511
+"00:00Sun, 12 May",18 °C,Clear.,17 km/h,↑,50%,1010 mbar,5 km,20240512
+03:00,16 °C,Clear.,19 km/h,↑,54%,1009 mbar,6 km,20240512
+06:00,15 °C,Partly sunny.,19 km/h,↑,73%,1011 mbar,6 km,20240512
+09:00,17 °C,Scattered clouds.,13 km/h,↑,61%,1012 mbar,5 km,20240512
+12:00,21 °C,Scattered clouds.,24 km/h,↑,46%,1012 mbar,7 km,20240512
+15:00,23 °C,Partly sunny.,32 km/h,↑,40%,1011 mbar,5 km,20240512
+18:00,21 °C,Partly sunny.,22 km/h,↑,49%,1011 mbar,6 km,20240512
+21:00,16 °C,Haze.,15 km/h,↑,64%,1012 mbar,7 km,20240512
+"00:00Mon, 13 May",15 °C,Haze.,13 km/h,↑,71%,1013 mbar,7 km,20240513
+03:00,15 °C,Passing clouds.,19 km/h,↑,71%,1011 mbar,8 km,20240513
+06:00,14 °C,Overcast.,22 km/h,↑,82%,1011 mbar,8 km,20240513
+09:00,16 °C,Partly sunny.,20 km/h,↑,67%,1012 mbar,7 km,20240513
+12:00,16 °C,Fog.,20 km/h,↑,86%,1013 mbar,5 km,20240513
+15:00,21 °C,Partly sunny.,26 km/h,↑,42%,1011 mbar,7 km,20240513
+18:00,19 °C,Scattered clouds.,26 km/h,↑,47%,1011 mbar,6 km,20240513
+21:00,15 °C,Haze.,17 km/h,↑,65%,1013 mbar,7 km,20240513
+"00:00Tue, 14 May",14 °C,Passing clouds.,11 km/h,↑,66%,1013 mbar,7 km,20240514
+03:00,14 °C,Passing clouds.,13 km/h,↑,71%,1012 mbar,7 km,20240514
+06:00,13 °C,Scattered clouds.,15 km/h,↑,78%,1012 mbar,5 km,20240514
+09:00,17 °C,Scattered clouds.,13 km/h,↑,65%,1013 mbar,5 km,20240514
+12:00,20 °C,Scattered clouds.,6 km/h,↑,48%,1013 mbar,7 km,20240514
+15:00,22 °C,Haze.,13 km/h,↑,39%,1011 mbar,6 km,20240514
+18:00,23 °C,Haze.,11 km/h,↑,38%,1011 mbar,6 km,20240514
+21:00,17 °C,Haze.,13 km/h,↑,68%,1013 mbar,6 km,20240514
+"00:00Wed, 15 May",16 °C,Clear.,15 km/h,↑,72%,1013 mbar,5 km,20240515
+03:00,15 °C,Clear.,4 km/h,↑,48%,1013 mbar,5 km,20240515
+06:00,12 °C,Sunny.,4 km/h,↑,55%,1017 mbar,7 km,20240515
+09:00,20 °C,Haze.,19 km/h,↑,28%,1014 mbar,7 km,20240515
+12:00,23 °C,Sunny.,13 km/h,↑,25%,1014 mbar,6 km,20240515
+15:00,24 °C,Haze.,19 km/h,↑,36%,1014 mbar,7 km,20240515
+18:00,23 °C,Passing clouds.,22 km/h,↑,39%,1014 mbar,5 km,20240515
+21:00,17 °C,Clear.,11 km/h,↑,59%,1015 mbar,10 km,20240515
+"00:00Thu, 16 May",16 °C,Clear.,17 km/h,↑,45%,1016 mbar,10 km,20240516
+03:00,13 °C,Clear.,9 km/h,↑,74%,1016 mbar,10 km,20240516
+06:00,12 °C,Sunny.,6 km/h,↑,77%,1017 mbar,10 km,20240516
+09:00,19 °C,Sunny.,11 km/h,↑,35%,1018 mbar,6 km,20240516
+12:00,24 °C,Sunny.,13 km/h,↑,23%,1017 mbar,8 km,20240516
+15:00,25 °C,Sunny.,20 km/h,↑,20%,1017 mbar,7 km,20240516
+18:00,24 °C,Sunny.,19 km/h,↑,33%,1017 mbar,7 km,20240516
+21:00,20 °C,Clear.,9 km/h,↑,39%,1018 mbar,7 km,20240516
+"00:00Fri, 17 May",19 °C,Clear.,15 km/h,↑,32%,1018 mbar,8 km,20240517
+03:00,19 °C,Clear.,19 km/h,↑,29%,1017 mbar,7 km,20240517
+06:00,15 °C,Sunny.,No wind,↑,61%,1018 mbar,4 km,20240517
+09:00,23 °C,Sunny.,No wind,↑,36%,1018 mbar,10 km,20240517
+12:00,27 °C,Sunny.,11 km/h,↑,22%,1018 mbar,10 km,20240517
+15:00,30 °C,Sunny.,11 km/h,↑,21%,1017 mbar,5 km,20240517
+18:00,27 °C,Sunny.,22 km/h,↑,39%,1018 mbar,5 km,20240517
+21:00,24 °C,Clear.,11 km/h,↑,29%,1017 mbar,7 km,20240517
+"00:00Sat, 18 May",22 °C,Clear.,No wind,↑,41%,1017 mbar,7 km,20240518
+03:00,22 °C,Clear.,No wind,↑,38%,1015 mbar,7 km,20240518
+06:00,21 °C,Sunny.,No wind,↑,39%,1015 mbar,6 km,20240518
+09:00,26 °C,Sunny.,7 km/h,↑,28%,1016 mbar,4 km,20240518
+12:00,31 °C,Passing clouds.,19 km/h,↑,19%,1015 mbar,5 km,20240518
+15:00,31 °C,Sunny.,19 km/h,↑,19%,1013 mbar,5 km,20240518
+18:00,30 °C,Sunny.,20 km/h,↑,26%,1013 mbar,4 km,20240518
+21:00,25 °C,Clear.,6 km/h,↑,34%,1013 mbar,5 km,20240518
+"00:00Sun, 19 May",24 °C,Clear.,11 km/h,↑,28%,1012 mbar,6 km,20240519
+03:00,22 °C,Clear.,No wind,↑,32%,1011 mbar,7 km,20240519
+06:00,19 °C,Sunny.,No wind,↑,39%,1012 mbar,4 km,20240519
+09:00,26 °C,Sunny.,4 km/h,↑,28%,1012 mbar,5 km,20240519
+12:00,29 °C,Scattered clouds.,13 km/h,↑,21%,1011 mbar,5 km,20240519
+15:00,31 °C,Overcast.,20 km/h,↑,20%,1010 mbar,4 km,20240519
+18:00,28 °C,Scattered clouds.,24 km/h,↑,26%,1010 mbar,4 km,20240519
+21:00,25 °C,Clear.,No wind,↑,29%,1010 mbar,5 km,20240519
+"00:00Mon, 20 May",24 °C,Clear.,11 km/h,↑,35%,1010 mbar,7 km,20240520
+03:00,23 °C,Clear.,7 km/h,↑,36%,1009 mbar,7 km,20240520
+06:00,21 °C,Scattered clouds.,7 km/h,↑,43%,1009 mbar,5 km,20240520
+09:00,26 °C,Partly sunny.,15 km/h,↑,30%,1010 mbar,4 km,20240520
+12:00,31 °C,Scattered clouds.,24 km/h,↑,20%,1009 mbar,5 km,20240520
+15:00,32 °C,Scattered clouds.,32 km/h,↑,17%,1008 mbar,4 km,20240520
+18:00,30 °C,Scattered clouds.,28 km/h,↑,23%,1008 mbar,3 km,20240520
+21:00,26 °C,Passing clouds.,22 km/h,↑,21%,1008 mbar,5 km,20240520
+"00:00Tue, 21 May",24 °C,Passing clouds.,9 km/h,↑,28%,1008 mbar,5 km,20240521
+03:00,23 °C,Passing clouds.,6 km/h,↑,35%,1007 mbar,5 km,20240521
+06:00,21 °C,Sunny.,15 km/h,↑,38%,1008 mbar,4 km,20240521
+09:00,23 °C,Sunny.,22 km/h,↑,38%,1010 mbar,5 km,20240521
+12:00,29 °C,Sunny.,15 km/h,↑,38%,1010 mbar,5 km,20240521
+15:00,30 °C,Sunny.,26 km/h,↑,31%,1009 mbar,3 km,20240521
+18:00,29 °C,Sunny.,26 km/h,↑,36%,1010 mbar,3 km,20240521
+21:00,25 °C,Clear.,19 km/h,↑,36%,1010 mbar,5 km,20240521
+"00:00Wed, 22 May",22 °C,Clear.,19 km/h,↑,44%,1011 mbar,5 km,20240522
+03:00,22 °C,Clear.,15 km/h,↑,45%,1010 mbar,5 km,20240522
+06:00,21 °C,Haze.,15 km/h,↑,47%,1010 mbar,5 km,20240522
+09:00,26 °C,Haze.,9 km/h,↑,41%,1011 mbar,5 km,20240522
+12:00,30 °C,Haze.,15 km/h,↑,30%,1011 mbar,5 km,20240522
+15:00,32 °C,Partly sunny.,22 km/h,↑,23%,1010 mbar,6 km,20240522
+18:00,30 °C,Partly sunny.,30 km/h,↑,30%,1010 mbar,4 km,20240522
+21:00,25 °C,Passing clouds.,9 km/h,↑,42%,1011 mbar,5 km,20240522
+"00:00Thu, 23 May",24 °C,Passing clouds.,9 km/h,↑,37%,1011 mbar,7 km,20240523
+03:00,23 °C,Passing clouds.,No wind,↑,40%,1010 mbar,7 km,20240523
+06:00,23 °C,Partly sunny.,11 km/h,↑,40%,1010 mbar,5 km,20240523
+09:00,27 °C,Partly sunny.,17 km/h,↑,34%,1011 mbar,6 km,20240523
+12:00,31 °C,Overcast.,17 km/h,↑,25%,1010 mbar,6 km,20240523
+15:00,32 °C,Partly sunny.,19 km/h,↑,26%,1009 mbar,6 km,20240523
+18:00,30 °C,Partly sunny.,26 km/h,↑,28%,1009 mbar,6 km,20240523
+21:00,26 °C,Passing clouds.,19 km/h,↑,36%,1009 mbar,7 km,20240523
+"00:00Fri, 24 May",24 °C,Passing clouds.,17 km/h,↑,37%,1009 mbar,6 km,20240524
+03:00,22 °C,Clear.,19 km/h,↑,40%,1008 mbar,6 km,20240524
+06:00,20 °C,Sunny.,13 km/h,↑,43%,1008 mbar,6 km,20240524
+09:00,22 °C,Sunny.,19 km/h,↑,39%,1010 mbar,6 km,20240524
+12:00,24 °C,Haze.,22 km/h,↑,42%,1010 mbar,7 km,20240524
+15:00,26 °C,Scattered clouds.,35 km/h,↑,33%,1009 mbar,5 km,20240524
+18:00,24 °C,Scattered clouds.,33 km/h,↑,35%,1009 mbar,4 km,20240524
+21:00,19 °C,Haze.,20 km/h,↑,59%,1011 mbar,6 km,20240524
+"00:00Sat, 25 May",17 °C,Haze.,19 km/h,↑,69%,1010 mbar,6 km,20240525
+03:00,16 °C,Haze.,22 km/h,↑,83%,1009 mbar,6 km,20240525
+06:00,16 °C,Partly sunny.,20 km/h,↑,76%,1010 mbar,6 km,20240525
+09:00,18 °C,Overcast.,24 km/h,↑,69%,1012 mbar,5 km,20240525
+12:00,22 °C,Partly sunny.,22 km/h,↑,52%,1012 mbar,6 km,20240525
+15:00,24 °C,Partly sunny.,28 km/h,↑,46%,1010 mbar,5 km,20240525
+18:00,23 °C,Scattered clouds.,24 km/h,↑,48%,1010 mbar,5 km,20240525
+21:00,19 °C,Clear.,13 km/h,↑,58%,1012 mbar,8 km,20240525
+"00:00Sun, 26 May",18 °C,Clear.,9 km/h,↑,53%,1012 mbar,10 km,20240526
+03:00,16 °C,Clear.,No wind,↑,61%,1011 mbar,10 km,20240526
+06:00,15 °C,Fog.,7 km/h,↑,85%,1012 mbar,6 km,20240526
+09:00,20 °C,Sunny.,9 km/h,↑,54%,1012 mbar,6 km,20240526
+12:00,25 °C,Haze.,15 km/h,↑,27%,1012 mbar,6 km,20240526
+15:00,27 °C,Scattered clouds.,15 km/h,↑,26%,1012 mbar,6 km,20240526
+18:00,26 °C,Partly sunny.,20 km/h,↑,32%,1011 mbar,7 km,20240526
+21:00,23 °C,Clear.,9 km/h,↑,41%,1012 mbar,7 km,20240526
+"00:00Mon, 27 May",20 °C,Clear.,No wind,↑,53%,1011 mbar,7 km,20240527
+03:00,21 °C,Clear.,No wind,↑,44%,1010 mbar,7 km,20240527
+06:00,18 °C,Scattered clouds.,4 km/h,↑,55%,1010 mbar,5 km,20240527
+09:00,25 °C,Overcast.,4 km/h,↑,29%,1010 mbar,5 km,20240527
+12:00,33 °C,Partly sunny.,13 km/h,↑,18%,1008 mbar,4 km,20240527
+15:00,35 °C,Overcast.,26 km/h,↑,16%,1006 mbar,4 km,20240527
+18:00,29 °C,Overcast.,26 km/h,↑,26%,1009 mbar,4 km,20240527
+21:00,23 °C,Clear.,24 km/h,↑,41%,1010 mbar,5 km,20240527
+"00:00Tue, 28 May",21 °C,Clear.,19 km/h,↑,52%,1010 mbar,5 km,20240528
+03:00,21 °C,Clear.,19 km/h,↑,46%,1009 mbar,5 km,20240528
+06:00,19 °C,Sunny.,11 km/h,↑,55%,1010 mbar,5 km,20240528
+09:00,23 °C,Haze.,13 km/h,↑,42%,1011 mbar,4 km,20240528
+12:00,28 °C,Overcast.,11 km/h,↑,32%,1011 mbar,4 km,20240528
+15:00,30 °C,Partly sunny.,19 km/h,↑,29%,1009 mbar,6 km,20240528
+18:00,24 °C,Overcast.,19 km/h,↑,49%,1010 mbar,6 km,20240528
+21:00,22 °C,Passing clouds.,11 km/h,↑,37%,1011 mbar,5 km,20240528
+"00:00Wed, 29 May",20 °C,Passing clouds.,No wind,↑,35%,1010 mbar,5 km,20240529
+03:00,18 °C,Haze.,11 km/h,↑,44%,1010 mbar,5 km,20240529
+06:00,16 °C,Sunny.,No wind,↑,60%,1012 mbar,5 km,20240529
+09:00,21 °C,Sunny.,No wind,↑,45%,1012 mbar,6 km,20240529
+12:00,26 °C,Sunny.,13 km/h,↑,32%,1010 mbar,6 km,20240529
+15:00,28 °C,Sunny.,20 km/h,↑,23%,1009 mbar,7 km,20240529
+18:00,25 °C,Sunny.,22 km/h,↑,43%,1010 mbar,5 km,20240529
+21:00,20 °C,Clear.,15 km/h,↑,60%,1010 mbar,8 km,20240529
+"00:00Thu, 30 May",17 °C,Clear.,7 km/h,↑,67%,1011 mbar,10 km,20240530
+03:00,15 °C,Clear.,11 km/h,↑,90%,1011 mbar,10 km,20240530
+06:00,14 °C,Fog.,7 km/h,↑,83%,1012 mbar,6 km,20240530
+09:00,19 °C,Haze.,13 km/h,↑,56%,1013 mbar,6 km,20240530
+12:00,24 °C,Passing clouds.,13 km/h,↑,42%,1012 mbar,10 km,20240530
+15:00,26 °C,Sunny.,22 km/h,↑,32%,1012 mbar,5 km,20240530
+18:00,24 °C,Sunny.,22 km/h,↑,49%,1012 mbar,5 km,20240530
+21:00,19 °C,Clear.,24 km/h,↑,56%,1014 mbar,5 km,20240530
+"00:00Fri, 31 May",16 °C,Clear.,13 km/h,↑,61%,1015 mbar,5 km,20240531
+03:00,16 °C,Clear.,N/A,↑,56%,1014 mbar,5 km,20240531
+06:00,14 °C,Sunny.,6 km/h,↑,64%,1014 mbar,5 km,20240531
+09:00,19 °C,Sunny.,13 km/h,↑,44%,1016 mbar,7 km,20240531
+12:00,24 °C,Haze.,20 km/h,↑,28%,1017 mbar,8 km,20240531
+15:00,25 °C,Scattered clouds.,22 km/h,↑,35%,1016 mbar,8 km,20240531
+18:00,25 °C,Scattered clouds.,28 km/h,↑,28%,1017 mbar,6 km,20240531
+21:00,20 °C,Passing clouds.,15 km/h,↑,48%,1017 mbar,10 km,20240531
+"00:00Sat, 1 Jun",20 °C,Clear.,9 km/h,↑,30%,1017 mbar,10 km,20240601
+03:00,19 °C,Clear.,11 km/h,↑,33%,1016 mbar,10 km,20240601
+06:00,17 °C,Passing clouds.,7 km/h,↑,42%,1017 mbar,6 km,20240601
+09:00,24 °C,Sunny.,15 km/h,↑,28%,1017 mbar,8 km,20240601
+12:00,28 °C,Sunny.,6 km/h,↑,19%,1016 mbar,8 km,20240601
+15:00,31 °C,Sunny.,13 km/h,↑,17%,1015 mbar,8 km,20240601
+18:00,30 °C,Sunny.,17 km/h,↑,20%,1014 mbar,5 km,20240601
+21:00,25 °C,Clear.,7 km/h,↑,35%,1015 mbar,10 km,20240601
+"00:00Sun, 2 Jun",22 °C,Clear.,No wind,↑,45%,1014 mbar,10 km,20240602
+03:00,21 °C,Clear.,No wind,↑,51%,1013 mbar,10 km,20240602
+06:00,19 °C,Sunny.,No wind,↑,49%,1013 mbar,7 km,20240602
+09:00,28 °C,Sunny.,11 km/h,↑,24%,1013 mbar,7 km,20240602
+12:00,32 °C,Sunny.,11 km/h,↑,14%,1012 mbar,8 km,20240602
+15:00,36 °C,Sunny.,6 km/h,↑,12%,1010 mbar,7 km,20240602
+18:00,35 °C,Sunny.,6 km/h,↑,11%,1009 mbar,7 km,20240602
+21:00,31 °C,Clear.,7 km/h,↑,23%,1009 mbar,7 km,20240602
+"00:00Mon, 3 Jun",26 °C,Clear.,6 km/h,↑,38%,1009 mbar,5 km,20240603
+03:00,24 °C,Clear.,No wind,↑,37%,1008 mbar,5 km,20240603
+06:00,22 °C,Sunny.,No wind,↑,32%,1009 mbar,6 km,20240603
+09:00,31 °C,Sunny.,15 km/h,↑,16%,1009 mbar,6 km,20240603
+12:00,35 °C,Sunny.,11 km/h,↑,12%,1008 mbar,7 km,20240603
+15:00,40 °C,Sunny.,9 km/h,↑,10%,1006 mbar,7 km,20240603
+18:00,39 °C,Sunny.,11 km/h,↑,10%,1005 mbar,7 km,20240603
+21:00,33 °C,Clear.,7 km/h,↑,24%,1005 mbar,7 km,20240603
+"00:00Tue, 4 Jun",29 °C,Clear.,13 km/h,↑,32%,1007 mbar,7 km,20240604
+03:00,27 °C,Clear.,11 km/h,↑,34%,1005 mbar,7 km,20240604
+06:00,25 °C,Sunny.,No wind,↑,35%,1006 mbar,5 km,20240604
+09:00,32 °C,Sunny.,6 km/h,↑,14%,1007 mbar,5 km,20240604
+12:00,38 °C,Sunny.,13 km/h,↑,9%,1005 mbar,7 km,20240604
+15:00,37 °C,Sunny.,19 km/h,↑,20%,1005 mbar,5 km,20240604
+18:00,34 °C,Sunny.,22 km/h,↑,22%,1005 mbar,5 km,20240604
+21:00,29 °C,Clear.,15 km/h,↑,44%,1006 mbar,7 km,20240604
+"00:00Wed, 5 Jun",28 °C,Clear.,15 km/h,↑,31%,1006 mbar,7 km,20240605
+03:00,24 °C,Clear.,13 km/h,↑,33%,1006 mbar,7 km,20240605
+06:00,24 °C,Sunny.,15 km/h,↑,28%,1007 mbar,6 km,20240605
+09:00,28 °C,Sunny.,11 km/h,↑,27%,1007 mbar,6 km,20240605
+15:00,35 °C,Sunny.,20 km/h,↑,23%,1006 mbar,6 km,20240605
+18:00,33 °C,Sunny.,22 km/h,↑,25%,1005 mbar,5 km,20240605
+21:00,29 °C,Clear.,19 km/h,↑,36%,1006 mbar,5 km,20240605
+"00:00Thu, 6 Jun",27 °C,Clear.,15 km/h,↑,39%,1006 mbar,5 km,20240606
+03:00,26 °C,Clear.,15 km/h,↑,38%,1005 mbar,7 km,20240606
+06:00,25 °C,Sunny.,17 km/h,↑,40%,1005 mbar,6 km,20240606
+09:00,31 °C,Sunny.,7 km/h,↑,31%,1006 mbar,5 km,20240606
+12:00,36 °C,Sunny.,N/A,↑,19%,1006 mbar,6 km,20240606
+15:00,38 °C,Sunny.,11 km/h,↑,15%,1005 mbar,6 km,20240606
+18:00,35 °C,Sunny.,20 km/h,↑,18%,1005 mbar,5 km,20240606
+21:00,32 °C,Clear.,7 km/h,↑,21%,1006 mbar,8 km,20240606
+"00:00Fri, 7 Jun",30 °C,Clear.,9 km/h,↑,26%,1006 mbar,10 km,20240607
+03:00,29 °C,Clear.,No wind,↑,24%,1005 mbar,10 km,20240607
+06:00,27 °C,Sunny.,9 km/h,↑,33%,1006 mbar,4 km,20240607
+09:00,34 °C,Sunny.,11 km/h,↑,16%,1006 mbar,5 km,20240607
+12:00,38 °C,Sunny.,13 km/h,↑,11%,1005 mbar,6 km,20240607
+15:00,38 °C,Sunny.,22 km/h,↑,18%,1004 mbar,6 km,20240607
+18:00,35 °C,Sunny.,26 km/h,↑,24%,1004 mbar,6 km,20240607
+21:00,31 °C,Clear.,13 km/h,↑,24%,1004 mbar,7 km,20240607
+"00:00Sat, 8 Jun",29 °C,Clear.,7 km/h,↑,23%,1004 mbar,8 km,20240608
+03:00,27 °C,Clear.,7 km/h,↑,29%,1004 mbar,8 km,20240608
+06:00,26 °C,Sunny.,20 km/h,↑,28%,1004 mbar,6 km,20240608
+09:00,31 °C,Sunny.,15 km/h,↑,23%,1004 mbar,6 km,20240608
+12:00,35 °C,Sunny.,19 km/h,↑,18%,1003 mbar,6 km,20240608
+15:00,36 °C,Sunny.,15 km/h,↑,16%,1002 mbar,6 km,20240608
+18:00,35 °C,Passing clouds.,26 km/h,↑,20%,1002 mbar,5 km,20240608
+21:00,30 °C,Clear.,17 km/h,↑,25%,1003 mbar,5 km,20240608
+"00:00Sun, 9 Jun",28 °C,Clear.,7 km/h,↑,28%,1003 mbar,10 km,20240609
+03:00,27 °C,Clear.,15 km/h,↑,23%,1002 mbar,10 km,20240609
+06:00,24 °C,Sunny.,No wind,↑,36%,1004 mbar,8 km,20240609
+09:00,27 °C,Sunny.,13 km/h,↑,35%,1005 mbar,7 km,20240609
+12:00,30 °C,Sunny.,13 km/h,↑,28%,1004 mbar,7 km,20240609
+15:00,31 °C,Sunny.,19 km/h,↑,28%,1004 mbar,7 km,20240609
+18:00,30 °C,Haze.,26 km/h,↑,34%,1004 mbar,5 km,20240609
+21:00,25 °C,Clear.,17 km/h,↑,30%,1006 mbar,5 km,20240609
+"00:00Mon, 10 Jun",24 °C,Clear.,22 km/h,↑,24%,1006 mbar,5 km,20240610
+03:00,23 °C,Clear.,17 km/h,↑,31%,1005 mbar,5 km,20240610
+06:00,22 °C,Sunny.,9 km/h,↑,44%,1006 mbar,6 km,20240610
+09:00,26 °C,Sunny.,7 km/h,↑,38%,1008 mbar,6 km,20240610
+12:00,30 °C,Sunny.,26 km/h,↑,26%,1008 mbar,7 km,20240610
+15:00,30 °C,Haze.,24 km/h,↑,29%,1008 mbar,7 km,20240610
+18:00,29 °C,Sunny.,24 km/h,↑,30%,1008 mbar,7 km,20240610
+21:00,26 °C,Clear.,17 km/h,↑,35%,1008 mbar,7 km,20240610
+"00:00Tue, 11 Jun",24 °C,Clear.,19 km/h,↑,42%,1009 mbar,7 km,20240611
+03:00,22 °C,Clear.,15 km/h,↑,51%,1008 mbar,7 km,20240611
+06:00,21 °C,Sunny.,No wind,↑,57%,1009 mbar,6 km,20240611
+09:00,26 °C,Sunny.,15 km/h,↑,36%,1009 mbar,6 km,20240611
+12:00,30 °C,Sunny.,17 km/h,↑,29%,1009 mbar,10 km,20240611
+15:00,35 °C,Sunny.,15 km/h,↑,21%,1007 mbar,10 km,20240611
+18:00,30 °C,Sunny.,22 km/h,↑,24%,1008 mbar,7 km,20240611
+21:00,26 °C,Clear.,17 km/h,↑,36%,1010 mbar,8 km,20240611
+"00:00Wed, 12 Jun",24 °C,Clear.,9 km/h,↑,38%,1010 mbar,8 km,20240612
+03:00,24 °C,Clear.,No wind,↑,35%,1009 mbar,8 km,20240612
+06:00,23 °C,Sunny.,7 km/h,↑,38%,1010 mbar,6 km,20240612
+09:00,28 °C,Sunny.,N/A,↑,33%,1010 mbar,8 km,20240612
+12:00,33 °C,Sunny.,11 km/h,↑,19%,1010 mbar,8 km,20240612
+15:00,36 °C,Sunny.,9 km/h,↑,11%,1008 mbar,6 km,20240612
+18:00,34 °C,Sunny.,20 km/h,↑,25%,1008 mbar,5 km,20240612
+21:00,29 °C,Clear.,9 km/h,↑,43%,1009 mbar,6 km,20240612
+"00:00Thu, 13 Jun",27 °C,Clear.,No wind,↑,27%,1009 mbar,8 km,20240613
+03:00,24 °C,Clear.,No wind,↑,39%,1010 mbar,5 km,20240613
+06:00,24 °C,Sunny.,No wind,↑,45%,1010 mbar,4 km,20240613
+09:00,33 °C,Sunny.,6 km/h,↑,23%,1010 mbar,5 km,20240613
+12:00,37 °C,Sunny.,7 km/h,↑,14%,1010 mbar,7 km,20240613
+15:00,39 °C,Sunny.,No wind,↑,10%,1008 mbar,7 km,20240613
+18:00,37 °C,Sunny.,19 km/h,↑,15%,1008 mbar,6 km,20240613
+21:00,33 °C,Clear.,17 km/h,↑,16%,1008 mbar,8 km,20240613
+"00:00Fri, 14 Jun",31 °C,Clear.,No wind,↑,21%,1008 mbar,10 km,20240614
+03:00,29 °C,Clear.,No wind,↑,27%,1007 mbar,10 km,20240614
+06:00,26 °C,Sunny.,No wind,↑,35%,1007 mbar,4 km,20240614
+09:00,35 °C,Sunny.,4 km/h,↑,15%,1007 mbar,6 km,20240614
+12:00,38 °C,Sunny.,6 km/h,↑,13%,1006 mbar,6 km,20240614
+15:00,40 °C,Sunny.,19 km/h,↑,14%,1005 mbar,6 km,20240614
+18:00,38 °C,Sunny.,19 km/h,↑,13%,1005 mbar,6 km,20240614
+21:00,33 °C,Clear.,11 km/h,↑,24%,1005 mbar,6 km,20240614
+"00:00Sat, 15 Jun",31 °C,Clear.,7 km/h,↑,23%,1005 mbar,8 km,20240615
+03:00,30 °C,Clear.,7 km/h,↑,24%,1003 mbar,8 km,20240615
+06:00,29 °C,Sunny.,N/A,↑,25%,1004 mbar,5 km,20240615
+09:00,34 °C,Sunny.,No wind,↑,21%,1005 mbar,5 km,20240615
+12:00,38 °C,Sunny.,15 km/h,↑,14%,1004 mbar,5 km,20240615
+15:00,40 °C,Sunny.,7 km/h,↑,13%,1002 mbar,6 km,20240615
+18:00,37 °C,Sunny.,20 km/h,↑,16%,1002 mbar,6 km,20240615
+21:00,32 °C,Clear.,28 km/h,↑,17%,1004 mbar,6 km,20240615
+"00:00Sun, 16 Jun",29 °C,Clear.,7 km/h,↑,24%,1005 mbar,7 km,20240616
+03:00,28 °C,Clear.,No wind,↑,21%,1004 mbar,5 km,20240616
+06:00,27 °C,Sunny.,9 km/h,↑,21%,1006 mbar,8 km,20240616
+09:00,30 °C,Sunny.,19 km/h,↑,16%,1006 mbar,10 km,20240616
+12:00,33 °C,Sunny.,19 km/h,↑,12%,1007 mbar,8 km,20240616
+15:00,36 °C,Sunny.,19 km/h,↑,14%,1006 mbar,8 km,20240616
+18:00,34 °C,Sunny.,19 km/h,↑,24%,1005 mbar,8 km,20240616
+21:00,30 °C,Haze.,9 km/h,↑,28%,1006 mbar,6 km,20240616
+"00:00Mon, 17 Jun",27 °C,Clear.,7 km/h,↑,30%,1007 mbar,5 km,20240617
+03:00,27 °C,Clear.,7 km/h,↑,19%,1006 mbar,5 km,20240617
+06:00,22 °C,Sunny.,No wind,↑,37%,1008 mbar,6 km,20240617
+09:00,28 °C,Haze.,7 km/h,↑,17%,1008 mbar,5 km,20240617
+12:00,32 °C,Sunny.,11 km/h,↑,11%,1008 mbar,6 km,20240617
+15:00,34 °C,Sunny.,11 km/h,↑,9%,1008 mbar,5 km,20240617
+18:00,34 °C,Sunny.,20 km/h,↑,21%,1007 mbar,5 km,20240617
+21:00,28 °C,Clear.,13 km/h,↑,40%,1007 mbar,5 km,20240617
+"00:00Tue, 18 Jun",26 °C,Clear.,6 km/h,↑,44%,1008 mbar,5 km,20240618
+03:00,24 °C,Clear.,6 km/h,↑,58%,1007 mbar,5 km,20240618
+06:00,22 °C,Sunny.,No wind,↑,60%,1013 mbar,5 km,20240618
+09:00,28 °C,Sunny.,9 km/h,↑,36%,1009 mbar,6 km,20240618
+12:00,34 °C,Sunny.,6 km/h,↑,10%,1008 mbar,7 km,20240618
+15:00,39 °C,Sunny.,9 km/h,↑,6%,1006 mbar,7 km,20240618
+18:00,38 °C,Sunny.,13 km/h,↑,10%,1005 mbar,7 km,20240618
+21:00,31 °C,Clear.,15 km/h,↑,28%,1008 mbar,7 km,20240618
+"00:00Wed, 19 Jun",29 °C,Clear.,6 km/h,↑,36%,1006 mbar,7 km,20240619
+03:00,26 °C,Clear.,No wind,↑,41%,1005 mbar,7 km,20240619
+06:00,25 °C,Sunny.,6 km/h,↑,40%,1006 mbar,7 km,20240619
+09:00,32 °C,Sunny.,6 km/h,↑,22%,1011 mbar,5 km,20240619
+12:00,39 °C,Sunny.,6 km/h,↑,14%,1005 mbar,6 km,20240619
+15:00,39 °C,Sunny.,17 km/h,↑,11%,1005 mbar,8 km,20240619
+18:00,37 °C,Sunny.,19 km/h,↑,15%,1005 mbar,6 km,20240619
+21:00,31 °C,Clear.,6 km/h,↑,43%,1007 mbar,7 km,20240619
+"00:00Thu, 20 Jun",29 °C,Clear.,7 km/h,↑,29%,1006 mbar,8 km,20240620
+03:00,28 °C,Clear.,6 km/h,↑,22%,1005 mbar,10 km,20240620
+06:00,25 °C,Haze.,No wind,↑,32%,1006 mbar,7 km,20240620
+09:00,31 °C,Sunny.,15 km/h,↑,22%,1006 mbar,6 km,20240620
+12:00,38 °C,Sunny.,7 km/h,↑,11%,1005 mbar,6 km,20240620
+15:00,40 °C,Sunny.,17 km/h,↑,13%,1004 mbar,7 km,20240620
+18:00,37 °C,Sunny.,20 km/h,↑,21%,1008 mbar,6 km,20240620
+21:00,31 °C,Haze.,19 km/h,↑,34%,1004 mbar,6 km,20240620
+"00:00Fri, 21 Jun",29 °C,Haze.,19 km/h,↑,22%,1004 mbar,8 km,20240621
+03:00,28 °C,Haze.,11 km/h,↑,17%,1004 mbar,6 km,20240621
+06:00,25 °C,Sunny.,20 km/h,↑,32%,1005 mbar,8 km,20240621
+09:00,29 °C,Sunny.,13 km/h,↑,21%,1005 mbar,5 km,20240621
+12:00,34 °C,Sunny.,13 km/h,↑,13%,1005 mbar,7 km,20240621
+15:00,34 °C,Sunny.,19 km/h,↑,15%,1005 mbar,6 km,20240621
+18:00,33 °C,Sunny.,19 km/h,↑,22%,1004 mbar,6 km,20240621
+21:00,28 °C,Clear.,15 km/h,↑,34%,1004 mbar,7 km,20240621
+"00:00Sat, 22 Jun",26 °C,Clear.,17 km/h,↑,27%,1003 mbar,7 km,20240622
+03:00,25 °C,Clear.,17 km/h,↑,39%,1003 mbar,8 km,20240622
+06:00,22 °C,Sunny.,17 km/h,↑,53%,1003 mbar,5 km,20240622
+09:00,26 °C,Sunny.,19 km/h,↑,50%,1004 mbar,6 km,20240622
+12:00,29 °C,Sunny.,22 km/h,↑,33%,1003 mbar,6 km,20240622
+15:00,31 °C,Passing clouds.,28 km/h,↑,31%,1002 mbar,6 km,20240622
+18:00,29 °C,Passing clouds.,30 km/h,↑,37%,1003 mbar,6 km,20240622
+21:00,25 °C,Clear.,11 km/h,↑,53%,1004 mbar,8 km,20240622
+"00:00Sun, 23 Jun",24 °C,Clear.,15 km/h,↑,46%,1004 mbar,7 km,20240623
+03:00,23 °C,Clear.,15 km/h,↑,45%,1002 mbar,7 km,20240623
+06:00,22 °C,Sunny.,13 km/h,↑,61%,1003 mbar,6 km,20240623
+09:00,26 °C,Passing clouds.,30 km/h,↑,41%,1004 mbar,6 km,20240623
+12:00,28 °C,Haze.,11 km/h,↑,46%,1004 mbar,6 km,20240623
+15:00,31 °C,Passing clouds.,15 km/h,↑,36%,1003 mbar,6 km,20240623
+18:00,31 °C,Passing clouds.,30 km/h,↑,33%,1004 mbar,4 km,20240623
+21:00,27 °C,Clear.,19 km/h,↑,36%,1005 mbar,4 km,20240623
+"00:00Mon, 24 Jun",25 °C,Clear.,2 km/h,↑,43%,1005 mbar,5 km,20240624
+03:00,23 °C,Clear.,19 km/h,↑,66%,1005 mbar,5 km,20240624
+06:00,22 °C,Sunny.,15 km/h,↑,73%,1005 mbar,5 km,20240624
+09:00,25 °C,Sunny.,26 km/h,↑,59%,1006 mbar,5 km,20240624
+12:00,31 °C,Sunny.,13 km/h,↑,31%,1006 mbar,6 km,20240624
+15:00,33 °C,Sunny.,28 km/h,↑,30%,1005 mbar,6 km,20240624
+18:00,32 °C,Sunny.,28 km/h,↑,26%,1005 mbar,5 km,20240624
+21:00,28 °C,Clear.,15 km/h,↑,29%,1006 mbar,6 km,20240624
+"21:00Tue, 25 Jun",29 °C,Clear.,19 km/h,↑,24%,1004 mbar,7 km,20240625
+"00:00Wed, 26 Jun",28 °C,Clear.,15 km/h,↑,14%,1004 mbar,8 km,20240626
+03:00,26 °C,Clear.,No wind,↑,21%,1003 mbar,8 km,20240626
+06:00,26 °C,Sunny.,7 km/h,↑,12%,1004 mbar,7 km,20240626
+09:00,30 °C,Sunny.,11 km/h,↑,13%,1004 mbar,5 km,20240626
+12:00,34 °C,Sunny.,13 km/h,↑,13%,1003 mbar,7 km,20240626
+15:00,36 °C,Sunny.,19 km/h,↑,19%,1003 mbar,5 km,20240626
+18:00,33 °C,Sunny.,15 km/h,↑,30%,1003 mbar,5 km,20240626
+21:00,29 °C,Clear.,13 km/h,↑,22%,1003 mbar,10 km,20240626
+"00:00Thu, 27 Jun",27 °C,Clear.,11 km/h,↑,30%,1003 mbar,10 km,20240627
+03:00,27 °C,Clear.,No wind,↑,28%,1003 mbar,10 km,20240627
+06:00,22 °C,Sunny.,6 km/h,↑,53%,1004 mbar,8 km,20240627
+09:00,30 °C,Sunny.,15 km/h,↑,35%,1005 mbar,5 km,20240627
+12:00,35 °C,Sunny.,9 km/h,↑,22%,1004 mbar,5 km,20240627
+15:00,36 °C,Sunny.,19 km/h,↑,15%,1003 mbar,6 km,20240627
+18:00,34 °C,Sunny.,22 km/h,↑,28%,1004 mbar,5 km,20240627
+21:00,29 °C,Clear.,15 km/h,↑,40%,1004 mbar,7 km,20240627
+"00:00Fri, 28 Jun",28 °C,Clear.,6 km/h,↑,32%,1004 mbar,7 km,20240628
+03:00,26 °C,Clear.,No wind,↑,37%,1003 mbar,8 km,20240628
+06:00,25 °C,Sunny.,9 km/h,↑,42%,1004 mbar,6 km,20240628
+09:00,30 °C,Sunny.,7 km/h,↑,26%,1004 mbar,10 km,20240628
+12:00,33 °C,Sunny.,20 km/h,↑,25%,1003 mbar,10 km,20240628
+15:00,34 °C,Sunny.,22 km/h,↑,21%,1003 mbar,7 km,20240628
+18:00,33 °C,Sunny.,22 km/h,↑,27%,1002 mbar,7 km,20240628
+21:00,28 °C,Clear.,19 km/h,↑,39%,1003 mbar,7 km,20240628
+"00:00Sat, 29 Jun",28 °C,Clear.,19 km/h,↑,24%,1002 mbar,8 km,20240629
+03:00,26 °C,Clear.,19 km/h,↑,32%,1002 mbar,8 km,20240629
+06:00,24 °C,Sunny.,24 km/h,↑,43%,1002 mbar,6 km,20240629
+09:00,28 °C,Sunny.,17 km/h,↑,33%,1003 mbar,8 km,20240629
+12:00,32 °C,Sunny.,19 km/h,↑,24%,1002 mbar,8 km,20240629
+15:00,33 °C,Sunny.,26 km/h,↑,23%,1001 mbar,6 km,20240629
+18:00,32 °C,Sunny.,26 km/h,↑,30%,1000 mbar,5 km,20240629
+21:00,26 °C,Clear.,17 km/h,↑,51%,1002 mbar,6 km,20240629
+"00:00Sun, 30 Jun",26 °C,Clear.,15 km/h,↑,41%,1002 mbar,7 km,20240630
+03:00,23 °C,Clear.,9 km/h,↑,51%,1001 mbar,7 km,20240630
+06:00,21 °C,Sunny.,7 km/h,↑,66%,1002 mbar,7 km,20240630
+09:00,26 °C,Sunny.,15 km/h,↑,37%,1004 mbar,6 km,20240630
+12:00,29 °C,Passing clouds.,19 km/h,↑,36%,1004 mbar,10 km,20240630
+15:00,30 °C,Haze.,15 km/h,↑,33%,1003 mbar,7 km,20240630
+18:00,31 °C,Haze.,20 km/h,↑,36%,1002 mbar,7 km,20240630
+21:00,24 °C,Haze.,15 km/h,↑,55%,1004 mbar,7 km,20240630
+"00:00Mon, 1 Jul",22 °C,Clear.,No wind,↑,60%,1004 mbar,8 km,20240701
+03:00,23 °C,Clear.,20 km/h,↑,45%,1003 mbar,7 km,20240701
+06:00,21 °C,Sunny.,19 km/h,↑,53%,1004 mbar,7 km,20240701
+09:00,24 °C,Sunny.,19 km/h,↑,50%,1006 mbar,10 km,20240701
+12:00,30 °C,Sunny.,19 km/h,↑,36%,1004 mbar,10 km,20240701
+15:00,31 °C,Haze.,32 km/h,↑,33%,1003 mbar,5 km,20240701
+21:00,25 °C,Haze.,20 km/h,↑,55%,1005 mbar,6 km,20240701
+"00:00Tue, 2 Jul",23 °C,Clear.,7 km/h,↑,44%,1004 mbar,5 km,20240702
+03:00,23 °C,Clear.,13 km/h,↑,35%,1002 mbar,5 km,20240702
+06:00,22 °C,Haze.,19 km/h,↑,44%,1003 mbar,6 km,20240702
+09:00,26 °C,Sunny.,19 km/h,↑,36%,1004 mbar,8 km,20240702
+12:00,29 °C,Haze.,24 km/h,↑,36%,1004 mbar,8 km,20240702
+15:00,31 °C,Scattered clouds.,19 km/h,↑,25%,1003 mbar,7 km,20240702
+18:00,30 °C,Scattered clouds.,19 km/h,↑,30%,1002 mbar,7 km,20240702
+21:00,25 °C,Clear.,15 km/h,↑,44%,1004 mbar,7 km,20240702
+"00:00Wed, 3 Jul",24 °C,Clear.,11 km/h,↑,35%,1004 mbar,7 km,20240703
+03:00,23 °C,Clear.,9 km/h,↑,27%,1007 mbar,5 km,20240703
+06:00,22 °C,Sunny.,17 km/h,↑,29%,1003 mbar,7 km,20240703
+09:00,27 °C,Sunny.,20 km/h,↑,25%,1005 mbar,8 km,20240703
+12:00,30 °C,Sunny.,20 km/h,↑,21%,1004 mbar,10 km,20240703
+15:00,32 °C,Haze.,15 km/h,↑,21%,1004 mbar,8 km,20240703
+18:00,31 °C,Sunny.,22 km/h,↑,28%,1003 mbar,7 km,20240703
+21:00,27 °C,Clear.,13 km/h,↑,33%,1004 mbar,10 km,20240703
+"00:00Thu, 4 Jul",25 °C,Clear.,7 km/h,↑,31%,1005 mbar,10 km,20240704
+03:00,25 °C,Clear.,6 km/h,↑,23%,1004 mbar,10 km,20240704
+06:00,24 °C,Sunny.,6 km/h,↑,23%,1005 mbar,8 km,20240704
+09:00,29 °C,Sunny.,6 km/h,↑,18%,1007 mbar,8 km,20240704
+12:00,33 °C,Sunny.,6 km/h,↑,15%,1006 mbar,8 km,20240704
+15:00,36 °C,Sunny.,15 km/h,↑,13%,1005 mbar,5 km,20240704
+18:00,34 °C,Sunny.,19 km/h,↑,17%,1005 mbar,5 km,20240704
+21:00,29 °C,Clear.,15 km/h,↑,31%,1006 mbar,7 km,20240704
+"00:00Fri, 5 Jul",27 °C,Clear.,7 km/h,↑,27%,1007 mbar,6 km,20240705
+03:00,26 °C,Clear.,No wind,↑,35%,1006 mbar,5 km,20240705
+06:00,24 °C,Sunny.,No wind,↑,41%,1006 mbar,4 km,20240705
+09:00,30 °C,Sunny.,15 km/h,↑,28%,1007 mbar,4 km,20240705
+12:00,34 °C,Sunny.,15 km/h,↑,23%,1006 mbar,4 km,20240705
+15:00,34 °C,Sunny.,19 km/h,↑,24%,1005 mbar,6 km,20240705
+18:00,32 °C,Sunny.,22 km/h,↑,30%,1005 mbar,6 km,20240705
+21:00,27 °C,Clear.,11 km/h,↑,39%,1006 mbar,7 km,20240705
+"00:00Sat, 6 Jul",25 °C,Clear.,13 km/h,↑,37%,1005 mbar,7 km,20240706
+03:00,22 °C,Clear.,17 km/h,↑,52%,1004 mbar,7 km,20240706
+06:00,20 °C,Sunny.,22 km/h,↑,74%,1005 mbar,6 km,20240706
+09:00,24 °C,Partly sunny.,19 km/h,↑,63%,1006 mbar,5 km,20240706
+12:00,27 °C,Haze.,19 km/h,↑,48%,1005 mbar,6 km,20240706
+15:00,30 °C,Haze.,15 km/h,↑,40%,1004 mbar,7 km,20240706
+18:00,29 °C,Haze.,19 km/h,↑,42%,1003 mbar,6 km,20240706
+21:00,24 °C,Clear.,17 km/h,↑,61%,1004 mbar,8 km,20240706
+"00:00Sun, 7 Jul",22 °C,Clear.,13 km/h,↑,60%,1004 mbar,8 km,20240707
+03:00,22 °C,Clear.,9 km/h,↑,40%,1003 mbar,8 km,20240707
+06:00,20 °C,Sunny.,6 km/h,↑,60%,1004 mbar,8 km,20240707
+09:00,26 °C,Sunny.,15 km/h,↑,45%,1004 mbar,8 km,20240707
+12:00,30 °C,Sunny.,22 km/h,↑,42%,1004 mbar,8 km,20240707
+15:00,31 °C,Sunny.,26 km/h,↑,34%,1003 mbar,7 km,20240707
+18:00,30 °C,Haze.,22 km/h,↑,48%,1003 mbar,7 km,20240707
+21:00,26 °C,Clear.,19 km/h,↑,44%,1004 mbar,7 km,20240707
+"00:00Mon, 8 Jul",25 °C,Clear.,13 km/h,↑,47%,1004 mbar,10 km,20240708
+03:00,24 °C,Clear.,13 km/h,↑,43%,1003 mbar,10 km,20240708
+06:00,22 °C,Sunny.,15 km/h,↑,50%,1003 mbar,5 km,20240708
+09:00,28 °C,Sunny.,19 km/h,↑,34%,1004 mbar,8 km,20240708
+12:00,32 °C,Sunny.,19 km/h,↑,28%,1003 mbar,8 km,20240708
+15:00,32 °C,Haze.,26 km/h,↑,34%,1003 mbar,5 km,20240708
+18:00,32 °C,Haze.,22 km/h,↑,36%,1002 mbar,5 km,20240708
+21:00,27 °C,Clear.,17 km/h,↑,52%,1004 mbar,6 km,20240708
+"18:00Tue, 9 Jul",34 °C,Sunny.,13 km/h,↑,24%,1003 mbar,6 km,20240709
+"00:00Wed, 10 Jul",27 °C,Clear.,6 km/h,↑,39%,1004 mbar,5 km,20240710
+03:00,25 °C,Clear.,9 km/h,↑,48%,1004 mbar,5 km,20240710
+06:00,25 °C,Sunny.,4 km/h,↑,44%,1004 mbar,7 km,20240710
+09:00,31 °C,Sunny.,N/A,↑,30%,1005 mbar,6 km,20240710
+12:00,34 °C,Sunny.,9 km/h,↑,20%,1005 mbar,6 km,20240710
+15:00,36 °C,Sunny.,17 km/h,↑,17%,1005 mbar,6 km,20240710
+18:00,35 °C,Sunny.,17 km/h,↑,21%,1008 mbar,5 km,20240710
+21:00,30 °C,Clear.,17 km/h,↑,38%,1006 mbar,6 km,20240710
+"00:00Thu, 11 Jul",27 °C,Clear.,No wind,↑,35%,1006 mbar,10 km,20240711
+03:00,27 °C,Clear.,No wind,↑,32%,1005 mbar,10 km,20240711
+06:00,26 °C,Sunny.,No wind,↑,38%,1006 mbar,8 km,20240711
+09:00,32 °C,Sunny.,7 km/h,↑,26%,1007 mbar,6 km,20240711
+12:00,35 °C,Sunny.,24 km/h,↑,17%,1007 mbar,7 km,20240711
+15:00,35 °C,Sunny.,19 km/h,↑,18%,1006 mbar,6 km,20240711
+18:00,34 °C,Sunny.,26 km/h,↑,22%,1006 mbar,6 km,20240711
+21:00,31 °C,Clear.,17 km/h,↑,27%,1007 mbar,7 km,20240711
+"00:00Fri, 12 Jul",27 °C,Clear.,No wind,↑,40%,1007 mbar,7 km,20240712
+03:00,26 °C,Clear.,6 km/h,↑,32%,1006 mbar,8 km,20240712
+06:00,25 °C,Sunny.,No wind,↑,30%,1007 mbar,10 km,20240712
+09:00,30 °C,Sunny.,17 km/h,↑,22%,1007 mbar,7 km,20240712
+12:00,33 °C,Sunny.,24 km/h,↑,20%,1007 mbar,10 km,20240712
+15:00,35 °C,Sunny.,19 km/h,↑,17%,1006 mbar,7 km,20240712
+18:00,34 °C,Sunny.,26 km/h,↑,20%,1006 mbar,7 km,20240712
+21:00,30 °C,Clear.,11 km/h,↑,30%,1006 mbar,8 km,20240712
+"00:00Sat, 13 Jul",27 °C,Clear.,6 km/h,↑,32%,1005 mbar,5 km,20240713
+03:00,27 °C,Clear.,6 km/h,↑,32%,N/A,5 km,20240713
+06:00,26 °C,Sunny.,13 km/h,↑,32%,1004 mbar,5 km,20240713
+09:00,30 °C,Sunny.,19 km/h,↑,26%,1006 mbar,6 km,20240713
+12:00,33 °C,Haze.,20 km/h,↑,24%,1005 mbar,7 km,20240713
+15:00,34 °C,Passing clouds.,30 km/h,↑,22%,1004 mbar,5 km,20240713
+18:00,33 °C,Sunny.,24 km/h,↑,25%,1008 mbar,5 km,20240713
+21:00,28 °C,Clear.,19 km/h,↑,34%,1010 mbar,7 km,20240713
+"00:00Sun, 14 Jul",24 °C,Clear.,No wind,↑,57%,1005 mbar,10 km,20240714
+03:00,23 °C,Clear.,17 km/h,↑,62%,1004 mbar,10 km,20240714
+06:00,22 °C,Sunny.,9 km/h,↑,73%,1004 mbar,7 km,20240714
+09:00,24 °C,Partly sunny.,22 km/h,↑,65%,1005 mbar,7 km,20240714
+12:00,28 °C,Partly sunny.,30 km/h,↑,48%,1005 mbar,7 km,20240714
+15:00,30 °C,Passing clouds.,37 km/h,↑,37%,1003 mbar,5 km,20240714
+18:00,29 °C,Overcast.,28 km/h,↑,42%,1003 mbar,5 km,20240714
+21:00,25 °C,Haze.,22 km/h,↑,66%,1004 mbar,7 km,20240714
+"00:00Mon, 15 Jul",23 °C,Clear.,17 km/h,↑,75%,1004 mbar,10 km,20240715
+03:00,22 °C,Passing clouds.,19 km/h,↑,78%,1003 mbar,7 km,20240715
+06:00,22 °C,Haze.,17 km/h,↑,79%,1003 mbar,5 km,20240715
+09:00,25 °C,Partly sunny.,19 km/h,↑,71%,1005 mbar,5 km,20240715
+12:00,28 °C,Haze.,20 km/h,↑,50%,1004 mbar,6 km,20240715
+15:00,32 °C,Haze.,33 km/h,↑,41%,1002 mbar,5 km,20240715
+18:00,31 °C,Passing clouds.,30 km/h,↑,42%,1003 mbar,4 km,20240715
+21:00,27 °C,Clear.,13 km/h,↑,53%,1005 mbar,5 km,20240715
+"00:00Tue, 16 Jul",26 °C,Clear.,11 km/h,↑,44%,1004 mbar,7 km,20240716
+03:00,25 °C,Clear.,2 km/h,↑,44%,1003 mbar,7 km,20240716
+06:00,23 °C,Sunny.,2 km/h,↑,46%,1004 mbar,6 km,20240716
+09:00,28 °C,Sunny.,13 km/h,↑,35%,1005 mbar,6 km,20240716
+12:00,33 °C,Haze.,9 km/h,↑,24%,1004 mbar,8 km,20240716
+15:00,34 °C,Haze.,13 km/h,↑,15%,1004 mbar,8 km,20240716
+18:00,34 °C,Haze.,17 km/h,↑,23%,1004 mbar,6 km,20240716
+21:00,28 °C,Clear.,24 km/h,↑,46%,1006 mbar,5 km,20240716
+"00:00Wed, 17 Jul",26 °C,Clear.,19 km/h,↑,42%,1006 mbar,7 km,20240717
+03:00,25 °C,Clear.,19 km/h,↑,36%,1004 mbar,7 km,20240717
+06:00,24 °C,Sunny.,6 km/h,↑,37%,1005 mbar,8 km,20240717
+09:00,30 °C,Sunny.,6 km/h,↑,25%,1007 mbar,10 km,20240717
+12:00,34 °C,Sunny.,6 km/h,↑,19%,1006 mbar,8 km,20240717
+15:00,35 °C,Sunny.,15 km/h,↑,13%,1005 mbar,6 km,20240717
+18:00,34 °C,Sunny.,17 km/h,↑,24%,1005 mbar,6 km,20240717
+21:00,28 °C,Clear.,9 km/h,↑,45%,1006 mbar,7 km,20240717
+"00:00Thu, 18 Jul",26 °C,Clear.,9 km/h,↑,32%,1006 mbar,10 km,20240718
+03:00,24 °C,Clear.,6 km/h,↑,43%,1005 mbar,10 km,20240718
+06:00,24 °C,Sunny.,No wind,↑,38%,1005 mbar,10 km,20240718
+09:00,29 °C,Sunny.,7 km/h,↑,26%,1006 mbar,7 km,20240718
+12:00,33 °C,Sunny.,13 km/h,↑,21%,1005 mbar,7 km,20240718
+15:00,34 °C,Sunny.,19 km/h,↑,24%,1005 mbar,7 km,20240718
+18:00,33 °C,Sunny.,22 km/h,↑,34%,1004 mbar,7 km,20240718
+21:00,28 °C,Clear.,13 km/h,↑,38%,1005 mbar,10 km,20240718
+"00:00Fri, 19 Jul",26 °C,Clear.,7 km/h,↑,37%,1005 mbar,10 km,20240719
+03:00,25 °C,Clear.,15 km/h,↑,35%,1003 mbar,10 km,20240719
+06:00,26 °C,Sunny.,6 km/h,↑,31%,1003 mbar,10 km,20240719
+09:00,29 °C,Sunny.,22 km/h,↑,26%,1004 mbar,10 km,20240719
+12:00,32 °C,Sunny.,24 km/h,↑,22%,1003 mbar,10 km,20240719
+15:00,34 °C,Sunny.,22 km/h,↑,26%,1002 mbar,8 km,20240719
+18:00,32 °C,Sunny.,26 km/h,↑,29%,1001 mbar,8 km,20240719
+21:00,28 °C,Clear.,17 km/h,↑,46%,1002 mbar,8 km,20240719
+"00:00Sat, 20 Jul",27 °C,Clear.,15 km/h,↑,38%,1002 mbar,8 km,20240720
+03:00,25 °C,Clear.,15 km/h,↑,45%,1001 mbar,8 km,20240720
+06:00,24 °C,Sunny.,13 km/h,↑,46%,1001 mbar,8 km,20240720
+09:00,27 °C,Sunny.,15 km/h,↑,45%,1003 mbar,5 km,20240720
+12:00,32 °C,Sunny.,15 km/h,↑,35%,1002 mbar,5 km,20240720
+15:00,34 °C,Haze.,22 km/h,↑,30%,1002 mbar,6 km,20240720
+18:00,33 °C,Haze.,24 km/h,↑,34%,1002 mbar,5 km,20240720
+21:00,29 °C,Clear.,13 km/h,↑,43%,1004 mbar,8 km,20240720
+"00:00Sun, 21 Jul",28 °C,Clear.,17 km/h,↑,39%,1004 mbar,10 km,20240721
+03:00,26 °C,Clear.,11 km/h,↑,43%,1003 mbar,10 km,20240721
+06:00,26 °C,Sunny.,13 km/h,↑,44%,1004 mbar,8 km,20240721
+09:00,29 °C,Sunny.,15 km/h,↑,35%,1005 mbar,8 km,20240721
+12:00,33 °C,Haze.,22 km/h,↑,25%,1005 mbar,8 km,20240721
+15:00,34 °C,Haze.,19 km/h,↑,20%,1005 mbar,6 km,20240721
+18:00,33 °C,Scattered clouds.,22 km/h,↑,29%,1004 mbar,4 km,20240721
+21:00,29 °C,Clear.,11 km/h,↑,33%,1005 mbar,8 km,20240721
+"00:00Mon, 22 Jul",28 °C,Clear.,11 km/h,↑,30%,1005 mbar,8 km,20240722
+03:00,26 °C,Clear.,7 km/h,↑,33%,1004 mbar,8 km,20240722
+06:00,26 °C,Sunny.,11 km/h,↑,35%,1004 mbar,5 km,20240722
+09:00,29 °C,Sunny.,22 km/h,↑,33%,1005 mbar,7 km,20240722
+12:00,32 °C,Sunny.,26 km/h,↑,26%,1005 mbar,10 km,20240722
+15:00,34 °C,Sunny.,19 km/h,↑,21%,1004 mbar,7 km,20240722
+18:00,33 °C,Sunny.,30 km/h,↑,30%,1004 mbar,5 km,20240722
+21:00,29 °C,Clear.,26 km/h,↑,29%,1005 mbar,7 km,20240722
+"00:00Tue, 23 Jul",28 °C,Clear.,26 km/h,↑,23%,1005 mbar,6 km,20240723
+03:00,27 °C,Clear.,13 km/h,↑,28%,1005 mbar,7 km,20240723
+06:00,26 °C,Sunny.,11 km/h,↑,25%,1006 mbar,6 km,20240723
+09:00,30 °C,Sunny.,11 km/h,↑,18%,1005 mbar,6 km,20240723
+12:00,33 °C,Sunny.,22 km/h,↑,14%,1005 mbar,10 km,20240723
+15:00,34 °C,Sunny.,22 km/h,↑,24%,1004 mbar,6 km,20240723
+18:00,32 °C,Sunny.,26 km/h,↑,28%,1004 mbar,4 km,20240723
+21:00,27 °C,Clear.,15 km/h,↑,37%,1005 mbar,7 km,20240723
+"00:00Wed, 24 Jul",25 °C,Clear.,9 km/h,↑,48%,1004 mbar,7 km,20240724
+03:00,25 °C,Clear.,9 km/h,↑,25%,1003 mbar,5 km,20240724
+06:00,25 °C,Sunny.,15 km/h,↑,34%,1003 mbar,7 km,20240724
+09:00,26 °C,Sunny.,22 km/h,↑,36%,1004 mbar,7 km,20240724
+15:00,33 °C,Sunny.,33 km/h,↑,32%,1002 mbar,5 km,20240724
+18:00,32 °C,Sunny.,30 km/h,↑,32%,1001 mbar,5 km,20240724
+21:00,28 °C,Clear.,26 km/h,↑,43%,1002 mbar,6 km,20240724
+"00:00Thu, 25 Jul",27 °C,Clear.,20 km/h,↑,34%,1002 mbar,7 km,20240725
+03:00,25 °C,Clear.,11 km/h,↑,45%,1002 mbar,7 km,20240725
+06:00,24 °C,Sunny.,15 km/h,↑,78%,1002 mbar,8 km,20240725
+09:00,27 °C,Sunny.,26 km/h,↑,42%,1002 mbar,5 km,20240725
+12:00,31 °C,Sunny.,22 km/h,↑,28%,1002 mbar,6 km,20240725
+15:00,32 °C,Haze.,28 km/h,↑,28%,1001 mbar,6 km,20240725
+18:00,31 °C,Sunny.,28 km/h,↑,24%,1001 mbar,6 km,20240725
+21:00,27 °C,Clear.,15 km/h,↑,38%,1002 mbar,6 km,20240725
+"00:00Fri, 26 Jul",25 °C,Clear.,No wind,↑,46%,1002 mbar,8 km,20240726
+03:00,25 °C,Clear.,4 km/h,↑,43%,1001 mbar,7 km,20240726
+06:00,24 °C,Sunny.,6 km/h,↑,49%,1001 mbar,6 km,20240726
+09:00,29 °C,Sunny.,6 km/h,↑,31%,1001 mbar,10 km,20240726
+12:00,31 °C,Sunny.,20 km/h,↑,22%,1002 mbar,10 km,20240726
+15:00,32 °C,Scattered clouds.,24 km/h,↑,31%,1002 mbar,7 km,20240726
+18:00,30 °C,Haze.,26 km/h,↑,41%,1002 mbar,6 km,20240726
+21:00,25 °C,Clear.,19 km/h,↑,64%,1004 mbar,7 km,20240726
+"00:00Sat, 27 Jul",23 °C,Clear.,15 km/h,↑,75%,1005 mbar,8 km,20240727
+03:00,22 °C,Haze.,22 km/h,↑,77%,1004 mbar,8 km,20240727
+06:00,22 °C,Haze.,17 km/h,↑,79%,1006 mbar,5 km,20240727
+09:00,25 °C,Scattered clouds.,19 km/h,↑,62%,1007 mbar,4 km,20240727
+12:00,29 °C,Haze.,22 km/h,↑,47%,1006 mbar,5 km,20240727
+15:00,33 °C,Sunny.,15 km/h,↑,34%,1005 mbar,6 km,20240727
+18:00,31 °C,Haze.,20 km/h,↑,40%,1005 mbar,5 km,20240727
+21:00,26 °C,Clear.,17 km/h,↑,64%,1007 mbar,7 km,20240727
+"00:00Sun, 28 Jul",25 °C,Clear.,7 km/h,↑,64%,1007 mbar,8 km,20240728
+03:00,24 °C,Clear.,9 km/h,↑,64%,1006 mbar,8 km,20240728
+06:00,22 °C,Fog.,4 km/h,↑,81%,1008 mbar,6 km,20240728
+09:00,25 °C,Scattered clouds.,7 km/h,↑,67%,1009 mbar,6 km,20240728
+12:00,30 °C,Haze.,17 km/h,↑,39%,1008 mbar,6 km,20240728
+15:00,32 °C,Sunny.,22 km/h,↑,36%,1006 mbar,6 km,20240728
+18:00,31 °C,Sunny.,20 km/h,↑,35%,1006 mbar,6 km,20240728
+21:00,26 °C,Clear.,15 km/h,↑,49%,1007 mbar,10 km,20240728
+"00:00Mon, 29 Jul",24 °C,Clear.,4 km/h,↑,56%,1006 mbar,10 km,20240729
+03:00,24 °C,Clear.,9 km/h,↑,61%,1005 mbar,10 km,20240729
+06:00,23 °C,Sunny.,9 km/h,↑,65%,1005 mbar,10 km,20240729
+09:00,27 °C,Sunny.,13 km/h,↑,42%,1006 mbar,7 km,20240729
+12:00,32 °C,Sunny.,17 km/h,↑,36%,1004 mbar,8 km,20240729
+15:00,33 °C,Sunny.,22 km/h,↑,32%,1002 mbar,7 km,20240729
+21:00,27 °C,Clear.,19 km/h,↑,55%,1003 mbar,7 km,20240729
+"00:00Tue, 30 Jul",25 °C,Clear.,11 km/h,↑,55%,1002 mbar,7 km,20240730
+03:00,24 °C,Clear.,15 km/h,↑,45%,1002 mbar,10 km,20240730
+06:00,23 °C,Sunny.,9 km/h,↑,58%,1003 mbar,6 km,20240730
+09:00,26 °C,Sunny.,15 km/h,↑,43%,1003 mbar,7 km,20240730
+12:00,31 °C,Sunny.,20 km/h,↑,31%,1003 mbar,10 km,20240730
+15:00,33 °C,Sunny.,28 km/h,↑,27%,1001 mbar,5 km,20240730
+18:00,31 °C,Sunny.,24 km/h,↑,29%,1002 mbar,5 km,20240730
+21:00,27 °C,Clear.,15 km/h,↑,45%,1003 mbar,7 km,20240730
+"00:00Wed, 31 Jul",26 °C,Clear.,9 km/h,↑,46%,1003 mbar,7 km,20240731
+03:00,25 °C,Clear.,7 km/h,↑,38%,1003 mbar,7 km,20240731
+06:00,22 °C,Sunny.,17 km/h,↑,48%,1004 mbar,10 km,20240731
+09:00,27 °C,Sunny.,19 km/h,↑,29%,1005 mbar,7 km,20240731
+12:00,32 °C,Sunny.,15 km/h,↑,20%,1005 mbar,10 km,20240731
+15:00,34 °C,Sunny.,19 km/h,↑,20%,1003 mbar,10 km,20240731
+18:00,32 °C,Sunny.,22 km/h,↑,33%,1004 mbar,5 km,20240731
+21:00,28 °C,Clear.,17 km/h,↑,50%,1005 mbar,7 km,20240731
+"00:00Thu, 1 Aug",26 °C,Clear.,9 km/h,↑,53%,1005 mbar,10 km,20240801
+03:00,25 °C,Clear.,11 km/h,↑,54%,1005 mbar,10 km,20240801
+06:00,24 °C,Sunny.,7 km/h,↑,45%,1005 mbar,10 km,20240801
+09:00,29 °C,Sunny.,11 km/h,↑,21%,1006 mbar,5 km,20240801
+12:00,32 °C,Sunny.,20 km/h,↑,22%,1006 mbar,5 km,20240801
+15:00,34 °C,Sunny.,19 km/h,↑,19%,1005 mbar,7 km,20240801
+18:00,32 °C,Sunny.,22 km/h,↑,30%,1005 mbar,6 km,20240801
+21:00,28 °C,Clear.,13 km/h,↑,38%,1006 mbar,10 km,20240801
+"00:00Fri, 2 Aug",26 °C,Clear.,6 km/h,↑,34%,1006 mbar,10 km,20240802
+03:00,24 °C,Clear.,6 km/h,↑,34%,1005 mbar,10 km,20240802
+06:00,24 °C,Sunny.,11 km/h,↑,33%,1006 mbar,10 km,20240802
+09:00,28 °C,Sunny.,13 km/h,↑,28%,1006 mbar,10 km,20240802
+12:00,32 °C,Sunny.,22 km/h,↑,19%,1006 mbar,10 km,20240802
+15:00,33 °C,Haze.,19 km/h,↑,26%,1005 mbar,8 km,20240802
+18:00,32 °C,Sunny.,26 km/h,↑,30%,1004 mbar,8 km,20240802
+"00:00Sat, 3 Aug",26 °C,Clear.,7 km/h,↑,30%,1005 mbar,8 km,20240803
+03:00,25 °C,Clear.,11 km/h,↑,25%,1004 mbar,8 km,20240803
+06:00,23 °C,Sunny.,19 km/h,↑,34%,1004 mbar,7 km,20240803
+09:00,27 °C,Sunny.,22 km/h,↑,28%,1005 mbar,7 km,20240803
+12:00,29 °C,Haze.,19 km/h,↑,26%,1005 mbar,5 km,20240803
+15:00,31 °C,Passing clouds.,30 km/h,↑,26%,1004 mbar,5 km,20240803
+18:00,30 °C,Sunny.,24 km/h,↑,27%,1004 mbar,5 km,20240803
+21:00,25 °C,Clear.,17 km/h,↑,49%,1006 mbar,10 km,20240803
+"00:00Sun, 4 Aug",23 °C,Clear.,9 km/h,↑,59%,1006 mbar,10 km,20240804
+03:00,24 °C,Clear.,13 km/h,↑,40%,1005 mbar,10 km,20240804
+06:00,23 °C,Sunny.,13 km/h,↑,49%,1006 mbar,10 km,20240804
+09:00,26 °C,Sunny.,19 km/h,↑,35%,1007 mbar,8 km,20240804
+12:00,31 °C,Sunny.,26 km/h,↑,27%,1006 mbar,8 km,20240804
+15:00,32 °C,Sunny.,22 km/h,↑,30%,1005 mbar,8 km,20240804
+18:00,31 °C,Sunny.,20 km/h,↑,33%,1005 mbar,5 km,20240804
+21:00,26 °C,Clear.,9 km/h,↑,42%,1005 mbar,6 km,20240804
+"00:00Mon, 5 Aug",26 °C,Clear.,11 km/h,↑,39%,1004 mbar,5 km,20240805
+03:00,25 °C,Clear.,11 km/h,↑,44%,1004 mbar,5 km,20240805
+06:00,24 °C,Sunny.,15 km/h,↑,42%,1004 mbar,6 km,20240805
+09:00,26 °C,Sunny.,19 km/h,↑,40%,1006 mbar,7 km,20240805
+12:00,30 °C,Sunny.,15 km/h,↑,31%,1005 mbar,8 km,20240805
+15:00,33 °C,Sunny.,24 km/h,↑,25%,1004 mbar,5 km,20240805
+18:00,31 °C,Sunny.,24 km/h,↑,37%,1004 mbar,5 km,20240805
+21:00,26 °C,Clear.,11 km/h,↑,48%,1005 mbar,6 km,20240805
+"03:00Tue, 6 Aug",25 °C,Clear.,7 km/h,↑,33%,1004 mbar,6 km,20240806
+06:00,23 °C,Sunny.,15 km/h,↑,46%,1005 mbar,6 km,20240806
+09:00,26 °C,Sunny.,15 km/h,↑,39%,1005 mbar,10 km,20240806
+12:00,31 °C,Sunny.,26 km/h,↑,19%,1005 mbar,10 km,20240806
+15:00,33 °C,Sunny.,22 km/h,↑,24%,1004 mbar,7 km,20240806
+18:00,30 °C,Sunny.,24 km/h,↑,38%,1004 mbar,7 km,20240806
+21:00,26 °C,Clear.,17 km/h,↑,47%,1005 mbar,7 km,20240806
+"00:00Wed, 7 Aug",25 °C,Clear.,15 km/h,↑,37%,1005 mbar,10 km,20240807
+03:00,25 °C,Clear.,6 km/h,↑,31%,1004 mbar,5 km,20240807
+06:00,23 °C,Sunny.,No wind,↑,33%,1005 mbar,7 km,20240807
+09:00,27 °C,Sunny.,19 km/h,↑,25%,1005 mbar,7 km,20240807
+12:00,31 °C,Sunny.,15 km/h,↑,24%,1005 mbar,8 km,20240807
+15:00,34 °C,Sunny.,22 km/h,↑,28%,1004 mbar,7 km,20240807
+18:00,32 °C,Sunny.,26 km/h,↑,34%,1004 mbar,7 km,20240807
+21:00,28 °C,Clear.,15 km/h,↑,39%,1006 mbar,8 km,20240807
+"00:00Thu, 8 Aug",25 °C,Clear.,No wind,↑,48%,1006 mbar,8 km,20240808
+03:00,25 °C,Clear.,6 km/h,↑,35%,1005 mbar,10 km,20240808
+06:00,23 °C,Sunny.,No wind,↑,39%,1006 mbar,8 km,20240808
+09:00,27 °C,Sunny.,9 km/h,↑,35%,1007 mbar,6 km,20240808
+12:00,32 °C,Sunny.,13 km/h,↑,23%,1007 mbar,9 km,20240808
+15:00,34 °C,Sunny.,22 km/h,↑,24%,1006 mbar,6 km,20240808
+18:00,32 °C,Sunny.,22 km/h,↑,30%,1006 mbar,6 km,20240808
+21:00,27 °C,Clear.,15 km/h,↑,48%,1006 mbar,8 km,20240808
+"00:00Fri, 9 Aug",25 °C,Clear.,7 km/h,↑,58%,1006 mbar,10 km,20240809
+03:00,22 °C,Clear.,6 km/h,↑,49%,1006 mbar,10 km,20240809
+06:00,22 °C,Sunny.,4 km/h,↑,31%,1007 mbar,5 km,20240809
+09:00,28 °C,Sunny.,15 km/h,↑,19%,1008 mbar,10 km,20240809
+12:00,30 °C,Sunny.,17 km/h,↑,19%,1008 mbar,8 km,20240809
+15:00,33 °C,Sunny.,22 km/h,↑,25%,1008 mbar,7 km,20240809
+18:00,32 °C,Sunny.,19 km/h,↑,33%,1007 mbar,7 km,20240809
+21:00,27 °C,Clear.,13 km/h,↑,46%,1008 mbar,7 km,20240809
+"00:00Sat, 10 Aug",25 °C,Clear.,9 km/h,↑,47%,1008 mbar,10 km,20240810
+03:00,22 °C,Clear.,6 km/h,↑,59%,1008 mbar,8 km,20240810
+09:00,26 °C,Sunny.,15 km/h,↑,32%,1010 mbar,5 km,20240810
+12:00,32 °C,Sunny.,19 km/h,↑,23%,1008 mbar,5 km,20240810
+15:00,31 °C,Sunny.,20 km/h,↑,35%,1008 mbar,6 km,20240810
+18:00,30 °C,Passing clouds.,28 km/h,↑,36%,1008 mbar,5 km,20240810
+21:00,24 °C,Clear.,15 km/h,↑,56%,1009 mbar,8 km,20240810
+"03:00Sun, 11 Aug",21 °C,Clear.,7 km/h,↑,71%,1007 mbar,8 km,20240811
+06:00,20 °C,Fog.,17 km/h,↑,80%,1007 mbar,6 km,20240811
+09:00,23 °C,Haze.,19 km/h,↑,65%,1008 mbar,7 km,20240811
+12:00,27 °C,Haze.,26 km/h,↑,50%,1008 mbar,6 km,20240811
+15:00,31 °C,Sunny.,24 km/h,↑,40%,1006 mbar,5 km,20240811
+18:00,30 °C,Sunny.,19 km/h,↑,42%,1006 mbar,5 km,20240811
+21:00,26 °C,Clear.,19 km/h,↑,57%,1006 mbar,8 km,20240811
+"00:00Mon, 12 Aug",25 °C,Clear.,11 km/h,↑,44%,1006 mbar,8 km,20240812
+03:00,24 °C,Clear.,4 km/h,↑,48%,1005 mbar,6 km,20240812
+06:00,23 °C,Sunny.,13 km/h,↑,58%,1005 mbar,7 km,20240812
+09:00,25 °C,Sunny.,15 km/h,↑,62%,1006 mbar,5 km,20240812
+12:00,30 °C,Sunny.,19 km/h,↑,44%,1006 mbar,5 km,20240812
+15:00,33 °C,Sunny.,22 km/h,↑,34%,1004 mbar,6 km,20240812
+18:00,31 °C,Haze.,24 km/h,↑,45%,1005 mbar,5 km,20240812
+21:00,27 °C,Clear.,15 km/h,↑,56%,1006 mbar,7 km,20240812
+"00:00Tue, 13 Aug",26 °C,Clear.,11 km/h,↑,44%,1006 mbar,7 km,20240813
+03:00,24 °C,Clear.,11 km/h,↑,42%,1005 mbar,8 km,20240813
+06:00,24 °C,Sunny.,13 km/h,↑,47%,1006 mbar,6 km,20240813
+09:00,28 °C,Sunny.,15 km/h,↑,32%,1007 mbar,10 km,20240813
+12:00,32 °C,Sunny.,24 km/h,↑,24%,1007 mbar,10 km,20240813
+15:00,32 °C,Sunny.,20 km/h,↑,30%,1006 mbar,6 km,20240813
+18:00,32 °C,Sunny.,24 km/h,↑,36%,1006 mbar,6 km,20240813
+21:00,28 °C,Clear.,7 km/h,↑,46%,1007 mbar,8 km,20240813
+"00:00Wed, 14 Aug",26 °C,Clear.,11 km/h,↑,37%,1006 mbar,8 km,20240814
+03:00,26 °C,Clear.,No wind,↑,31%,1006 mbar,8 km,20240814
+06:00,25 °C,Sunny.,6 km/h,↑,32%,1006 mbar,5 km,20240814
+09:00,29 °C,Sunny.,13 km/h,↑,20%,1008 mbar,7 km,20240814
+15:00,35 °C,Sunny.,11 km/h,↑,22%,1005 mbar,7 km,20240814
+18:00,34 °C,Sunny.,13 km/h,↑,24%,1005 mbar,7 km,20240814
+21:00,27 °C,Clear.,11 km/h,↑,60%,1006 mbar,8 km,20240814
+"00:00Thu, 15 Aug",25 °C,Clear.,9 km/h,↑,68%,1006 mbar,8 km,20240815
+03:00,25 °C,Clear.,11 km/h,↑,57%,1006 mbar,8 km,20240815
+06:00,23 °C,Sunny.,9 km/h,↑,66%,1006 mbar,8 km,20240815
+09:00,26 °C,Sunny.,15 km/h,↑,50%,1008 mbar,5 km,20240815
+12:00,32 °C,Sunny.,11 km/h,↑,32%,1007 mbar,8 km,20240815
+15:00,33 °C,Sunny.,19 km/h,↑,37%,1006 mbar,6 km,20240815
+18:00,31 °C,Sunny.,22 km/h,↑,48%,1007 mbar,7 km,20240815
+21:00,26 °C,Clear.,13 km/h,↑,62%,1008 mbar,7 km,20240815
+"00:00Fri, 16 Aug",25 °C,Clear.,19 km/h,↑,57%,1006 mbar,7 km,20240816
+03:00,23 °C,Clear.,9 km/h,↑,57%,1006 mbar,7 km,20240816
+06:00,23 °C,Clear.,13 km/h,↑,60%,1005 mbar,10 km,20240816
+09:00,26 °C,Sunny.,13 km/h,↑,56%,1006 mbar,8 km,20240816
+12:00,30 °C,Sunny.,17 km/h,↑,47%,1005 mbar,10 km,20240816
+15:00,32 °C,Sunny.,19 km/h,↑,45%,1004 mbar,7 km,20240816
+18:00,31 °C,Sunny.,22 km/h,↑,47%,1003 mbar,7 km,20240816
+21:00,26 °C,Clear.,15 km/h,↑,60%,1004 mbar,8 km,20240816
+"00:00Sat, 17 Aug",26 °C,Clear.,6 km/h,↑,51%,1003 mbar,5 km,20240817
+03:00,25 °C,Clear.,19 km/h,↑,42%,1002 mbar,5 km,20240817
+06:00,21 °C,Clear.,No wind,↑,72%,1003 mbar,7 km,20240817
+09:00,25 °C,Sunny.,11 km/h,↑,60%,1004 mbar,7 km,20240817
+12:00,29 °C,Sunny.,19 km/h,↑,51%,1003 mbar,7 km,20240817
+15:00,32 °C,Passing clouds.,30 km/h,↑,46%,1002 mbar,7 km,20240817
+21:00,28 °C,Clear.,13 km/h,↑,52%,1004 mbar,7 km,20240817
+"00:00Sun, 18 Aug",27 °C,Clear.,13 km/h,↑,37%,1004 mbar,8 km,20240818
+03:00,25 °C,Clear.,9 km/h,↑,36%,1003 mbar,8 km,20240818
+06:00,25 °C,Clear.,11 km/h,↑,33%,1003 mbar,8 km,20240818
+09:00,29 °C,Sunny.,13 km/h,↑,29%,1005 mbar,7 km,20240818
+12:00,32 °C,Sunny.,13 km/h,↑,25%,1005 mbar,6 km,20240818
+15:00,34 °C,Haze.,13 km/h,↑,24%,1004 mbar,6 km,20240818
+18:00,32 °C,Haze.,19 km/h,↑,29%,1004 mbar,5 km,20240818
+21:00,28 °C,Clear.,9 km/h,↑,38%,1006 mbar,7 km,20240818
+"00:00Mon, 19 Aug",28 °C,Clear.,7 km/h,↑,24%,1006 mbar,7 km,20240819
+03:00,27 °C,Clear.,7 km/h,↑,23%,1005 mbar,7 km,20240819
+06:00,26 °C,Clear.,6 km/h,↑,24%,1006 mbar,7 km,20240819
+09:00,31 °C,Sunny.,4 km/h,↑,19%,1007 mbar,6 km,20240819
+12:00,33 °C,Sunny.,13 km/h,↑,14%,1008 mbar,7 km,20240819
+15:00,34 °C,Sunny.,17 km/h,↑,17%,1007 mbar,7 km,20240819
+18:00,33 °C,Sunny.,17 km/h,↑,31%,1007 mbar,5 km,20240819
+21:00,28 °C,Clear.,11 km/h,↑,49%,1008 mbar,6 km,20240819
+"00:00Tue, 20 Aug",25 °C,Clear.,No wind,↑,57%,1008 mbar,7 km,20240820
+03:00,25 °C,Clear.,7 km/h,↑,46%,1008 mbar,7 km,20240820
+06:00,23 °C,Clear.,2 km/h,↑,44%,1008 mbar,5 km,20240820
+09:00,28 °C,Sunny.,4 km/h,↑,34%,1008 mbar,5 km,20240820
+12:00,32 °C,Sunny.,11 km/h,↑,20%,1008 mbar,8 km,20240820
+15:00,33 °C,Sunny.,20 km/h,↑,20%,1006 mbar,7 km,20240820
+18:00,32 °C,Sunny.,19 km/h,↑,30%,1006 mbar,5 km,20240820
+21:00,27 °C,Clear.,11 km/h,↑,50%,1007 mbar,5 km,20240820
+"00:00Wed, 21 Aug",26 °C,Clear.,11 km/h,↑,52%,1007 mbar,7 km,20240821
+03:00,22 °C,Clear.,No wind,↑,67%,1006 mbar,7 km,20240821
+06:00,20 °C,Clear.,No wind,↑,74%,1006 mbar,5 km,20240821
+09:00,26 °C,Sunny.,15 km/h,↑,37%,1006 mbar,5 km,20240821
+12:00,33 °C,Sunny.,11 km/h,↑,17%,1005 mbar,7 km,20240821
+15:00,34 °C,Sunny.,15 km/h,↑,18%,1004 mbar,6 km,20240821
+18:00,31 °C,Sunny.,19 km/h,↑,41%,1004 mbar,6 km,20240821
+21:00,27 °C,Clear.,7 km/h,↑,39%,1009 mbar,8 km,20240821
+"00:00Thu, 22 Aug",26 °C,Clear.,7 km/h,↑,37%,1005 mbar,8 km,20240822
+03:00,25 °C,Clear.,7 km/h,↑,40%,1004 mbar,6 km,20240822
+06:00,24 °C,Clear.,7 km/h,↑,50%,1005 mbar,6 km,20240822
+09:00,27 °C,Sunny.,9 km/h,↑,50%,1006 mbar,7 km,20240822
+12:00,33 °C,Sunny.,15 km/h,↑,28%,1005 mbar,7 km,20240822
+15:00,34 °C,Sunny.,No wind,↑,29%,1004 mbar,5 km,20240822
+18:00,32 °C,Sunny.,19 km/h,↑,41%,1004 mbar,5 km,20240822
+21:00,26 °C,Clear.,13 km/h,↑,57%,1006 mbar,7 km,20240822
+"00:00Fri, 23 Aug",25 °C,Clear.,7 km/h,↑,43%,1006 mbar,7 km,20240823
+03:00,23 °C,Clear.,6 km/h,↑,47%,1006 mbar,8 km,20240823
+06:00,22 °C,Clear.,No wind,↑,48%,1007 mbar,8 km,20240823
+09:00,26 °C,Sunny.,6 km/h,↑,52%,1008 mbar,7 km,20240823
+12:00,31 °C,Sunny.,9 km/h,↑,35%,1008 mbar,8 km,20240823
+15:00,33 °C,Sunny.,19 km/h,↑,31%,1007 mbar,7 km,20240823
+18:00,32 °C,Sunny.,20 km/h,↑,31%,1007 mbar,7 km,20240823
+21:00,25 °C,Clear.,17 km/h,↑,65%,1009 mbar,5 km,20240823
+"00:00Sat, 24 Aug",23 °C,Clear.,2 km/h,↑,78%,1008 mbar,5 km,20240824
+03:00,22 °C,Clear.,13 km/h,↑,73%,1008 mbar,5 km,20240824
+06:00,22 °C,Clear.,15 km/h,↑,75%,1008 mbar,7 km,20240824
+09:00,24 °C,Haze.,17 km/h,↑,60%,1009 mbar,8 km,20240824
+12:00,29 °C,Haze.,19 km/h,↑,44%,1008 mbar,8 km,20240824
+15:00,31 °C,Haze.,22 km/h,↑,39%,1007 mbar,7 km,20240824
+18:00,29 °C,Scattered clouds.,15 km/h,↑,47%,1007 mbar,6 km,20240824
+21:00,25 °C,Clear.,15 km/h,↑,65%,1008 mbar,7 km,20240824
+"00:00Sun, 25 Aug",22 °C,Clear.,15 km/h,↑,81%,1008 mbar,7 km,20240825
+03:00,22 °C,Clear.,9 km/h,↑,69%,1006 mbar,7 km,20240825
+06:00,20 °C,Clear.,No wind,↑,86%,1007 mbar,5 km,20240825
+09:00,24 °C,Sunny.,9 km/h,↑,68%,1008 mbar,5 km,20240825
+12:00,30 °C,Sunny.,4 km/h,↑,44%,1007 mbar,6 km,20240825
+15:00,33 °C,Haze.,4 km/h,↑,37%,1007 mbar,7 km,20240825
+18:00,32 °C,Sunny.,7 km/h,↑,31%,1005 mbar,7 km,20240825
+21:00,27 °C,Clear.,13 km/h,↑,59%,1007 mbar,8 km,20240825
+"00:00Mon, 26 Aug",26 °C,Clear.,11 km/h,↑,59%,1006 mbar,7 km,20240826
+03:00,24 °C,Clear.,No wind,↑,59%,1006 mbar,7 km,20240826
+06:00,22 °C,Clear.,No wind,↑,73%,1007 mbar,6 km,20240826
+09:00,27 °C,Sunny.,7 km/h,↑,44%,1008 mbar,6 km,20240826
+12:00,32 °C,Sunny.,13 km/h,↑,26%,1008 mbar,10 km,20240826
+15:00,34 °C,Sunny.,13 km/h,↑,18%,1007 mbar,7 km,20240826
+18:00,33 °C,Haze.,19 km/h,↑,22%,1007 mbar,7 km,20240826
+21:00,29 °C,Passing clouds.,11 km/h,↑,34%,1008 mbar,6 km,20240826
+"00:00Tue, 27 Aug",26 °C,Passing clouds.,No wind,↑,43%,1008 mbar,6 km,20240827
+03:00,26 °C,Passing clouds.,No wind,↑,40%,1007 mbar,6 km,20240827
+06:00,25 °C,Haze.,7 km/h,↑,43%,1008 mbar,6 km,20240827
+09:00,29 °C,Haze.,9 km/h,↑,31%,1009 mbar,5 km,20240827
+12:00,32 °C,Haze.,15 km/h,↑,31%,1009 mbar,6 km,20240827
+15:00,33 °C,Haze.,19 km/h,↑,74%,1008 mbar,6 km,20240827
+18:00,31 °C,Sunny.,19 km/h,↑,41%,1008 mbar,6 km,20240827
+21:00,27 °C,Clear.,11 km/h,↑,58%,1009 mbar,7 km,20240827
+"00:00Wed, 28 Aug",24 °C,Clear.,No wind,↑,55%,1010 mbar,10 km,20240828
+03:00,24 °C,Clear.,15 km/h,↑,42%,1009 mbar,8 km,20240828
+06:00,22 °C,Clear.,11 km/h,↑,38%,1010 mbar,6 km,20240828
+09:00,25 °C,Partly sunny.,7 km/h,↑,33%,1011 mbar,5 km,20240828
+12:00,29 °C,Haze.,13 km/h,↑,35%,1012 mbar,8 km,20240828
+15:00,31 °C,Scattered clouds.,19 km/h,↑,30%,1010 mbar,7 km,20240828
+18:00,30 °C,Scattered clouds.,26 km/h,↑,38%,1010 mbar,5 km,20240828
+21:00,25 °C,Passing clouds.,19 km/h,↑,54%,1012 mbar,8 km,20240828
+"00:00Thu, 29 Aug",23 °C,Passing clouds.,7 km/h,↑,65%,1011 mbar,8 km,20240829
+03:00,21 °C,Clear.,6 km/h,↑,83%,1010 mbar,8 km,20240829
+06:00,21 °C,Passing clouds.,17 km/h,↑,79%,1011 mbar,6 km,20240829
+09:00,24 °C,Scattered clouds.,20 km/h,↑,64%,1012 mbar,6 km,20240829
+12:00,28 °C,Haze.,15 km/h,↑,48%,1011 mbar,8 km,20240829
+15:00,30 °C,Haze.,22 km/h,↑,43%,1010 mbar,7 km,20240829
+18:00,29 °C,Haze.,26 km/h,↑,54%,1010 mbar,5 km,20240829
+21:00,23 °C,Clear.,17 km/h,↑,66%,1011 mbar,8 km,20240829
+"00:00Fri, 30 Aug",21 °C,Passing clouds.,17 km/h,↑,77%,1011 mbar,6 km,20240830
+03:00,21 °C,Passing clouds.,9 km/h,↑,76%,1010 mbar,6 km,20240830
+06:00,21 °C,Passing clouds.,15 km/h,↑,76%,1010 mbar,7 km,20240830
+09:00,23 °C,Scattered clouds.,17 km/h,↑,66%,1012 mbar,6 km,20240830
+12:00,27 °C,Haze.,22 km/h,↑,43%,1011 mbar,7 km,20240830
+15:00,30 °C,Haze.,22 km/h,↑,41%,1010 mbar,6 km,20240830
+18:00,28 °C,Sunny.,26 km/h,↑,41%,1010 mbar,6 km,20240830
+"00:00Sat, 31 Aug",22 °C,Clear.,13 km/h,↑,68%,1010 mbar,7 km,20240831
+03:00,21 °C,Haze.,15 km/h,↑,73%,1009 mbar,8 km,20240831
+06:00,21 °C,Haze.,13 km/h,↑,78%,1010 mbar,7 km,20240831
+09:00,24 °C,Scattered clouds.,20 km/h,↑,65%,1011 mbar,5 km,20240831
+12:00,27 °C,Scattered clouds.,35 km/h,↑,46%,1010 mbar,5 km,20240831
+15:00,29 °C,Partly sunny.,26 km/h,↑,38%,1009 mbar,6 km,20240831
+18:00,28 °C,Haze.,24 km/h,↑,39%,1009 mbar,6 km,20240831
+21:00,23 °C,Clear.,19 km/h,↑,64%,1011 mbar,8 km,20240831
+"00:00Sun, 1 Sep",22 °C,Clear.,13 km/h,↑,70%,1010 mbar,8 km,20240901
+03:00,20 °C,Clear.,7 km/h,↑,75%,1010 mbar,7 km,20240901
+06:00,21 °C,Haze.,19 km/h,↑,79%,1009 mbar,5 km,20240901
+09:00,23 °C,Haze.,19 km/h,↑,64%,1010 mbar,6 km,20240901
+12:00,28 °C,Haze.,20 km/h,↑,41%,1010 mbar,6 km,20240901
+15:00,29 °C,Partly sunny.,22 km/h,↑,47%,1010 mbar,6 km,20240901
+18:00,28 °C,Scattered clouds.,26 km/h,↑,48%,1010 mbar,6 km,20240901
+21:00,24 °C,Clear.,19 km/h,↑,55%,1012 mbar,8 km,20240901
+"00:00Mon, 2 Sep",22 °C,Clear.,9 km/h,↑,64%,1011 mbar,8 km,20240902
+03:00,21 °C,Clear.,11 km/h,↑,57%,1011 mbar,10 km,20240902
+06:00,18 °C,Clear.,No wind,↑,72%,1012 mbar,8 km,20240902
+09:00,24 °C,Sunny.,6 km/h,↑,52%,1014 mbar,5 km,20240902
+12:00,29 °C,Haze.,11 km/h,↑,33%,1013 mbar,8 km,20240902
+15:00,31 °C,Haze.,19 km/h,↑,29%,1012 mbar,7 km,20240902
+18:00,28 °C,Haze.,19 km/h,↑,44%,1012 mbar,5 km,20240902
+21:00,24 °C,Clear.,13 km/h,↑,64%,1013 mbar,7 km,20240902
+"00:00Tue, 3 Sep",22 °C,Clear.,2 km/h,↑,73%,1013 mbar,6 km,20240903
+03:00,22 °C,Clear.,6 km/h,↑,63%,1011 mbar,6 km,20240903
+06:00,19 °C,Clear.,No wind,↑,71%,1012 mbar,6 km,20240903
+09:00,25 °C,Sunny.,6 km/h,↑,44%,1013 mbar,6 km,20240903
+12:00,29 °C,Haze.,17 km/h,↑,38%,1012 mbar,7 km,20240903
+15:00,30 °C,Haze.,13 km/h,↑,32%,1011 mbar,7 km,20240903
+18:00,27 °C,Haze.,20 km/h,↑,43%,1012 mbar,6 km,20240903
+21:00,23 °C,Haze.,13 km/h,↑,65%,1012 mbar,7 km,20240903
+"00:00Wed, 4 Sep",21 °C,Clear.,7 km/h,↑,74%,1012 mbar,8 km,20240904
+03:00,20 °C,Haze.,11 km/h,↑,78%,1011 mbar,8 km,20240904
+06:00,20 °C,Passing clouds.,13 km/h,↑,80%,1011 mbar,7 km,20240904
+09:00,22 °C,Scattered clouds.,11 km/h,↑,69%,1012 mbar,5 km,20240904
+12:00,27 °C,Haze.,17 km/h,↑,42%,1011 mbar,8 km,20240904
+15:00,29 °C,Haze.,15 km/h,↑,31%,1009 mbar,7 km,20240904
+18:00,28 °C,Haze.,15 km/h,↑,42%,1009 mbar,5 km,20240904
+21:00,23 °C,Haze.,19 km/h,↑,68%,1010 mbar,7 km,20240904
+"00:00Thu, 5 Sep",21 °C,Clear.,11 km/h,↑,74%,1010 mbar,6 km,20240905
+03:00,19 °C,Clear.,6 km/h,↑,83%,1009 mbar,6 km,20240905
+06:00,19 °C,Clear.,7 km/h,↑,83%,1009 mbar,5 km,20240905
+09:00,23 °C,Sunny.,13 km/h,↑,63%,1010 mbar,5 km,20240905
+12:00,28 °C,Sunny.,11 km/h,↑,41%,1008 mbar,8 km,20240905
+15:00,31 °C,Sunny.,19 km/h,↑,26%,1007 mbar,7 km,20240905
+18:00,29 °C,Sunny.,11 km/h,↑,41%,1007 mbar,8 km,20240905
+21:00,24 °C,Clear.,19 km/h,↑,62%,1008 mbar,8 km,20240905
+"00:00Fri, 6 Sep",22 °C,Clear.,No wind,↑,58%,1008 mbar,8 km,20240906
+03:00,20 °C,Clear.,No wind,↑,74%,1007 mbar,8 km,20240906
+06:00,19 °C,Clear.,6 km/h,↑,69%,1008 mbar,6 km,20240906
+09:00,27 °C,Haze.,6 km/h,↑,51%,1008 mbar,5 km,20240906
+12:00,27 °C,Haze.,13 km/h,↑,47%,1009 mbar,6 km,20240906
+15:00,30 °C,Haze.,17 km/h,↑,37%,1008 mbar,6 km,20240906
+18:00,29 °C,Haze.,20 km/h,↑,48%,1008 mbar,6 km,20240906
+21:00,24 °C,Clear.,13 km/h,↑,71%,1010 mbar,7 km,20240906
+"00:00Sat, 7 Sep",22 °C,Clear.,No wind,↑,75%,1010 mbar,8 km,20240907
+03:00,22 °C,Clear.,11 km/h,↑,68%,1008 mbar,8 km,20240907
+06:00,21 °C,Clear.,No wind,↑,60%,1010 mbar,7 km,20240907
+09:00,24 °C,Sunny.,2 km/h,↑,48%,1010 mbar,5 km,20240907
+12:00,29 °C,Sunny.,13 km/h,↑,41%,1010 mbar,7 km,20240907
+18:00,30 °C,Haze.,15 km/h,↑,38%,1008 mbar,6 km,20240907
+21:00,25 °C,Haze.,15 km/h,↑,65%,1010 mbar,7 km,20240907
+"00:00Sun, 8 Sep",24 °C,Clear.,13 km/h,↑,62%,1009 mbar,8 km,20240908
+03:00,23 °C,Clear.,No wind,↑,55%,1008 mbar,8 km,20240908
+06:00,22 °C,Clear.,9 km/h,↑,49%,1008 mbar,5 km,20240908
+09:00,26 °C,Sunny.,11 km/h,↑,39%,1010 mbar,6 km,20240908
+12:00,30 °C,Sunny.,9 km/h,↑,31%,1009 mbar,6 km,20240908
+15:00,32 °C,Haze.,15 km/h,↑,30%,1008 mbar,7 km,20240908
+18:00,31 °C,Haze.,20 km/h,↑,35%,1007 mbar,6 km,20240908
+21:00,26 °C,Clear.,17 km/h,↑,59%,1009 mbar,6 km,20240908
+"00:00Mon, 9 Sep",25 °C,Clear.,7 km/h,↑,50%,1008 mbar,8 km,20240909
+03:00,23 °C,Clear.,No wind,↑,55%,1008 mbar,10 km,20240909
+06:00,24 °C,Haze.,No wind,↑,40%,1008 mbar,8 km,20240909
+09:00,28 °C,Sunny.,4 km/h,↑,32%,1009 mbar,5 km,20240909
+12:00,32 °C,Sunny.,9 km/h,↑,22%,1008 mbar,10 km,20240909
+15:00,33 °C,Haze.,15 km/h,↑,20%,1007 mbar,7 km,20240909
+18:00,31 °C,Haze.,22 km/h,↑,38%,1007 mbar,7 km,20240909
+21:00,26 °C,Clear.,15 km/h,↑,52%,1008 mbar,7 km,20240909
+"00:00Tue, 10 Sep",25 °C,Clear.,4 km/h,↑,39%,1007 mbar,6 km,20240910
+03:00,23 °C,Clear.,6 km/h,↑,45%,1008 mbar,6 km,20240910
+06:00,22 °C,Clear.,2 km/h,↑,47%,1008 mbar,6 km,20240910
+09:00,27 °C,Sunny.,11 km/h,↑,28%,1010 mbar,10 km,20240910
+12:00,30 °C,Sunny.,17 km/h,↑,31%,1009 mbar,8 km,20240910
+15:00,32 °C,Sunny.,19 km/h,↑,25%,1008 mbar,7 km,20240910
+18:00,31 °C,Sunny.,15 km/h,↑,35%,1008 mbar,5 km,20240910
+21:00,26 °C,Clear.,15 km/h,↑,46%,1009 mbar,7 km,20240910
+"00:00Wed, 11 Sep",24 °C,Clear.,7 km/h,↑,49%,1009 mbar,8 km,20240911
+03:00,23 °C,Clear.,7 km/h,↑,42%,1008 mbar,8 km,20240911
+06:00,23 °C,Clear.,6 km/h,↑,37%,1008 mbar,7 km,20240911
+09:00,26 °C,Sunny.,11 km/h,↑,24%,1010 mbar,6 km,20240911
+12:00,30 °C,Sunny.,17 km/h,↑,13%,1010 mbar,6 km,20240911
+15:00,32 °C,Sunny.,22 km/h,↑,11%,1009 mbar,7 km,20240911
+21:00,26 °C,Clear.,9 km/h,↑,38%,1010 mbar,8 km,20240911
+"00:00Thu, 12 Sep",25 °C,Clear.,13 km/h,↑,38%,1010 mbar,8 km,20240912
+03:00,25 °C,Clear.,7 km/h,↑,33%,1010 mbar,8 km,20240912
+06:00,24 °C,Clear.,4 km/h,↑,35%,1010 mbar,6 km,20240912
+09:00,27 °C,Sunny.,4 km/h,↑,28%,1011 mbar,5 km,20240912
+12:00,33 °C,Sunny.,13 km/h,↑,20%,1011 mbar,7 km,20240912
+15:00,34 °C,Sunny.,19 km/h,↑,20%,1010 mbar,7 km,20240912
+18:00,32 °C,Sunny.,19 km/h,↑,25%,1010 mbar,7 km,20240912
+21:00,28 °C,Clear.,15 km/h,↑,37%,1011 mbar,7 km,20240912
+"00:00Fri, 13 Sep",26 °C,Clear.,6 km/h,↑,44%,1010 mbar,7 km,20240913
+03:00,25 °C,Clear.,No wind,↑,42%,1009 mbar,7 km,20240913
+06:00,24 °C,Clear.,4 km/h,↑,44%,1009 mbar,7 km,20240913
+09:00,28 °C,Sunny.,No wind,↑,35%,1010 mbar,7 km,20240913
+12:00,33 °C,Sunny.,13 km/h,↑,21%,1009 mbar,8 km,20240913
+15:00,32 °C,Haze.,22 km/h,↑,34%,1009 mbar,8 km,20240913
+18:00,29 °C,Sunny.,22 km/h,↑,42%,1009 mbar,6 km,20240913
+21:00,25 °C,Clear.,13 km/h,↑,54%,1009 mbar,7 km,20240913
+"00:00Sat, 14 Sep",23 °C,Clear.,4 km/h,↑,49%,1008 mbar,5 km,20240914
+03:00,21 °C,Haze.,11 km/h,↑,71%,1008 mbar,5 km,20240914
+06:00,19 °C,Clear.,15 km/h,↑,73%,1009 mbar,7 km,20240914
+09:00,22 °C,Haze.,22 km/h,↑,61%,1010 mbar,8 km,20240914
+12:00,27 °C,Sunny.,22 km/h,↑,41%,1009 mbar,8 km,20240914
+15:00,28 °C,Haze.,22 km/h,↑,42%,1008 mbar,6 km,20240914
+18:00,27 °C,Sunny.,22 km/h,↑,43%,1008 mbar,7 km,20240914
+"00:00Sun, 15 Sep",21 °C,Haze.,19 km/h,↑,68%,1008 mbar,6 km,20240915
+03:00,20 °C,Passing clouds.,17 km/h,↑,78%,1008 mbar,7 km,20240915
+06:00,20 °C,Passing clouds.,20 km/h,↑,80%,1008 mbar,7 km,20240915
+09:00,23 °C,Scattered clouds.,24 km/h,↑,66%,1012 mbar,6 km,20240915
+12:00,27 °C,Scattered clouds.,26 km/h,↑,50%,1008 mbar,6 km,20240915
+15:00,28 °C,Scattered clouds.,26 km/h,↑,43%,1007 mbar,5 km,20240915
+18:00,26 °C,Scattered clouds.,26 km/h,↑,47%,1008 mbar,5 km,20240915
+21:00,22 °C,Haze.,19 km/h,↑,67%,1009 mbar,8 km,20240915
+"00:00Mon, 16 Sep",22 °C,Haze.,19 km/h,↑,72%,1008 mbar,8 km,20240916
+03:00,21 °C,Haze.,19 km/h,↑,76%,1008 mbar,8 km,20240916
+06:00,21 °C,Passing clouds.,19 km/h,↑,77%,1008 mbar,6 km,20240916
+09:00,22 °C,Partly sunny.,22 km/h,↑,68%,1010 mbar,7 km,20240916
+12:00,25 °C,Partly sunny.,30 km/h,↑,50%,1010 mbar,8 km,20240916
+15:00,27 °C,Scattered clouds.,35 km/h,↑,41%,1009 mbar,6 km,20240916
+18:00,25 °C,Passing clouds.,30 km/h,↑,51%,1010 mbar,5 km,20240916
+21:00,21 °C,Clear.,20 km/h,↑,66%,1012 mbar,7 km,20240916
+"00:00Tue, 17 Sep",20 °C,Haze.,19 km/h,↑,72%,1012 mbar,8 km,20240917
+03:00,19 °C,Passing clouds.,13 km/h,↑,78%,1011 mbar,8 km,20240917
+06:00,19 °C,Passing clouds.,13 km/h,↑,80%,1012 mbar,7 km,20240917
+09:00,21 °C,Partly sunny.,15 km/h,↑,72%,1014 mbar,8 km,20240917
+12:00,24 °C,Overcast.,20 km/h,↑,61%,1014 mbar,6 km,20240917
+15:00,26 °C,Partly sunny.,22 km/h,↑,45%,1013 mbar,8 km,20240917
+18:00,25 °C,Haze.,15 km/h,↑,42%,1013 mbar,6 km,20240917
+21:00,21 °C,Clear.,17 km/h,↑,61%,1015 mbar,7 km,20240917
+"00:00Wed, 18 Sep",19 °C,Clear.,6 km/h,↑,69%,1015 mbar,7 km,20240918
+03:00,19 °C,Fog.,13 km/h,↑,81%,1014 mbar,7 km,20240918
+06:00,18 °C,Passing clouds.,9 km/h,↑,81%,1014 mbar,8 km,20240918
+09:00,21 °C,Scattered clouds.,11 km/h,↑,69%,1015 mbar,10 km,20240918
+12:00,24 °C,Passing clouds.,22 km/h,↑,41%,1014 mbar,10 km,20240918
+15:00,27 °C,Haze.,22 km/h,↑,41%,1012 mbar,7 km,20240918
+18:00,25 °C,Haze.,24 km/h,↑,46%,1013 mbar,8 km,20240918
+21:00,20 °C,Clear.,24 km/h,↑,64%,1013 mbar,8 km,20240918
+"00:00Thu, 19 Sep",19 °C,Clear.,11 km/h,↑,75%,1013 mbar,9 km,20240919
+03:00,18 °C,Passing clouds.,15 km/h,↑,79%,1012 mbar,8 km,20240919
+06:00,18 °C,Passing clouds.,13 km/h,↑,81%,1012 mbar,7 km,20240919
+09:00,20 °C,Scattered clouds.,13 km/h,↑,71%,1013 mbar,5 km,20240919
+12:00,26 °C,Sunny.,22 km/h,↑,38%,1012 mbar,6 km,20240919
+15:00,28 °C,Haze.,26 km/h,↑,44%,1012 mbar,6 km,20240919
+18:00,26 °C,Scattered clouds.,26 km/h,↑,50%,1012 mbar,6 km,20240919
+21:00,23 °C,Clear.,19 km/h,↑,62%,1013 mbar,10 km,20240919
+"00:00Fri, 20 Sep",21 °C,Clear.,6 km/h,↑,60%,1012 mbar,10 km,20240920
+03:00,21 °C,Clear.,9 km/h,↑,63%,1011 mbar,10 km,20240920
+06:00,18 °C,Clear.,6 km/h,↑,79%,1012 mbar,8 km,20240920
+09:00,24 °C,Sunny.,13 km/h,↑,54%,1012 mbar,8 km,20240920
+12:00,29 °C,Haze.,22 km/h,↑,38%,1011 mbar,7 km,20240920
+15:00,30 °C,Haze.,26 km/h,↑,32%,1010 mbar,7 km,20240920
+18:00,28 °C,Haze.,22 km/h,↑,37%,1011 mbar,6 km,20240920
+21:00,25 °C,Clear.,11 km/h,↑,51%,1011 mbar,8 km,20240920
+"00:00Sat, 21 Sep",23 °C,Clear.,9 km/h,↑,52%,1010 mbar,5 km,20240921
+03:00,22 °C,Clear.,9 km/h,↑,51%,1009 mbar,5 km,20240921
+06:00,21 °C,Clear.,11 km/h,↑,59%,1009 mbar,7 km,20240921
+09:00,24 °C,Scattered clouds.,15 km/h,↑,54%,1011 mbar,7 km,20240921
+12:00,27 °C,Scattered clouds.,28 km/h,↑,41%,1010 mbar,7 km,20240921
+15:00,27 °C,Partly sunny.,24 km/h,↑,46%,1009 mbar,6 km,20240921
+18:00,25 °C,Partly sunny.,30 km/h,↑,50%,1010 mbar,6 km,20240921
+21:00,22 °C,Passing clouds.,11 km/h,↑,70%,1012 mbar,8 km,20240921
+"00:00Sun, 22 Sep",20 °C,Passing clouds.,13 km/h,↑,74%,1012 mbar,7 km,20240922
+03:00,20 °C,Passing clouds.,28 km/h,↑,77%,1011 mbar,7 km,20240922
+06:00,19 °C,Passing clouds.,15 km/h,↑,80%,1012 mbar,7 km,20240922
+09:00,22 °C,Partly sunny.,17 km/h,↑,69%,1012 mbar,6 km,20240922
+12:00,25 °C,Partly sunny.,15 km/h,↑,48%,1011 mbar,7 km,20240922
+15:00,24 °C,Overcast.,24 km/h,↑,63%,1011 mbar,5 km,20240922
+18:00,24 °C,Partly sunny.,24 km/h,↑,54%,1011 mbar,5 km,20240922
+21:00,21 °C,Passing clouds.,17 km/h,↑,74%,1012 mbar,7 km,20240922
+"00:00Mon, 23 Sep",19 °C,Passing clouds.,13 km/h,↑,75%,1012 mbar,7 km,20240923
+03:00,18 °C,Haze.,11 km/h,↑,74%,1012 mbar,8 km,20240923
+06:00,18 °C,Passing clouds.,11 km/h,↑,79%,1012 mbar,5 km,20240923
+09:00,20 °C,Partly sunny.,11 km/h,↑,67%,1013 mbar,7 km,20240923
+12:00,24 °C,Scattered clouds.,13 km/h,↑,51%,1013 mbar,8 km,20240923
+15:00,25 °C,Scattered clouds.,13 km/h,↑,43%,1011 mbar,6 km,20240923
+18:00,25 °C,Scattered clouds.,15 km/h,↑,48%,1012 mbar,6 km,20240923
+21:00,21 °C,Clear.,15 km/h,↑,63%,1013 mbar,7 km,20240923
+"00:00Tue, 24 Sep",20 °C,Clear.,9 km/h,↑,68%,1013 mbar,6 km,20240924
+03:00,18 °C,Clear.,4 km/h,↑,72%,1013 mbar,6 km,20240924
+06:00,17 °C,Clear.,No wind,↑,81%,1014 mbar,10 km,20240924
+09:00,21 °C,Sunny.,7 km/h,↑,58%,1015 mbar,7 km,20240924
+12:00,26 °C,Sunny.,N/A,↑,42%,1014 mbar,6 km,20240924
+15:00,30 °C,Sunny.,6 km/h,↑,29%,1012 mbar,6 km,20240924
+18:00,29 °C,Sunny.,15 km/h,↑,32%,1012 mbar,6 km,20240924
+21:00,24 °C,Clear.,No wind,↑,44%,1013 mbar,8 km,20240924
+"00:00Wed, 25 Sep",23 °C,Clear.,No wind,↑,43%,1012 mbar,10 km,20240925
+03:00,21 °C,Clear.,No wind,↑,46%,1011 mbar,10 km,20240925
+06:00,20 °C,Clear.,No wind,↑,63%,1012 mbar,7 km,20240925
+09:00,24 °C,Sunny.,No wind,↑,52%,1013 mbar,5 km,20240925
+12:00,30 °C,Sunny.,6 km/h,↑,30%,1012 mbar,6 km,20240925
+15:00,32 °C,Sunny.,7 km/h,↑,25%,1010 mbar,6 km,20240925
+18:00,29 °C,Sunny.,19 km/h,↑,36%,1011 mbar,5 km,20240925
+21:00,25 °C,Clear.,9 km/h,↑,54%,1011 mbar,6 km,20240925
+"00:00Thu, 26 Sep",23 °C,Clear.,No wind,↑,60%,1011 mbar,10 km,20240926
+03:00,24 °C,Clear.,No wind,↑,39%,1009 mbar,10 km,20240926
+06:00,19 °C,Clear.,6 km/h,↑,73%,1012 mbar,7 km,20240926
+09:00,24 °C,Sunny.,7 km/h,↑,44%,1011 mbar,6 km,20240926
+12:00,31 °C,Sunny.,6 km/h,↑,26%,1010 mbar,5 km,20240926
+15:00,33 °C,Sunny.,15 km/h,↑,26%,1008 mbar,6 km,20240926
+18:00,30 °C,Sunny.,15 km/h,↑,26%,1009 mbar,6 km,20240926
+21:00,25 °C,Clear.,No wind,↑,51%,1010 mbar,8 km,20240926
+"00:00Fri, 27 Sep",24 °C,Clear.,7 km/h,↑,52%,1009 mbar,8 km,20240927
+03:00,22 °C,Clear.,7 km/h,↑,64%,1008 mbar,8 km,20240927
+06:00,20 °C,Clear.,No wind,↑,64%,1010 mbar,7 km,20240927
+09:00,26 °C,Sunny.,No wind,↑,36%,1009 mbar,6 km,20240927
+12:00,31 °C,Sunny.,9 km/h,↑,21%,1009 mbar,10 km,20240927
+15:00,33 °C,Sunny.,17 km/h,↑,26%,1008 mbar,7 km,20240927
+21:00,25 °C,Clear.,7 km/h,↑,56%,1009 mbar,5 km,20240927
+"00:00Sat, 28 Sep",24 °C,Clear.,6 km/h,↑,54%,1009 mbar,5 km,20240928
+03:00,21 °C,Clear.,6 km/h,↑,60%,1008 mbar,5 km,20240928
+06:00,20 °C,Clear.,7 km/h,↑,53%,1009 mbar,7 km,20240928
+09:00,25 °C,Sunny.,6 km/h,↑,34%,1010 mbar,5 km,20240928
+12:00,30 °C,Sunny.,9 km/h,↑,29%,1009 mbar,5 km,20240928
+15:00,33 °C,Sunny.,9 km/h,↑,22%,1007 mbar,5 km,20240928
+18:00,31 °C,Sunny.,13 km/h,↑,28%,1007 mbar,5 km,20240928
+21:00,26 °C,Clear.,15 km/h,↑,46%,1008 mbar,7 km,20240928
+"00:00Sun, 29 Sep",23 °C,Clear.,6 km/h,↑,66%,1009 mbar,7 km,20240929
+03:00,20 °C,Clear.,6 km/h,↑,73%,1008 mbar,8 km,20240929
+06:00,20 °C,Clear.,11 km/h,↑,69%,1008 mbar,5 km,20240929
+09:00,23 °C,Sunny.,7 km/h,↑,56%,1009 mbar,6 km,20240929
+12:00,27 °C,Sunny.,15 km/h,↑,30%,1009 mbar,6 km,20240929
+15:00,29 °C,Scattered clouds.,19 km/h,↑,39%,1008 mbar,7 km,20240929
+18:00,26 °C,Scattered clouds.,22 km/h,↑,50%,1008 mbar,5 km,20240929
+21:00,21 °C,Clear.,15 km/h,↑,65%,1009 mbar,7 km,20240929
+"00:00Mon, 30 Sep",20 °C,Clear.,13 km/h,↑,67%,1009 mbar,7 km,20240930
+03:00,19 °C,Clear.,No wind,↑,67%,1008 mbar,10 km,20240930
+06:00,18 °C,Clear.,15 km/h,↑,61%,1008 mbar,6 km,20240930
+09:00,21 °C,Sunny.,No wind,↑,55%,1009 mbar,6 km,20240930
+12:00,27 °C,Sunny.,11 km/h,↑,41%,1008 mbar,8 km,20240930
+15:00,28 °C,Sunny.,24 km/h,↑,36%,1007 mbar,7 km,20240930
+18:00,26 °C,Haze.,22 km/h,↑,46%,1008 mbar,6 km,20240930
+21:00,22 °C,Clear.,15 km/h,↑,69%,1009 mbar,7 km,20240930
+"00:00Tue, 1 Oct",19 °C,Clear.,6 km/h,↑,82%,1009 mbar,7 km,20241001
+03:00,18 °C,Clear.,13 km/h,↑,69%,1008 mbar,10 km,20241001
+06:00,18 °C,Clear.,15 km/h,↑,86%,1008 mbar,10 km,20241001
+09:00,20 °C,Overcast.,13 km/h,↑,79%,1009 mbar,4 km,20241001
+12:00,23 °C,Overcast.,28 km/h,↑,57%,1009 mbar,7 km,20241001
+15:00,24 °C,Partly sunny.,28 km/h,↑,56%,1008 mbar,5 km,20241001
+18:00,22 °C,Partly sunny.,32 km/h,↑,61%,1008 mbar,5 km,20241001
+21:00,19 °C,Passing clouds.,19 km/h,↑,64%,1010 mbar,7 km,20241001
+"00:00Wed, 2 Oct",18 °C,Haze.,19 km/h,↑,74%,1010 mbar,7 km,20241002
+03:00,18 °C,Fog.,22 km/h,↑,81%,1009 mbar,7 km,20241002
+06:00,17 °C,Passing clouds.,11 km/h,↑,83%,1010 mbar,5 km,20241002
+09:00,19 °C,Partly sunny.,19 km/h,↑,67%,1012 mbar,5 km,20241002
+12:00,22 °C,Partly sunny.,15 km/h,↑,55%,1012 mbar,7 km,20241002
+15:00,25 °C,Haze.,15 km/h,↑,43%,1011 mbar,6 km,20241002
+18:00,23 °C,Scattered clouds.,19 km/h,↑,48%,1012 mbar,6 km,20241002
+21:00,20 °C,Clear.,11 km/h,↑,66%,1014 mbar,7 km,20241002
+"00:00Thu, 3 Oct",18 °C,Clear.,9 km/h,↑,77%,1014 mbar,7 km,20241003
+03:00,16 °C,Fog.,9 km/h,↑,86%,1014 mbar,7 km,20241003
+06:00,15 °C,Fog.,No wind,↑,89%,1015 mbar,7 km,20241003
+09:00,18 °C,Sunny.,6 km/h,↑,74%,1016 mbar,5 km,20241003
+12:00,24 °C,Sunny.,13 km/h,↑,55%,1015 mbar,6 km,20241003
+15:00,29 °C,Sunny.,17 km/h,↑,27%,1014 mbar,6 km,20241003
+18:00,27 °C,Sunny.,9 km/h,↑,25%,1014 mbar,5 km,20241003
+21:00,22 °C,Clear.,No wind,↑,46%,1015 mbar,8 km,20241003
+"00:00Fri, 4 Oct",20 °C,Clear.,No wind,↑,50%,1015 mbar,6 km,20241004
+03:00,19 °C,Clear.,6 km/h,↑,50%,1014 mbar,5 km,20241004
+06:00,17 °C,Clear.,No wind,↑,60%,1014 mbar,6 km,20241004
+09:00,22 °C,Sunny.,No wind,↑,45%,1015 mbar,6 km,20241004
+12:00,28 °C,Sunny.,7 km/h,↑,27%,1014 mbar,8 km,20241004
+15:00,31 °C,Sunny.,No wind,↑,23%,1011 mbar,7 km,20241004
+18:00,29 °C,Sunny.,9 km/h,↑,25%,1011 mbar,7 km,20241004
+21:00,24 °C,Clear.,4 km/h,↑,47%,1012 mbar,5 km,20241004
+"00:00Sat, 5 Oct",22 °C,Clear.,4 km/h,↑,54%,1012 mbar,5 km,20241005
+03:00,20 °C,Clear.,4 km/h,↑,63%,1011 mbar,5 km,20241005
+06:00,18 °C,Clear.,No wind,↑,69%,1012 mbar,7 km,20241005
+12:00,29 °C,Sunny.,4 km/h,↑,26%,1011 mbar,6 km,20241005
+15:00,32 °C,Sunny.,11 km/h,↑,19%,1009 mbar,4 km,20241005
+18:00,30 °C,Sunny.,11 km/h,↑,27%,1009 mbar,4 km,20241005
+21:00,25 °C,Clear.,No wind,↑,41%,1010 mbar,6 km,20241005
+"00:00Sun, 6 Oct",22 °C,Clear.,No wind,↑,53%,1010 mbar,7 km,20241006
+"00:00Mon, 7 Oct",21 °C,Haze.,9 km/h,↑,74%,1010 mbar,5 km,20241007
+03:00,20 °C,Haze.,9 km/h,↑,73%,1010 mbar,7 km,20241007
+06:00,20 °C,Fog.,9 km/h,↑,88%,1012 mbar,5 km,20241007
+09:00,22 °C,Sunny.,6 km/h,↑,73%,1013 mbar,6 km,20241007
+12:00,27 °C,Sunny.,7 km/h,↑,51%,1013 mbar,5 km,20241007
+15:00,28 °C,Sunny.,22 km/h,↑,46%,1012 mbar,7 km,20241007
+18:00,24 °C,Sunny.,22 km/h,↑,63%,1013 mbar,4 km,20241007
+21:00,21 °C,Clear.,11 km/h,↑,76%,1015 mbar,7 km,20241007
+"00:00Tue, 8 Oct",20 °C,Clear.,15 km/h,↑,70%,1014 mbar,8 km,20241008
+03:00,18 °C,Clear.,9 km/h,↑,86%,1014 mbar,8 km,20241008
+06:00,19 °C,Passing clouds.,11 km/h,↑,83%,1015 mbar,6 km,20241008
+09:00,21 °C,Haze.,9 km/h,↑,70%,1016 mbar,5 km,20241008
+12:00,26 °C,Sunny.,15 km/h,↑,50%,1015 mbar,6 km,20241008
+15:00,28 °C,Haze.,26 km/h,↑,42%,1014 mbar,6 km,20241008
+18:00,25 °C,Haze.,22 km/h,↑,47%,1015 mbar,5 km,20241008
+21:00,22 °C,Clear.,7 km/h,↑,52%,1016 mbar,7 km,20241008
+"00:00Wed, 9 Oct",23 °C,Clear.,No wind,↑,40%,1015 mbar,7 km,20241009
+03:00,20 °C,Clear.,7 km/h,↑,54%,1015 mbar,7 km,20241009
+06:00,19 °C,Clear.,No wind,↑,53%,1015 mbar,6 km,20241009
+09:00,24 °C,Sunny.,No wind,↑,42%,1015 mbar,5 km,20241009
+12:00,28 °C,Sunny.,No wind,↑,31%,1014 mbar,10 km,20241009
+15:00,29 °C,Sunny.,15 km/h,↑,36%,1012 mbar,7 km,20241009
+18:00,26 °C,Sunny.,19 km/h,↑,59%,1013 mbar,7 km,20241009
+"18:00Thu, 10 Oct",26 °C,Sunny.,15 km/h,↑,52%,1011 mbar,7 km,20241010
+21:00,21 °C,Clear.,2 km/h,↑,74%,1012 mbar,8 km,20241010
+"00:00Fri, 11 Oct",20 °C,Clear.,9 km/h,↑,80%,1012 mbar,7 km,20241011
+03:00,20 °C,Clear.,11 km/h,↑,60%,1010 mbar,7 km,20241011
+06:00,16 °C,Clear.,7 km/h,↑,82%,1012 mbar,8 km,20241011
+09:00,19 °C,Sunny.,No wind,↑,78%,1013 mbar,5 km,20241011
+12:00,26 °C,Sunny.,7 km/h,↑,43%,1012 mbar,7 km,20241011
+15:00,29 °C,Sunny.,11 km/h,↑,31%,1010 mbar,7 km,20241011
+18:00,26 °C,Sunny.,15 km/h,↑,45%,1011 mbar,7 km,20241011
+21:00,22 °C,Haze.,11 km/h,↑,61%,1012 mbar,6 km,20241011
+"00:00Sat, 12 Oct",21 °C,Clear.,7 km/h,↑,61%,1011 mbar,6 km,20241012
+03:00,17 °C,Clear.,6 km/h,↑,81%,1011 mbar,6 km,20241012
+06:00,16 °C,Clear.,No wind,↑,81%,1012 mbar,8 km,20241012
+09:00,22 °C,Sunny.,4 km/h,↑,55%,1013 mbar,4 km,20241012
+12:00,27 °C,Sunny.,7 km/h,↑,35%,1012 mbar,6 km,20241012
+15:00,29 °C,Sunny.,19 km/h,↑,26%,1011 mbar,6 km,20241012
+18:00,26 °C,Sunny.,17 km/h,↑,50%,1012 mbar,5 km,20241012
+21:00,22 °C,Clear.,9 km/h,↑,75%,1013 mbar,7 km,20241012
+"00:00Sun, 13 Oct",19 °C,Clear.,6 km/h,↑,82%,1012 mbar,7 km,20241013
+03:00,17 °C,Clear.,No wind,↑,88%,1012 mbar,6 km,20241013
+06:00,16 °C,Fog.,No wind,↑,90%,1013 mbar,5 km,20241013
+09:00,22 °C,Sunny.,6 km/h,↑,60%,1014 mbar,5 km,20241013
+12:00,27 °C,Haze.,9 km/h,↑,38%,1013 mbar,6 km,20241013
+15:00,29 °C,Haze.,13 km/h,↑,30%,1012 mbar,5 km,20241013
+18:00,25 °C,Haze.,19 km/h,↑,62%,1012 mbar,5 km,20241013
+21:00,22 °C,Haze.,7 km/h,↑,69%,1013 mbar,6 km,20241013
+"00:00Mon, 14 Oct",21 °C,Haze.,9 km/h,↑,68%,1012 mbar,7 km,20241014
+03:00,20 °C,Clear.,7 km/h,↑,60%,1011 mbar,7 km,20241014
+06:00,19 °C,Clear.,9 km/h,↑,68%,1012 mbar,7 km,20241014
+09:00,22 °C,Sunny.,9 km/h,↑,56%,1013 mbar,5 km,20241014
+12:00,27 °C,Sunny.,7 km/h,↑,41%,1013 mbar,5 km,20241014
+15:00,30 °C,Haze.,15 km/h,↑,24%,1010 mbar,5 km,20241014
+18:00,27 °C,Sunny.,17 km/h,↑,39%,1012 mbar,7 km,20241014
+21:00,22 °C,Clear.,6 km/h,↑,73%,1013 mbar,5 km,20241014
+"00:00Tue, 15 Oct",21 °C,Clear.,No wind,↑,73%,1011 mbar,7 km,20241015
+03:00,20 °C,Clear.,6 km/h,↑,76%,1011 mbar,8 km,20241015
+06:00,18 °C,Clear.,N/A,↑,81%,1012 mbar,5 km,20241015
+09:00,20 °C,Sunny.,N/A,↑,69%,1014 mbar,4 km,20241015
+12:00,28 °C,Sunny.,6 km/h,↑,38%,1014 mbar,6 km,20241015
+15:00,30 °C,Haze.,6 km/h,↑,28%,1011 mbar,5 km,20241015
+18:00,27 °C,Sunny.,11 km/h,↑,41%,1012 mbar,5 km,20241015
+21:00,24 °C,Haze.,6 km/h,↑,53%,1014 mbar,6 km,20241015
+"00:00Wed, 16 Oct",22 °C,Clear.,6 km/h,↑,57%,1013 mbar,5 km,20241016
+06:00,19 °C,Clear.,No wind,↑,80%,1013 mbar,5 km,20241016
+09:00,22 °C,Sunny.,No wind,↑,70%,1014 mbar,4 km,20241016
+12:00,28 °C,Sunny.,7 km/h,↑,41%,1012 mbar,5 km,20241016
+15:00,29 °C,Haze.,15 km/h,↑,38%,1011 mbar,5 km,20241016
+18:00,24 °C,Sunny.,15 km/h,↑,57%,1012 mbar,5 km,20241016
+21:00,21 °C,Clear.,13 km/h,↑,72%,1014 mbar,8 km,20241016
+"00:00Thu, 17 Oct",20 °C,Clear.,11 km/h,↑,74%,1013 mbar,6 km,20241017
+03:00,18 °C,Clear.,4 km/h,↑,77%,1012 mbar,7 km,20241017
+06:00,17 °C,Haze.,9 km/h,↑,80%,1014 mbar,7 km,20241017
+09:00,20 °C,Haze.,13 km/h,↑,68%,1014 mbar,6 km,20241017
+12:00,23 °C,Haze.,20 km/h,↑,48%,1013 mbar,5 km,20241017
+15:00,24 °C,Haze.,22 km/h,↑,49%,1012 mbar,6 km,20241017
+18:00,22 °C,Passing clouds.,17 km/h,↑,58%,1012 mbar,6 km,20241017
+21:00,20 °C,Haze.,13 km/h,↑,78%,1012 mbar,7 km,20241017
+"00:00Fri, 18 Oct",19 °C,Passing clouds.,13 km/h,↑,78%,1012 mbar,7 km,20241018
+03:00,18 °C,Haze.,17 km/h,↑,76%,1012 mbar,6 km,20241018
+09:00,20 °C,Haze.,11 km/h,↑,67%,1013 mbar,7 km,20241018
+12:00,24 °C,Haze.,17 km/h,↑,46%,1012 mbar,8 km,20241018
+15:00,25 °C,Haze.,19 km/h,↑,36%,1011 mbar,8 km,20241018
+18:00,22 °C,Haze.,15 km/h,↑,55%,1011 mbar,7 km,20241018
+21:00,18 °C,Haze.,15 km/h,↑,59%,1013 mbar,5 km,20241018
+"00:00Sat, 19 Oct",15 °C,Clear.,4 km/h,↑,70%,1013 mbar,7 km,20241019
+03:00,14 °C,Clear.,7 km/h,↑,72%,1013 mbar,7 km,20241019
+06:00,13 °C,Clear.,No wind,↑,69%,1014 mbar,8 km,20241019
+09:00,17 °C,Sunny.,6 km/h,↑,52%,1016 mbar,7 km,20241019
+12:00,21 °C,Sunny.,11 km/h,↑,30%,1016 mbar,7 km,20241019
+15:00,23 °C,Sunny.,19 km/h,↑,23%,1016 mbar,10 km,20241019
+18:00,21 °C,Clear.,13 km/h,↑,40%,1017 mbar,8 km,20241019
+21:00,17 °C,Clear.,6 km/h,↑,57%,1018 mbar,8 km,20241019
+"00:00Sun, 20 Oct",15 °C,Clear.,No wind,↑,60%,1018 mbar,8 km,20241020
+03:00,13 °C,Clear.,No wind,↑,65%,1018 mbar,7 km,20241020
+06:00,12 °C,Clear.,No wind,↑,73%,1019 mbar,7 km,20241020
+09:00,17 °C,Sunny.,9 km/h,↑,28%,1021 mbar,10 km,20241020
+12:00,22 °C,Sunny.,13 km/h,↑,19%,1020 mbar,5 km,20241020
+15:00,24 °C,Sunny.,6 km/h,↑,18%,1018 mbar,7 km,20241020
+18:00,23 °C,Clear.,6 km/h,↑,22%,1018 mbar,5 km,20241020
+21:00,19 °C,Clear.,6 km/h,↑,25%,1019 mbar,5 km,20241020
+"00:00Mon, 21 Oct",18 °C,Clear.,6 km/h,↑,34%,1018 mbar,5 km,20241021
+06:00,14 °C,Clear.,4 km/h,↑,36%,1018 mbar,6 km,20241021
+09:00,19 °C,Sunny.,4 km/h,↑,33%,1019 mbar,4 km,20241021
+12:00,23 °C,Sunny.,6 km/h,↑,22%,1018 mbar,6 km,20241021
+15:00,25 °C,Sunny.,17 km/h,↑,14%,1017 mbar,6 km,20241021
+18:00,21 °C,Clear.,13 km/h,↑,17%,1018 mbar,6 km,20241021
+21:00,17 °C,Clear.,6 km/h,↑,48%,1018 mbar,6 km,20241021
+"00:00Tue, 22 Oct",14 °C,Clear.,No wind,↑,51%,1018 mbar,7 km,20241022
+03:00,13 °C,Clear.,No wind,↑,54%,1017 mbar,7 km,20241022
+06:00,11 °C,Clear.,No wind,↑,65%,1018 mbar,6 km,20241022
+09:00,16 °C,Sunny.,7 km/h,↑,25%,1018 mbar,5 km,20241022
+12:00,19 °C,Sunny.,7 km/h,↑,19%,1017 mbar,7 km,20241022
+15:00,21 °C,Sunny.,17 km/h,↑,21%,1016 mbar,6 km,20241022
+18:00,19 °C,Clear.,11 km/h,↑,25%,1017 mbar,6 km,20241022
+21:00,16 °C,Clear.,6 km/h,↑,39%,1018 mbar,6 km,20241022
+"00:00Wed, 23 Oct",14 °C,Clear.,13 km/h,↑,50%,1020 mbar,6 km,20241023
+03:00,13 °C,Clear.,11 km/h,↑,48%,1020 mbar,7 km,20241023
+06:00,10 °C,Clear.,6 km/h,↑,39%,1020 mbar,6 km,20241023
+12:00,18 °C,Sunny.,15 km/h,↑,22%,1021 mbar,7 km,20241023
+15:00,20 °C,Sunny.,15 km/h,↑,14%,1019 mbar,7 km,20241023
+18:00,18 °C,Clear.,7 km/h,↑,16%,1020 mbar,6 km,20241023
+21:00,14 °C,Clear.,7 km/h,↑,21%,1021 mbar,8 km,20241023
+"00:00Thu, 24 Oct",12 °C,Clear.,6 km/h,↑,33%,1021 mbar,8 km,20241024
+03:00,10 °C,Clear.,No wind,↑,33%,1021 mbar,8 km,20241024
+06:00,10 °C,Clear.,No wind,↑,34%,1021 mbar,6 km,20241024
+09:00,13 °C,Sunny.,9 km/h,↑,25%,1023 mbar,7 km,20241024
+12:00,18 °C,Sunny.,15 km/h,↑,17%,1022 mbar,7 km,20241024
+15:00,20 °C,Sunny.,11 km/h,↑,16%,1020 mbar,7 km,20241024
+18:00,18 °C,Clear.,9 km/h,↑,19%,1020 mbar,6 km,20241024
+21:00,16 °C,Clear.,11 km/h,↑,20%,1021 mbar,10 km,20241024
+"00:00Fri, 25 Oct",14 °C,Clear.,9 km/h,↑,24%,1020 mbar,10 km,20241025
+03:00,13 °C,Clear.,15 km/h,↑,27%,1020 mbar,8 km,20241025
+06:00,12 °C,Clear.,15 km/h,↑,28%,1020 mbar,10 km,20241025
+09:00,15 °C,Haze.,13 km/h,↑,23%,1020 mbar,8 km,20241025
+12:00,19 °C,Sunny.,33 km/h,↑,16%,1019 mbar,1 km,20241025
+15:00,22 °C,Sunny.,15 km/h,↑,13%,1017 mbar,3 km,20241025
+18:00,20 °C,Clear.,13 km/h,↑,14%,1017 mbar,5 km,20241025
+21:00,16 °C,Clear.,2 km/h,↑,31%,1018 mbar,5 km,20241025
+"00:00Sat, 26 Oct",14 °C,Clear.,2 km/h,↑,27%,1018 mbar,4 km,20241026
+03:00,12 °C,Clear.,4 km/h,↑,32%,1017 mbar,4 km,20241026
+06:00,11 °C,Clear.,No wind,↑,40%,1018 mbar,5 km,20241026
+09:00,14 °C,Sunny.,6 km/h,↑,36%,1019 mbar,4 km,20241026
+12:00,20 °C,Sunny.,6 km/h,↑,28%,1018 mbar,7 km,20241026
+15:00,22 °C,Sunny.,15 km/h,↑,26%,1016 mbar,6 km,20241026
+18:00,21 °C,Clear.,4 km/h,↑,35%,1017 mbar,5 km,20241026
+21:00,17 °C,Clear.,6 km/h,↑,45%,1018 mbar,6 km,20241026
+"00:00Sun, 27 Oct",16 °C,Clear.,No wind,↑,42%,1018 mbar,6 km,20241027
+03:00,13 °C,Clear.,No wind,↑,40%,1018 mbar,7 km,20241027
+06:00,13 °C,Clear.,No wind,↑,38%,1019 mbar,6 km,20241027
+09:00,17 °C,Sunny.,9 km/h,↑,48%,1020 mbar,4 km,20241027
+12:00,22 °C,Haze.,13 km/h,↑,49%,1019 mbar,5 km,20241027
+15:00,25 °C,Scattered clouds.,9 km/h,↑,34%,1018 mbar,7 km,20241027
+18:00,22 °C,Clear.,9 km/h,↑,42%,1019 mbar,6 km,20241027
+21:00,19 °C,Clear.,No wind,↑,54%,1020 mbar,8 km,20241027
+"00:00Mon, 28 Oct",17 °C,Clear.,No wind,↑,62%,1019 mbar,8 km,20241028
+03:00,15 °C,Clear.,No wind,↑,65%,1019 mbar,7 km,20241028
+09:00,17 °C,Sunny.,6 km/h,↑,42%,1020 mbar,4 km,20241028
+12:00,25 °C,Scattered clouds.,6 km/h,↑,32%,1017 mbar,7 km,20241028
+15:00,26 °C,Scattered clouds.,N/A,↑,27%,1015 mbar,6 km,20241028
+18:00,23 °C,Haze.,7 km/h,↑,31%,1015 mbar,5 km,20241028
+21:00,19 °C,Clear.,6 km/h,↑,42%,1016 mbar,5 km,20241028
+"00:00Tue, 29 Oct",17 °C,Clear.,No wind,↑,47%,1015 mbar,7 km,20241029
+03:00,16 °C,Clear.,No wind,↑,54%,1014 mbar,7 km,20241029
+06:00,14 °C,Clear.,N/A,↑,61%,1015 mbar,6 km,20241029
+09:00,18 °C,Passing clouds.,7 km/h,↑,41%,1016 mbar,4 km,20241029
+12:00,24 °C,Partly sunny.,9 km/h,↑,30%,1014 mbar,5 km,20241029
+15:00,26 °C,Haze.,11 km/h,↑,25%,1012 mbar,7 km,20241029
+18:00,23 °C,Clear.,13 km/h,↑,33%,1012 mbar,6 km,20241029
+21:00,19 °C,Clear.,No wind,↑,46%,1013 mbar,7 km,20241029
+"00:00Wed, 30 Oct",17 °C,Clear.,No wind,↑,53%,1012 mbar,6 km,20241030
+03:00,15 °C,Haze.,6 km/h,↑,57%,1011 mbar,6 km,20241030
+06:00,14 °C,Passing clouds.,7 km/h,↑,59%,1011 mbar,7 km,20241030
+09:00,17 °C,Scattered clouds.,No wind,↑,53%,1012 mbar,4 km,20241030
+12:00,22 °C,Scattered clouds.,11 km/h,↑,31%,1011 mbar,6 km,20241030
+15:00,23 °C,Scattered clouds.,4 km/h,↑,29%,1010 mbar,6 km,20241030
+18:00,21 °C,Haze.,9 km/h,↑,51%,1011 mbar,6 km,20241030
+21:00,17 °C,Clear.,6 km/h,↑,62%,1013 mbar,6 km,20241030
+"00:00Thu, 31 Oct",15 °C,Passing clouds.,No wind,↑,71%,1013 mbar,7 km,20241031
+03:00,14 °C,Clear.,7 km/h,↑,76%,1012 mbar,6 km,20241031
+09:00,16 °C,Sunny.,6 km/h,↑,68%,1014 mbar,4 km,20241031
+12:00,20 °C,Haze.,6 km/h,↑,44%,1013 mbar,6 km,20241031
+15:00,23 °C,Scattered clouds.,N/A,↑,32%,1011 mbar,6 km,20241031
+18:00,22 °C,Passing clouds.,6 km/h,↑,36%,1011 mbar,5 km,20241031
+21:00,19 °C,Haze.,7 km/h,↑,53%,1012 mbar,6 km,20241031
+"00:00Fri, 1 Nov",17 °C,Clear.,7 km/h,↑,62%,1012 mbar,6 km,20241101
+03:00,15 °C,Clear.,No wind,↑,69%,1012 mbar,6 km,20241101
+06:00,14 °C,Clear.,No wind,↑,71%,1013 mbar,7 km,20241101
+09:00,17 °C,Sunny.,11 km/h,↑,55%,1014 mbar,6 km,20241101
+12:00,21 °C,Sunny.,19 km/h,↑,38%,1014 mbar,7 km,20241101
+15:00,24 °C,Scattered clouds.,15 km/h,↑,32%,1012 mbar,6 km,20241101
+18:00,22 °C,Passing clouds.,17 km/h,↑,38%,1013 mbar,5 km,20241101
+21:00,18 °C,Passing clouds.,9 km/h,↑,57%,1015 mbar,6 km,20241101
+"00:00Sat, 2 Nov",18 °C,Clear.,13 km/h,↑,67%,1015 mbar,6 km,20241102
+06:00,15 °C,Clear.,7 km/h,↑,81%,1014 mbar,5 km,20241102
+09:00,18 °C,Scattered clouds.,9 km/h,↑,72%,1015 mbar,4 km,20241102
+12:00,23 °C,Partly sunny.,9 km/h,↑,44%,1014 mbar,5 km,20241102
+15:00,24 °C,Partly sunny.,6 km/h,↑,44%,1012 mbar,5 km,20241102
+18:00,21 °C,Passing clouds.,15 km/h,↑,35%,1013 mbar,5 km,20241102
+21:00,18 °C,Clear.,9 km/h,↑,58%,1014 mbar,5 km,20241102
+"00:00Sun, 3 Nov",16 °C,Clear.,No wind,↑,61%,1014 mbar,5 km,20241103
+03:00,17 °C,Passing clouds.,9 km/h,↑,73%,1014 mbar,7 km,20241103
+06:00,15 °C,Haze.,17 km/h,↑,85%,1015 mbar,5 km,20241103
+09:00,16 °C,Scattered clouds.,13 km/h,↑,74%,1016 mbar,4 km,20241103
+12:00,20 °C,Partly sunny.,15 km/h,↑,50%,1019 mbar,6 km,20241103
+15:00,20 °C,Thunderstorms. Overcast.,20 km/h,↑,47%,1015 mbar,4 km,20241103
+18:00,17 °C,Passing clouds.,19 km/h,↑,61%,1016 mbar,5 km,20241103
+21:00,15 °C,Haze.,9 km/h,↑,72%,1017 mbar,7 km,20241103
+"00:00Mon, 4 Nov",14 °C,Clear.,No wind,↑,83%,1017 mbar,7 km,20241104
+03:00,13 °C,Fog.,No wind,↑,91%,1016 mbar,7 km,20241104
+06:00,11 °C,Clear.,No wind,↑,88%,1017 mbar,6 km,20241104
+09:00,16 °C,Haze.,9 km/h,↑,69%,1018 mbar,5 km,20241104
+12:00,20 °C,Scattered clouds.,13 km/h,↑,44%,1017 mbar,8 km,20241104
+15:00,21 °C,Scattered clouds.,19 km/h,↑,40%,1016 mbar,6 km,20241104
+18:00,18 °C,Passing clouds.,13 km/h,↑,60%,1017 mbar,6 km,20241104
+21:00,15 °C,Clear.,7 km/h,↑,74%,1018 mbar,7 km,20241104
+"00:00Tue, 5 Nov",14 °C,Clear.,4 km/h,↑,78%,1018 mbar,7 km,20241105
+03:00,12 °C,Clear.,2 km/h,↑,84%,1018 mbar,5 km,20241105
+06:00,11 °C,Clear.,2 km/h,↑,81%,1018 mbar,5 km,20241105
+09:00,14 °C,Sunny.,N/A,↑,73%,1020 mbar,4 km,20241105
+12:00,20 °C,Sunny.,6 km/h,↑,41%,1019 mbar,7 km,20241105
+15:00,22 °C,Haze.,7 km/h,↑,34%,1017 mbar,6 km,20241105
+18:00,20 °C,Haze.,6 km/h,↑,38%,1018 mbar,7 km,20241105
+21:00,17 °C,Clear.,6 km/h,↑,50%,1019 mbar,7 km,20241105
+"00:00Wed, 6 Nov",15 °C,Clear.,6 km/h,↑,58%,1019 mbar,7 km,20241106
+03:00,14 °C,Clear.,6 km/h,↑,57%,1018 mbar,7 km,20241106
+06:00,13 °C,Clear.,2 km/h,↑,63%,1019 mbar,6 km,20241106
+09:00,16 °C,Scattered clouds.,9 km/h,↑,51%,1021 mbar,6 km,20241106
+12:00,22 °C,Sunny.,19 km/h,↑,35%,1020 mbar,5 km,20241106
+15:00,24 °C,Haze.,19 km/h,↑,30%,1018 mbar,7 km,20241106
+18:00,22 °C,Clear.,7 km/h,↑,37%,1019 mbar,4 km,20241106
+21:00,20 °C,Passing clouds.,19 km/h,↑,54%,1020 mbar,2 km,20241106
+"00:00Thu, 7 Nov",17 °C,Passing clouds.,15 km/h,↑,72%,1020 mbar,3 km,20241107
+06:00,15 °C,Overcast.,7 km/h,↑,79%,1021 mbar,3 km,20241107
+09:00,15 °C,Overcast.,13 km/h,↑,76%,1022 mbar,4 km,20241107
+12:00,19 °C,Sunny.,15 km/h,↑,57%,1021 mbar,5 km,20241107
+15:00,22 °C,Sunny.,17 km/h,↑,44%,1019 mbar,6 km,20241107
+18:00,20 °C,Haze.,7 km/h,↑,46%,1020 mbar,7 km,20241107
+21:00,19 °C,Passing clouds.,9 km/h,↑,53%,1021 mbar,7 km,20241107
+"00:00Fri, 8 Nov",17 °C,Clear.,19 km/h,↑,64%,1021 mbar,5 km,20241108
+03:00,14 °C,Passing clouds.,13 km/h,↑,81%,1021 mbar,5 km,20241108
+06:00,14 °C,Overcast.,7 km/h,↑,83%,1021 mbar,6 km,20241108
+09:00,15 °C,Overcast.,11 km/h,↑,79%,1021 mbar,5 km,20241108
+12:00,17 °C,Sunny.,11 km/h,↑,67%,1020 mbar,5 km,20241108
+15:00,20 °C,Scattered clouds.,13 km/h,↑,55%,1018 mbar,5 km,20241108
+18:00,19 °C,Passing clouds.,6 km/h,↑,62%,1019 mbar,5 km,20241108
+21:00,17 °C,Passing clouds.,4 km/h,↑,70%,1019 mbar,6 km,20241108
+"03:00Sat, 9 Nov",15 °C,Clear.,11 km/h,↑,77%,1017 mbar,6 km,20241109
+06:00,12 °C,Clear.,4 km/h,↑,91%,1018 mbar,5 km,20241109
+09:00,13 °C,Partly sunny.,7 km/h,↑,82%,1019 mbar,4 km,20241109
+12:00,19 °C,Overcast.,15 km/h,↑,59%,1017 mbar,6 km,20241109
+15:00,21 °C,Partly sunny.,9 km/h,↑,47%,1017 mbar,6 km,20241109
+18:00,19 °C,Passing clouds.,6 km/h,↑,54%,1016 mbar,6 km,20241109
+21:00,16 °C,Passing clouds.,6 km/h,↑,63%,1017 mbar,7 km,20241109
+"00:00Sun, 10 Nov",15 °C,Passing clouds.,N/A,↑,71%,1016 mbar,7 km,20241110
+03:00,15 °C,Passing clouds.,7 km/h,↑,61%,1015 mbar,7 km,20241110
+06:00,11 °C,Clear.,No wind,↑,79%,1016 mbar,7 km,20241110
+09:00,14 °C,Haze.,4 km/h,↑,48%,1017 mbar,5 km,20241110
+12:00,19 °C,Haze.,7 km/h,↑,39%,1015 mbar,6 km,20241110
+15:00,24 °C,Haze.,6 km/h,↑,37%,1013 mbar,5 km,20241110
+18:00,20 °C,Passing clouds.,4 km/h,↑,47%,1015 mbar,5 km,20241110
+21:00,17 °C,Passing clouds.,9 km/h,↑,69%,1017 mbar,5 km,20241110
+"00:00Mon, 11 Nov",16 °C,Haze.,6 km/h,↑,76%,1017 mbar,6 km,20241111
+03:00,14 °C,Haze.,4 km/h,↑,79%,1017 mbar,7 km,20241111
+06:00,13 °C,Fog.,No wind,↑,87%,1018 mbar,7 km,20241111
+09:00,16 °C,Scattered clouds.,6 km/h,↑,74%,1020 mbar,5 km,20241111
+12:00,19 °C,Scattered clouds.,19 km/h,↑,49%,1019 mbar,7 km,20241111
+15:00,20 °C,Haze.,17 km/h,↑,43%,1018 mbar,7 km,20241111
+18:00,18 °C,Passing clouds.,17 km/h,↑,49%,1020 mbar,6 km,20241111
+21:00,16 °C,Passing clouds.,11 km/h,↑,53%,1020 mbar,7 km,20241111
+"00:00Tue, 12 Nov",15 °C,Passing clouds.,4 km/h,↑,60%,1020 mbar,6 km,20241112
+03:00,13 °C,Passing clouds.,4 km/h,↑,70%,1019 mbar,6 km,20241112
+06:00,12 °C,Haze.,6 km/h,↑,75%,1019 mbar,5 km,20241112
+09:00,15 °C,Sunny.,6 km/h,↑,69%,1021 mbar,5 km,20241112
+12:00,19 °C,Haze.,9 km/h,↑,52%,1020 mbar,6 km,20241112
+15:00,22 °C,Scattered clouds.,6 km/h,↑,42%,1018 mbar,6 km,20241112
+21:00,16 °C,Clear.,6 km/h,↑,63%,1020 mbar,7 km,20241112
+"00:00Wed, 13 Nov",14 °C,Clear.,No wind,↑,76%,1021 mbar,7 km,20241113
+03:00,13 °C,Clear.,No wind,↑,78%,1020 mbar,8 km,20241113
+06:00,12 °C,Clear.,4 km/h,↑,84%,1021 mbar,5 km,20241113
+09:00,16 °C,Sunny.,4 km/h,↑,70%,1022 mbar,4 km,20241113
+12:00,22 °C,Haze.,7 km/h,↑,42%,1020 mbar,5 km,20241113
+15:00,22 °C,Haze.,11 km/h,↑,37%,1019 mbar,7 km,20241113
+18:00,19 °C,Passing clouds.,11 km/h,↑,54%,1020 mbar,6 km,20241113
+21:00,16 °C,Clear.,9 km/h,↑,66%,1020 mbar,8 km,20241113
+"00:00Thu, 14 Nov",13 °C,Clear.,No wind,↑,70%,1019 mbar,8 km,20241114
+03:00,13 °C,Passing clouds.,No wind,↑,71%,1019 mbar,10 km,20241114
+06:00,12 °C,Clear.,No wind,↑,93%,1019 mbar,7 km,20241114
+09:00,14 °C,Overcast.,6 km/h,↑,81%,1020 mbar,3 km,20241114
+12:00,20 °C,Overcast.,7 km/h,↑,40%,1019 mbar,7 km,20241114
+15:00,23 °C,Partly sunny.,4 km/h,↑,23%,1017 mbar,6 km,20241114
+18:00,18 °C,Passing clouds.,7 km/h,↑,54%,1017 mbar,6 km,20241114
+21:00,15 °C,Haze.,4 km/h,↑,55%,1019 mbar,6 km,20241114
+"00:00Fri, 15 Nov",13 °C,Haze.,6 km/h,↑,59%,1018 mbar,6 km,20241115
+03:00,12 °C,Clear.,6 km/h,↑,71%,1017 mbar,6 km,20241115
+06:00,12 °C,Haze.,2 km/h,↑,83%,1017 mbar,6 km,20241115
+09:00,13 °C,Haze.,No wind,↑,80%,1018 mbar,6 km,20241115
+12:00,20 °C,Sunny.,11 km/h,↑,37%,1016 mbar,8 km,20241115
+15:00,24 °C,Haze.,6 km/h,↑,31%,1013 mbar,6 km,20241115
+18:00,20 °C,Clear.,6 km/h,↑,39%,1014 mbar,5 km,20241115
+21:00,17 °C,Clear.,7 km/h,↑,52%,1016 mbar,10 km,20241115
+"00:00Sat, 16 Nov",17 °C,Clear.,7 km/h,↑,48%,1015 mbar,10 km,20241116
+03:00,14 °C,Clear.,4 km/h,↑,68%,1015 mbar,10 km,20241116
+06:00,13 °C,Clear.,7 km/h,↑,57%,1016 mbar,10 km,20241116
+09:00,15 °C,Passing clouds.,15 km/h,↑,69%,1018 mbar,10 km,20241116
+12:00,18 °C,Passing clouds.,15 km/h,↑,54%,1017 mbar,10 km,20241116
+15:00,20 °C,Passing clouds.,17 km/h,↑,44%,1016 mbar,10 km,20241116
+18:00,18 °C,Haze.,15 km/h,↑,58%,1016 mbar,7 km,20241116
+21:00,16 °C,Clear.,17 km/h,↑,74%,1018 mbar,8 km,20241116
+"00:00Sun, 17 Nov",14 °C,Clear.,6 km/h,↑,74%,1017 mbar,8 km,20241117
+03:00,14 °C,Clear.,4 km/h,↑,73%,1016 mbar,6 km,20241117
+06:00,10 °C,Haze.,No wind,↑,76%,1017 mbar,7 km,20241117
+09:00,15 °C,Scattered clouds.,2 km/h,↑,55%,1017 mbar,4 km,20241117
+12:00,21 °C,Haze.,7 km/h,↑,34%,1015 mbar,9 km,20241117
+15:00,21 °C,Scattered clouds.,11 km/h,↑,23%,1014 mbar,7 km,20241117
+18:00,18 °C,Passing clouds.,9 km/h,↑,29%,1014 mbar,7 km,20241117
+20:00,16 °C,Clear.,7 km/h,↑,33%,1014 mbar,8 km,20241117
+21:00,16 °C,Clear.,7 km/h,↑,33%,1014 mbar,8 km,20241117
+"00:00Mon, 18 Nov",15 °C,Clear.,6 km/h,↑,44%,1013 mbar,8 km,20241118
+03:00,13 °C,Haze.,6 km/h,↑,47%,1013 mbar,8 km,20241118
+06:00,14 °C,Passing clouds.,15 km/h,↑,59%,1013 mbar,8 km,20241118
+09:00,15 °C,Partly sunny.,24 km/h,↑,69%,1015 mbar,5 km,20241118
+12:00,17 °C,Partly sunny.,20 km/h,↑,57%,1015 mbar,6 km,20241118
+15:00,17 °C,Scattered clouds.,22 km/h,↑,60%,1014 mbar,6 km,20241118
+18:00,16 °C,Overcast.,13 km/h,↑,64%,1016 mbar,5 km,20241118
+21:00,14 °C,Haze.,9 km/h,↑,77%,1017 mbar,6 km,20241118
+"00:00Tue, 19 Nov",14 °C,Clear.,15 km/h,↑,75%,1017 mbar,6 km,20241119
+03:00,13 °C,Passing clouds.,13 km/h,↑,78%,1017 mbar,6 km,20241119
+06:00,13 °C,Passing clouds.,9 km/h,↑,84%,1017 mbar,5 km,20241119
+09:00,14 °C,Light rain. Overcast.,15 km/h,↑,81%,1018 mbar,6 km,20241119
+12:00,16 °C,Overcast.,24 km/h,↑,59%,1018 mbar,6 km,20241119
+15:00,17 °C,Partly sunny.,19 km/h,↑,57%,1017 mbar,5 km,20241119
+18:00,15 °C,Passing clouds.,24 km/h,↑,70%,1018 mbar,6 km,20241119
+21:00,14 °C,Passing clouds.,19 km/h,↑,67%,1019 mbar,8 km,20241119
+"00:00Wed, 20 Nov",14 °C,Haze.,6 km/h,↑,74%,1019 mbar,8 km,20241120
+03:00,12 °C,Fog.,7 km/h,↑,84%,1019 mbar,6 km,20241120
+06:00,11 °C,Fog.,4 km/h,↑,88%,1020 mbar,5 km,20241120
+09:00,13 °C,Passing clouds.,No wind,↑,82%,1020 mbar,4 km,20241120
+12:00,18 °C,Scattered clouds.,9 km/h,↑,54%,1019 mbar,6 km,20241120
+15:00,19 °C,Haze.,11 km/h,↑,41%,1017 mbar,7 km,20241120
+18:00,15 °C,Haze.,9 km/h,↑,53%,1018 mbar,8 km,20241120
+21:00,15 °C,Clear.,6 km/h,↑,61%,1019 mbar,8 km,20241120
+"03:00Thu, 21 Nov",11 °C,Clear.,No wind,↑,80%,1018 mbar,8 km,20241121
+06:00,11 °C,Clear.,7 km/h,↑,79%,1020 mbar,7 km,20241121
+09:00,14 °C,Passing clouds.,6 km/h,↑,68%,1020 mbar,4 km,20241121
+12:00,20 °C,Haze.,7 km/h,↑,38%,1019 mbar,6 km,20241121
+15:00,21 °C,Haze.,7 km/h,↑,28%,1018 mbar,7 km,20241121
+18:00,18 °C,Haze.,13 km/h,↑,32%,1019 mbar,9 km,20241121
+21:00,14 °C,Clear.,4 km/h,↑,53%,1021 mbar,7 km,20241121
+"00:00Fri, 22 Nov",13 °C,Passing clouds.,6 km/h,↑,65%,1020 mbar,6 km,20241122
+03:00,12 °C,Haze.,4 km/h,↑,73%,1020 mbar,6 km,20241122
+06:00,11 °C,Clear.,No wind,↑,72%,1021 mbar,8 km,20241122
+09:00,12 °C,Sunny.,No wind,↑,68%,1023 mbar,7 km,20241122
+12:00,19 °C,Sunny.,7 km/h,↑,41%,1022 mbar,10 km,20241122
+15:00,21 °C,Haze.,19 km/h,↑,36%,1020 mbar,6 km,20241122
+18:00,19 °C,Clear.,7 km/h,↑,44%,1021 mbar,5 km,20241122
+21:00,16 °C,Clear.,6 km/h,↑,54%,1022 mbar,10 km,20241122
+"00:00Sat, 23 Nov",16 °C,Clear.,7 km/h,↑,52%,1021 mbar,10 km,20241123
+03:00,15 °C,Clear.,11 km/h,↑,45%,1020 mbar,10 km,20241123
+06:00,12 °C,Clear.,6 km/h,↑,58%,1021 mbar,10 km,20241123
+09:00,13 °C,Sunny.,11 km/h,↑,58%,1022 mbar,5 km,20241123
+12:00,19 °C,Sunny.,15 km/h,↑,37%,1020 mbar,5 km,20241123
+15:00,21 °C,Sunny.,15 km/h,↑,33%,1017 mbar,5 km,20241123
+18:00,20 °C,Passing clouds.,7 km/h,↑,37%,1017 mbar,5 km,20241123
+21:00,16 °C,Haze.,No wind,↑,48%,1018 mbar,7 km,20241123
+"03:00Sun, 24 Nov",15 °C,Clear.,7 km/h,↑,50%,1015 mbar,5 km,20241124
+09:00,14 °C,Scattered clouds.,20 km/h,↑,84%,1015 mbar,4 km,20241124
+12:00,16 °C,Drizzle. Overcast.,24 km/h,↑,66%,1013 mbar,3 km,20241124
+15:00,13 °C,Light rain. Overcast.,15 km/h,↑,89%,1012 mbar,4 km,20241124
+18:00,11 °C,Overcast.,26 km/h,↑,81%,1013 mbar,10 km,20241124
+21:00,11 °C,Passing clouds.,30 km/h,↑,69%,1013 mbar,10 km,20241124
+"00:00Mon, 25 Nov",9 °C,Passing clouds.,20 km/h,↑,75%,1014 mbar,10 km,20241125
+03:00,8 °C,Passing clouds.,15 km/h,↑,68%,1014 mbar,10 km,20241125
+06:00,9 °C,Passing clouds.,15 km/h,↑,62%,1014 mbar,10 km,20241125
+09:00,8 °C,Partly sunny.,20 km/h,↑,65%,1017 mbar,10 km,20241125
+12:00,10 °C,Overcast.,22 km/h,↑,52%,1016 mbar,10 km,20241125
+15:00,11 °C,Partly sunny.,28 km/h,↑,42%,1017 mbar,6 km,20241125
+18:00,9 °C,Overcast.,20 km/h,↑,58%,1016 mbar,7 km,20241125
+21:00,7 °C,Rain. Overcast.,9 km/h,↑,86%,1016 mbar,4 km,20241125
+"03:00Tue, 26 Nov",7 °C,Fog.,17 km/h,↑,84%,1015 mbar,5 km,20241126
+06:00,6 °C,Rain. Overcast.,15 km/h,↑,86%,1015 mbar,4 km,20241126
+09:00,7 °C,Rain. Overcast.,15 km/h,↑,73%,1018 mbar,6 km,20241126
+12:00,8 °C,Partly sunny.,22 km/h,↑,65%,1018 mbar,10 km,20241126
+15:00,10 °C,Partly sunny.,26 km/h,↑,59%,1018 mbar,10 km,20241126
+18:00,8 °C,Passing clouds.,19 km/h,↑,72%,1020 mbar,8 km,20241126
+21:00,6 °C,Passing clouds.,7 km/h,↑,80%,1022 mbar,10 km,20241126
+"00:00Wed, 27 Nov",6 °C,Clear.,No wind,↑,79%,1022 mbar,10 km,20241127
+03:00,4 °C,Clear.,No wind,↑,78%,1022 mbar,10 km,20241127
+06:00,5 °C,Passing clouds.,6 km/h,↑,82%,1022 mbar,10 km,20241127
+09:00,8 °C,Partly sunny.,7 km/h,↑,73%,1024 mbar,7 km,20241127
+12:00,12 °C,Haze.,6 km/h,↑,55%,1023 mbar,10 km,20241127
+15:00,13 °C,Overcast.,13 km/h,↑,55%,1022 mbar,7 km,20241127
+18:00,10 °C,Overcast.,15 km/h,↑,67%,1024 mbar,7 km,20241127
+21:00,11 °C,Overcast.,7 km/h,↑,67%,1024 mbar,10 km,20241127
+"00:00Thu, 28 Nov",11 °C,Overcast.,13 km/h,↑,69%,1024 mbar,10 km,20241128
+03:00,10 °C,Overcast.,11 km/h,↑,78%,1023 mbar,10 km,20241128
+06:00,10 °C,Fog.,11 km/h,↑,85%,1024 mbar,8 km,20241128
+09:00,10 °C,Sunny.,2 km/h,↑,87%,1025 mbar,3 km,20241128
+15:00,16 °C,Partly sunny.,15 km/h,↑,55%,1022 mbar,5 km,20241128
+21:00,13 °C,Passing clouds.,7 km/h,↑,69%,1023 mbar,5 km,20241128
+"00:00Fri, 29 Nov",11 °C,Passing clouds.,9 km/h,↑,81%,1023 mbar,5 km,20241129
+03:00,10 °C,Fog.,7 km/h,↑,83%,1022 mbar,4 km,20241129
+06:00,10 °C,Fog.,No wind,↑,86%,1022 mbar,4 km,20241129
+09:00,11 °C,Overcast.,6 km/h,↑,79%,1023 mbar,4 km,20241129
+12:00,15 °C,Overcast.,6 km/h,↑,53%,1022 mbar,7 km,20241129
+15:00,17 °C,Partly sunny.,7 km/h,↑,44%,1021 mbar,7 km,20241129
+18:00,15 °C,Overcast.,7 km/h,↑,67%,1022 mbar,7 km,20241129
+21:00,13 °C,Passing clouds.,6 km/h,↑,74%,1023 mbar,10 km,20241129
+"00:00Sat, 30 Nov",11 °C,Clear.,4 km/h,↑,91%,1022 mbar,10 km,20241130
+03:00,9 °C,Clear.,4 km/h,↑,95%,1022 mbar,10 km,20241130
+06:00,8 °C,Dense fog.,4 km/h,↑,100%,1023 mbar,0 km,20241130
+09:00,9 °C,Fog.,No wind,↑,95%,1024 mbar,1 km,20241130
+12:00,14 °C,Sunny.,6 km/h,↑,49%,1023 mbar,8 km,20241130
+15:00,17 °C,Sunny.,7 km/h,↑,42%,1021 mbar,5 km,20241130
+18:00,13 °C,Haze.,6 km/h,↑,50%,1022 mbar,7 km,20241130
+21:00,10 °C,Clear.,4 km/h,↑,64%,1023 mbar,8 km,20241130
+"00:00Sun, 1 Dec",9 °C,Clear.,6 km/h,↑,65%,1023 mbar,8 km,20241201
+03:00,8 °C,Clear.,No wind,↑,76%,1021 mbar,5 km,20241201
+06:00,7 °C,Clear.,6 km/h,↑,80%,1022 mbar,4 km,20241201
+09:00,10 °C,Sunny.,No wind,↑,69%,1022 mbar,3 km,20241201
+12:00,14 °C,Sunny.,7 km/h,↑,50%,1021 mbar,5 km,20241201
+15:00,18 °C,Sunny.,13 km/h,↑,38%,1019 mbar,5 km,20241201
+18:00,14 °C,Clear.,11 km/h,↑,37%,1020 mbar,5 km,20241201
+21:00,11 °C,Clear.,No wind,↑,51%,1021 mbar,7 km,20241201
+"00:00Mon, 2 Dec",9 °C,Clear.,No wind,↑,62%,1020 mbar,5 km,20241202
+03:00,7 °C,Clear.,No wind,↑,75%,1019 mbar,5 km,20241202
+06:00,6 °C,Haze.,No wind,↑,78%,1020 mbar,6 km,20241202
+09:00,8 °C,Partly sunny.,2 km/h,↑,74%,1021 mbar,3 km,20241202
+12:00,14 °C,Haze.,7 km/h,↑,43%,1019 mbar,5 km,20241202
+15:00,17 °C,Sunny.,6 km/h,↑,75%,1017 mbar,6 km,20241202
+18:00,14 °C,Clear.,6 km/h,↑,39%,1017 mbar,4 km,20241202
+21:00,11 °C,Clear.,4 km/h,↑,43%,1018 mbar,5 km,20241202
+"00:00Tue, 3 Dec",9 °C,Clear.,6 km/h,↑,55%,1017 mbar,5 km,20241203
+03:00,8 °C,Clear.,4 km/h,↑,53%,1017 mbar,5 km,20241203
+06:00,6 °C,Clear.,No wind,↑,69%,1017 mbar,5 km,20241203
+09:00,9 °C,Sunny.,No wind,↑,55%,1018 mbar,4 km,20241203
+12:00,14 °C,Sunny.,9 km/h,↑,34%,1017 mbar,6 km,20241203
+15:00,17 °C,Sunny.,6 km/h,↑,31%,1016 mbar,5 km,20241203
+18:00,14 °C,Haze.,7 km/h,↑,40%,1017 mbar,5 km,20241203
+"00:00Wed, 4 Dec",10 °C,Clear.,No wind,↑,58%,1018 mbar,5 km,20241204
+03:00,8 °C,Clear.,6 km/h,↑,95%,1018 mbar,5 km,20241204
+06:00,7 °C,Clear.,6 km/h,↑,70%,1019 mbar,4 km,20241204
+12:00,16 °C,Haze.,N/A,↑,49%,1019 mbar,6 km,20241204
+15:00,17 °C,Haze.,15 km/h,↑,33%,1018 mbar,6 km,20241204
+18:00,14 °C,Haze.,11 km/h,↑,51%,1020 mbar,7 km,20241204
+21:00,11 °C,Clear.,4 km/h,↑,67%,1021 mbar,5 km,20241204
+"00:00Thu, 5 Dec",10 °C,Clear.,6 km/h,↑,73%,1020 mbar,5 km,20241205
+03:00,8 °C,Clear.,No wind,↑,82%,1020 mbar,4 km,20241205
+09:00,9 °C,Passing clouds.,13 km/h,↑,77%,1022 mbar,3 km,20241205
+12:00,16 °C,Sunny.,7 km/h,↑,50%,1021 mbar,7 km,20241205
+15:00,19 °C,Haze.,4 km/h,↑,38%,1019 mbar,8 km,20241205
+18:00,14 °C,Haze.,6 km/h,↑,47%,1021 mbar,8 km,20241205
+21:00,12 °C,Clear.,No wind,↑,47%,1022 mbar,8 km,20241205
+"00:00Fri, 6 Dec",10 °C,Clear.,No wind,↑,57%,1022 mbar,8 km,20241206
+03:00,8 °C,Clear.,No wind,↑,63%,1022 mbar,8 km,20241206
+06:00,10 °C,Clear.,15 km/h,↑,46%,1022 mbar,5 km,20241206
+09:00,10 °C,Haze.,9 km/h,↑,52%,1023 mbar,6 km,20241206
+12:00,14 °C,Haze.,17 km/h,↑,34%,1022 mbar,5 km,20241206
+15:00,18 °C,Haze.,15 km/h,↑,31%,1020 mbar,5 km,20241206
+18:00,15 °C,Passing clouds.,11 km/h,↑,40%,1020 mbar,5 km,20241206
+21:00,14 °C,Passing clouds.,9 km/h,↑,46%,1022 mbar,4 km,20241206
+"00:00Sat, 7 Dec",13 °C,Passing clouds.,20 km/h,↑,46%,1022 mbar,6 km,20241207
+03:00,11 °C,Clear.,6 km/h,↑,47%,1021 mbar,10 km,20241207
+06:00,8 °C,Clear.,No wind,↑,54%,1022 mbar,10 km,20241207
+09:00,10 °C,Overcast.,4 km/h,↑,47%,1022 mbar,5 km,20241207
+12:00,14 °C,Overcast.,9 km/h,↑,36%,1020 mbar,5 km,20241207
+15:00,17 °C,Overcast.,9 km/h,↑,32%,1020 mbar,5 km,20241207
+21:00,12 °C,Overcast.,4 km/h,↑,49%,1021 mbar,4 km,20241207
+"00:00Sun, 8 Dec",11 °C,Overcast.,2 km/h,↑,55%,1020 mbar,4 km,20241208
+03:00,10 °C,Passing clouds.,6 km/h,↑,59%,1019 mbar,5 km,20241208
+06:00,9 °C,Passing clouds.,6 km/h,↑,63%,1019 mbar,5 km,20241208
+09:00,11 °C,Overcast.,7 km/h,↑,57%,1021 mbar,3 km,20241208
+12:00,16 °C,Overcast.,15 km/h,↑,48%,1020 mbar,5 km,20241208
+15:00,17 °C,Partly sunny.,22 km/h,↑,46%,1020 mbar,7 km,20241208
+21:00,12 °C,Clear.,6 km/h,↑,84%,1024 mbar,7 km,20241208
+"00:00Mon, 9 Dec",10 °C,Clear.,No wind,↑,82%,1024 mbar,6 km,20241209
+03:00,9 °C,Clear.,No wind,↑,75%,1024 mbar,6 km,20241209
+09:00,9 °C,Sunny.,4 km/h,↑,75%,1027 mbar,4 km,20241209
+12:00,16 °C,Haze.,7 km/h,↑,43%,1026 mbar,8 km,20241209
+15:00,18 °C,Partly sunny.,7 km/h,↑,35%,1024 mbar,6 km,20241209
+18:00,15 °C,Passing clouds.,6 km/h,↑,43%,1026 mbar,5 km,20241209
+21:00,11 °C,Clear.,4 km/h,↑,52%,1027 mbar,8 km,20241209
+"00:00Tue, 10 Dec",10 °C,Clear.,6 km/h,↑,61%,1026 mbar,8 km,20241210
+03:00,9 °C,Clear.,No wind,↑,62%,1025 mbar,7 km,20241210
+06:00,7 °C,Clear.,2 km/h,↑,70%,1025 mbar,6 km,20241210
+09:00,9 °C,Partly sunny.,7 km/h,↑,67%,1026 mbar,4 km,20241210
+12:00,17 °C,Overcast.,13 km/h,↑,36%,1025 mbar,5 km,20241210
+15:00,17 °C,Overcast.,9 km/h,↑,34%,1023 mbar,6 km,20241210
+18:00,15 °C,Passing clouds.,7 km/h,↑,40%,1024 mbar,7 km,20241210
+21:00,13 °C,Clear.,9 km/h,↑,44%,1025 mbar,8 km,20241210
+"00:00Wed, 11 Dec",13 °C,Clear.,7 km/h,↑,47%,1024 mbar,8 km,20241211
+03:00,12 °C,Clear.,6 km/h,↑,46%,1022 mbar,8 km,20241211
+06:00,8 °C,Clear.,6 km/h,↑,59%,1023 mbar,6 km,20241211
+09:00,8 °C,Overcast.,No wind,↑,63%,1024 mbar,4 km,20241211
+12:00,14 °C,Scattered clouds.,9 km/h,↑,39%,1023 mbar,5 km,20241211
+15:00,18 °C,Overcast.,7 km/h,↑,33%,1020 mbar,5 km,20241211
+18:00,16 °C,Passing clouds.,4 km/h,↑,42%,1021 mbar,5 km,20241211
+21:00,12 °C,Passing clouds.,6 km/h,↑,55%,1022 mbar,4 km,20241211
+"00:00Thu, 12 Dec",11 °C,Passing clouds.,No wind,↑,61%,1021 mbar,5 km,20241212
+03:00,10 °C,Fog.,No wind,↑,68%,1019 mbar,8 km,20241212
+06:00,11 °C,Passing clouds.,No wind,↑,56%,1019 mbar,8 km,20241212
+09:00,13 °C,Partly sunny.,No wind,↑,50%,1020 mbar,4 km,20241212
+12:00,18 °C,Scattered clouds.,6 km/h,↑,34%,1018 mbar,7 km,20241212
+15:00,19 °C,Scattered clouds.,13 km/h,↑,30%,1017 mbar,7 km,20241212
+18:00,15 °C,Overcast.,11 km/h,↑,68%,1019 mbar,5 km,20241212
+21:00,13 °C,Passing clouds.,19 km/h,↑,67%,1021 mbar,8 km,20241212
+"00:00Fri, 13 Dec",13 °C,Passing clouds.,17 km/h,↑,80%,1021 mbar,7 km,20241213
+03:00,13 °C,Passing clouds.,17 km/h,↑,78%,1017 mbar,6 km,20241213
+06:00,12 °C,Overcast.,15 km/h,↑,77%,1017 mbar,10 km,20241213
+09:00,12 °C,Scattered clouds.,13 km/h,↑,69%,1020 mbar,10 km,20241213
+12:00,15 °C,Partly sunny.,17 km/h,↑,49%,1020 mbar,10 km,20241213
+15:00,15 °C,Partly sunny.,19 km/h,↑,45%,1018 mbar,10 km,20241213
+18:00,13 °C,Passing clouds.,17 km/h,↑,52%,1019 mbar,6 km,20241213
+21:00,11 °C,Passing clouds.,9 km/h,↑,72%,1021 mbar,10 km,20241213
+"00:00Sat, 14 Dec",10 °C,Passing clouds.,No wind,↑,65%,1021 mbar,10 km,20241214
+03:00,8 °C,Clear.,No wind,↑,72%,1021 mbar,10 km,20241214
+06:00,8 °C,Passing clouds.,No wind,↑,72%,1023 mbar,10 km,20241214
+09:00,9 °C,Scattered clouds.,No wind,↑,70%,1025 mbar,10 km,20241214
+12:00,13 °C,Passing clouds.,6 km/h,↑,47%,1025 mbar,10 km,20241214
+15:00,14 °C,Haze.,6 km/h,↑,45%,1024 mbar,7 km,20241214
+18:00,12 °C,Haze.,4 km/h,↑,49%,1026 mbar,6 km,20241214
+21:00,10 °C,Clear.,6 km/h,↑,44%,1028 mbar,10 km,20241214
+"00:00Sun, 15 Dec",9 °C,Clear.,6 km/h,↑,44%,1028 mbar,10 km,20241215
+03:00,7 °C,Passing clouds.,7 km/h,↑,47%,1028 mbar,10 km,20241215
+06:00,6 °C,Clear.,6 km/h,↑,57%,1029 mbar,5 km,20241215
+09:00,7 °C,Sunny.,13 km/h,↑,33%,1030 mbar,6 km,20241215
+12:00,12 °C,Sunny.,20 km/h,↑,22%,1029 mbar,8 km,20241215
+15:00,16 °C,Haze.,15 km/h,↑,22%,1026 mbar,7 km,20241215
+18:00,13 °C,Passing clouds.,7 km/h,↑,21%,1027 mbar,7 km,20241215
+21:00,8 °C,Haze.,7 km/h,↑,34%,1028 mbar,6 km,20241215
+"00:00Mon, 16 Dec",8 °C,Clear.,7 km/h,↑,37%,1027 mbar,7 km,20241216
+03:00,7 °C,Clear.,11 km/h,↑,40%,1026 mbar,7 km,20241216
+06:00,3 °C,Clear.,6 km/h,↑,38%,1026 mbar,7 km,20241216
+09:00,3 °C,Sunny.,7 km/h,↑,43%,1028 mbar,4 km,20241216
+12:00,9 °C,Sunny.,9 km/h,↑,28%,1026 mbar,6 km,20241216
+15:00,14 °C,Sunny.,9 km/h,↑,21%,1024 mbar,6 km,20241216
+18:00,11 °C,Haze.,No wind,↑,30%,1024 mbar,4 km,20241216
+21:00,8 °C,Passing clouds.,4 km/h,↑,37%,1026 mbar,5 km,20241216
+"00:00Tue, 17 Dec",8 °C,Clear.,4 km/h,↑,47%,1026 mbar,5 km,20241217
+03:00,6 °C,Clear.,6 km/h,↑,68%,1024 mbar,5 km,20241217
+06:00,6 °C,Clear.,2 km/h,↑,85%,1024 mbar,5 km,20241217
+09:00,7 °C,Passing clouds.,No wind,↑,86%,1026 mbar,4 km,20241217
+12:00,13 °C,Sunny.,11 km/h,↑,48%,1026 mbar,5 km,20241217
+15:00,15 °C,Sunny.,7 km/h,↑,47%,1024 mbar,6 km,20241217
+18:00,13 °C,Haze.,7 km/h,↑,51%,1025 mbar,7 km,20241217
+21:00,10 °C,Clear.,4 km/h,↑,43%,1026 mbar,7 km,20241217
+"00:00Wed, 18 Dec",8 °C,Clear.,No wind,↑,52%,1025 mbar,7 km,20241218
+03:00,6 °C,Clear.,6 km/h,↑,42%,1024 mbar,6 km,20241218
+06:00,5 °C,Clear.,4 km/h,↑,44%,1024 mbar,8 km,20241218
+09:00,6 °C,Passing clouds.,No wind,↑,37%,1025 mbar,4 km,20241218
+12:00,12 °C,Haze.,9 km/h,↑,19%,1024 mbar,5 km,20241218
+15:00,17 °C,Haze.,11 km/h,↑,18%,1021 mbar,8 km,20241218
+18:00,12 °C,Clear.,7 km/h,↑,26%,1022 mbar,7 km,20241218
+21:00,10 °C,Clear.,6 km/h,↑,28%,1023 mbar,8 km,20241218
+"00:00Thu, 19 Dec",10 °C,Passing clouds.,7 km/h,↑,26%,1021 mbar,8 km,20241219
+03:00,6 °C,Clear.,4 km/h,↑,44%,1020 mbar,8 km,20241219
+06:00,4 °C,Passing clouds.,6 km/h,↑,42%,1021 mbar,8 km,20241219
+09:00,6 °C,Sunny.,6 km/h,↑,31%,1021 mbar,7 km,20241219
+12:00,13 °C,Sunny.,13 km/h,↑,14%,1018 mbar,7 km,20241219
+15:00,16 °C,Sunny.,13 km/h,↑,13%,1016 mbar,10 km,20241219
+18:00,13 °C,Clear.,7 km/h,↑,18%,1016 mbar,10 km,20241219
+21:00,12 °C,Overcast.,No wind,↑,23%,1015 mbar,3 km,20241219
+"00:00Fri, 20 Dec",12 °C,Passing clouds.,6 km/h,↑,27%,1013 mbar,3 km,20241220
+03:00,11 °C,Passing clouds.,7 km/h,↑,32%,1012 mbar,4 km,20241220
+06:00,10 °C,Passing clouds.,9 km/h,↑,36%,1013 mbar,5 km,20241220
+09:00,11 °C,Overcast.,15 km/h,↑,71%,1014 mbar,5 km,20241220
+12:00,10 °C,Light rain. Overcast.,15 km/h,↑,88%,1015 mbar,3 km,20241220
+15:00,10 °C,Scattered clouds.,26 km/h,↑,88%,1015 mbar,6 km,20241220
+18:00,10 °C,Passing clouds.,20 km/h,↑,83%,1017 mbar,4 km,20241220
+21:00,10 °C,Fog.,9 km/h,↑,87%,1019 mbar,4 km,20241220
+"00:00Sat, 21 Dec",10 °C,Fog.,13 km/h,↑,86%,1020 mbar,5 km,20241221
+03:00,10 °C,Fog.,9 km/h,↑,82%,1021 mbar,5 km,20241221
+06:00,9 °C,Fog.,11 km/h,↑,87%,1021 mbar,5 km,20241221
+09:00,10 °C,Fog.,13 km/h,↑,85%,1023 mbar,4 km,20241221
+12:00,14 °C,Haze.,17 km/h,↑,62%,1022 mbar,8 km,20241221
+15:00,15 °C,Partly sunny.,15 km/h,↑,62%,1022 mbar,5 km,20241221
+18:00,12 °C,Overcast.,19 km/h,↑,79%,1023 mbar,4 km,20241221
+21:00,12 °C,Overcast.,6 km/h,↑,77%,1024 mbar,6 km,20241221
+"00:00Sun, 22 Dec",11 °C,Passing clouds.,13 km/h,↑,84%,1023 mbar,6 km,20241222
+03:00,10 °C,Passing clouds.,9 km/h,↑,76%,1021 mbar,5 km,20241222
+06:00,9 °C,Fog.,6 km/h,↑,90%,1022 mbar,5 km,20241222
+09:00,10 °C,Scattered clouds.,11 km/h,↑,83%,1022 mbar,5 km,20241222
+12:00,14 °C,Overcast.,11 km/h,↑,60%,1022 mbar,5 km,20241222
+15:00,16 °C,Scattered clouds.,17 km/h,↑,34%,1019 mbar,6 km,20241222
+18:00,14 °C,Passing clouds.,9 km/h,↑,47%,1020 mbar,6 km,20241222
+21:00,11 °C,Clear.,6 km/h,↑,70%,1021 mbar,7 km,20241222
+"00:00Mon, 23 Dec",8 °C,Clear.,6 km/h,↑,82%,1020 mbar,4 km,20241223
+03:00,7 °C,Fog.,No wind,↑,81%,1018 mbar,3 km,20241223
+06:00,7 °C,Fog.,No wind,↑,92%,1018 mbar,2 km,20241223
+09:00,7 °C,Fog.,6 km/h,↑,91%,1018 mbar,2 km,20241223
+12:00,16 °C,Haze.,11 km/h,↑,29%,1016 mbar,10 km,20241223
+15:00,19 °C,Sunny.,9 km/h,↑,19%,1013 mbar,10 km,20241223
+18:00,14 °C,Haze.,17 km/h,↑,34%,1015 mbar,8 km,20241223
+21:00,11 °C,Passing clouds.,13 km/h,↑,59%,1017 mbar,6 km,20241223
+"00:00Tue, 24 Dec",11 °C,Passing clouds.,13 km/h,↑,70%,1016 mbar,6 km,20241224
+03:00,10 °C,Passing clouds.,6 km/h,↑,75%,1016 mbar,6 km,20241224
+06:00,9 °C,Haze.,13 km/h,↑,80%,1017 mbar,5 km,20241224
+09:00,10 °C,Haze.,7 km/h,↑,72%,1019 mbar,5 km,20241224
+12:00,15 °C,Haze.,11 km/h,↑,46%,1019 mbar,8 km,20241224
+15:00,16 °C,Haze.,7 km/h,↑,36%,1017 mbar,8 km,20241224
+18:00,14 °C,Clear.,No wind,↑,54%,1019 mbar,4 km,20241224
+21:00,12 °C,Clear.,11 km/h,↑,49%,1020 mbar,5 km,20241224
+"00:00Wed, 25 Dec",11 °C,Clear.,11 km/h,↑,52%,1019 mbar,7 km,20241225
+03:00,10 °C,Clear.,7 km/h,↑,51%,1019 mbar,7 km,20241225
+06:00,9 °C,Clear.,11 km/h,↑,53%,1018 mbar,7 km,20241225
+09:00,6 °C,Sunny.,4 km/h,↑,72%,1020 mbar,4 km,20241225
+12:00,16 °C,Sunny.,9 km/h,↑,34%,1018 mbar,10 km,20241225
+15:00,18 °C,Sunny.,17 km/h,↑,24%,1014 mbar,8 km,20241225
+18:00,17 °C,Clear.,6 km/h,↑,23%,1014 mbar,5 km,20241225
+21:00,12 °C,Clear.,7 km/h,↑,41%,1016 mbar,10 km,20241225
+"00:00Thu, 26 Dec",10 °C,Clear.,6 km/h,↑,51%,1016 mbar,10 km,20241226
+03:00,8 °C,Clear.,No wind,↑,57%,1016 mbar,7 km,20241226
+06:00,8 °C,Clear.,6 km/h,↑,58%,1016 mbar,7 km,20241226
+09:00,10 °C,Passing clouds.,7 km/h,↑,50%,1018 mbar,4 km,20241226
+12:00,14 °C,Scattered clouds.,11 km/h,↑,53%,1018 mbar,5 km,20241226
+15:00,15 °C,Scattered clouds.,13 km/h,↑,33%,1016 mbar,5 km,20241226
+18:00,13 °C,Overcast.,9 km/h,↑,41%,1017 mbar,5 km,20241226
+21:00,12 °C,Overcast.,No wind,↑,50%,1017 mbar,7 km,20241226
+"00:00Fri, 27 Dec",10 °C,Overcast.,No wind,↑,64%,1016 mbar,5 km,20241227
+06:00,10 °C,Overcast.,15 km/h,↑,65%,1014 mbar,4 km,20241227
+09:00,8 °C,Partly sunny.,7 km/h,↑,62%,1016 mbar,5 km,20241227
+12:00,10 °C,Partly sunny.,30 km/h,↑,40%,1015 mbar,7 km,20241227
+15:00,11 °C,Sunny.,30 km/h,↑,32%,1014 mbar,5 km,20241227
+18:00,9 °C,Passing clouds.,28 km/h,↑,37%,1015 mbar,4 km,20241227
+21:00,9 °C,Passing clouds.,28 km/h,↑,35%,1016 mbar,5 km,20241227
+"00:00Sat, 28 Dec",9 °C,Overcast.,28 km/h,↑,39%,1017 mbar,4 km,20241228
+03:00,8 °C,Overcast.,20 km/h,↑,51%,1017 mbar,5 km,20241228
+06:00,8 °C,Overcast.,15 km/h,↑,54%,1018 mbar,6 km,20241228
+09:00,8 °C,Partly sunny.,24 km/h,↑,61%,1020 mbar,5 km,20241228
+12:00,11 °C,Partly sunny.,30 km/h,↑,54%,1020 mbar,5 km,20241228
+15:00,11 °C,Overcast.,20 km/h,↑,52%,1020 mbar,5 km,20241228
+18:00,10 °C,Passing clouds.,15 km/h,↑,55%,1021 mbar,5 km,20241228
+21:00,8 °C,Passing clouds.,6 km/h,↑,69%,1022 mbar,5 km,20241228
+"00:00Sun, 29 Dec",7 °C,Clear.,No wind,↑,75%,1022 mbar,5 km,20241229
+03:00,6 °C,Clear.,No wind,↑,82%,1022 mbar,5 km,20241229
+06:00,7 °C,Clear.,9 km/h,↑,69%,1022 mbar,5 km,20241229
+09:00,8 °C,Haze.,13 km/h,↑,66%,1023 mbar,5 km,20241229
+12:00,13 °C,Scattered clouds.,9 km/h,↑,49%,1022 mbar,7 km,20241229
+15:00,13 °C,Scattered clouds.,26 km/h,↑,46%,1020 mbar,8 km,20241229
+18:00,12 °C,Passing clouds.,11 km/h,↑,53%,1021 mbar,10 km,20241229
+21:00,11 °C,Passing clouds.,13 km/h,↑,61%,1022 mbar,6 km,20241229
+"00:00Mon, 30 Dec",10 °C,Passing clouds.,7 km/h,↑,63%,1021 mbar,6 km,20241230
+03:00,10 °C,Passing clouds.,15 km/h,↑,63%,1020 mbar,5 km,20241230
+06:00,8 °C,Light rain. Passing clouds.,7 km/h,↑,87%,1021 mbar,7 km,20241230
+09:00,7 °C,Light rain. Overcast.,15 km/h,↑,89%,1022 mbar,3 km,20241230
+12:00,9 °C,Drizzle. Overcast.,19 km/h,↑,82%,1022 mbar,4 km,20241230
+15:00,10 °C,Overcast.,26 km/h,↑,68%,1020 mbar,6 km,20241230
+18:00,8 °C,Passing clouds.,19 km/h,↑,81%,1022 mbar,5 km,20241230
+21:00,7 °C,Fog.,9 km/h,↑,86%,1022 mbar,5 km,20241230
+"00:00Tue, 31 Dec",7 °C,Light rain. Overcast.,No wind,↑,89%,1022 mbar,7 km,20241231
+03:00,5 °C,Heavy rain. Overcast.,7 km/h,↑,94%,1022 mbar,2 km,20241231
+06:00,6 °C,Rain showers. Overcast.,20 km/h,↑,88%,1022 mbar,2 km,20241231
+09:00,6 °C,Sprinkles. Overcast.,13 km/h,↑,90%,1023 mbar,4 km,20241231
+12:00,8 °C,Light rain. Overcast.,19 km/h,↑,68%,1023 mbar,6 km,20241231
+15:00,8 °C,Drizzle. Overcast.,22 km/h,↑,87%,1023 mbar,4 km,20241231
+18:00,8 °C,Light rain. Overcast.,11 km/h,↑,87%,1024 mbar,3 km,20241231
+21:00,7 °C,Fog.,4 km/h,↑,89%,1026 mbar,5 km,20241231
