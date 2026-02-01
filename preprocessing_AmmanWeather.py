@@ -2,8 +2,8 @@ import pandas as pd
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.preprocessing import StandardScaler
 
-data2025=pd.read_csv('C:/Users/User/Documents/Projects/DE_Final_project/scrabed_data.csv')
-data2024=pd.read_csv('C:/Users/User/Documents/Projects/DE_Final_project/scrabed_data_test.csv')
+data2025=pd.read_csv('scrabed_data.csv')
+data2024=pd.read_csv('scrabed_data_test.csv')
 ###
 def handling_time_col(data):
     # handling time column
@@ -180,8 +180,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-dataO2025=pd.read_csv('C:/Users/User/Documents/Projects/DE_Final_project/scrabed_data.csv')
-dataO2024=pd.read_csv('C:/Users/User/Documents/Projects/DE_Final_project/scrabed_data_test.csv')
+dataO2025=pd.read_csv('scrabed_data.csv')
+dataO2024=pd.read_csv('scrabed_data_test.csv')
 Data=pd.concat([data2024,data2025])
 a = st.sidebar.radio("Select one:", ["opening bar","Data collecting","Data  preprocessing"])
 if a=="opening bar":
@@ -314,3 +314,4 @@ The Solution: After removing the "km" text, we kept the outliers (low visibility
         ax.set_title("Features Correlation Matrix")
         st.write(" ### Correlations Between Weather Features")
         st.pyplot(fig)
+
